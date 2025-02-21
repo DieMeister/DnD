@@ -1,3 +1,6 @@
+- [[Akedama]]
+- Avyth
+- Cethem
 - [[Changeling]]
 - [[Darius]]
 - [[Enya]]
@@ -6,15 +9,28 @@
 - [[Fryderyk]] (Ryk)
 - [[Grashk]]
 - [[Jadzia]]
+- Kayttz
 - [[Kazkra]]
 - [[Kem]]
 - [[Kiranit]]
 - [[Kinstein]]
+- Koreth
+- Meavith
+- Meceth
+- Mekayttz
+- Mestav
+- Moreth
 - [[Nuriel]]
 - [[Prashtir]]
 - [[Siath]]
+- Stav
 - [[Terim]]
 - [[Sivyl]]
 - [[Uthlin]]
 - [[Verekir]]
+- Ynavith
+- Ynceth
+- Ynkayttz
+- Ynkhoreth
+- Ynstav
 - [[Zuza]]

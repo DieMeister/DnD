@@ -44,6 +44,7 @@
 - [ ] Infos aus GoogleDoc herausarbeiten
 - [ ] Keywords abarbeiten
 - [ ] WENN ERLAUBT: neue map hinzufügen
-- [x] Ordner für wiederholbare Events wie Rituale oder Prozesse erstellen
+- [ ] Links auf Vollständigkeit überprüfen
+- [ ] Tags auf Vollständigkeit überprüfen
 # General
 - [ ] Anarchie verstehen
