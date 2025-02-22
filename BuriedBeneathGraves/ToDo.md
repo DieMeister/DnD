@@ -37,6 +37,8 @@
 - [ ] add Classes
 - [ ] add Spells
 - [x] add Races
+## Logik
+- [ ] Sky fragen, warum ich 8 statt 5 Zauber habe
 # Obsidian
 - [x] create start page with general infos
 - [x] strukturiere [[Notes]]

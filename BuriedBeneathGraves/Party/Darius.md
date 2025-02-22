@@ -21,6 +21,10 @@ Er ist in [[Verekir]] geboren und aufgewachsen, seine [[Mutter]] starb allerding
 		- [[#Exekutive]]
 		- [[#Judikative]]
 - [[#Ziele]]
+	- [[#langfristig]]
+	- [[#kurzfristig]]
+- [[#Besitz]]
+- [[#Zauber]]
 # Backstory
 [[Darius]] wächst in [[Verekir]] bei seinem [[Darius' Vater|Vater]] auf, seine [[Mutter]] stirbt kurz nach seiner Geburt an einer Krankheit. Während seiner Kindheit ist [[Blutskrieg|Krieg]], [[Verekir]] ist aber nicht in Kämpfe verwickelt und seine Kindheit verläuft entsprechend normal, die Situation trägt aber erheblich zu seiner Radikalisierung bei.  
 Als Teenager engagiert er sich zunehmend politisch und sucht vermehrt den Kontakt zu einflussreichen Personen, um die Gesellschaft nach dem Krieg nach seiner Vorstellung formen zu können, wobei auch eine Brieffreundschaft zu [[Terim]] entsteht. Durch seinen Aktivismus und seine politische Position kommt es zwischen ihm und seinem [[Darius' Vater|Vater]] immer wieder zu Streit. Der Rest der Familie probiert sich größtenteils rauszuhalten.  
@@ -88,3 +92,47 @@ Danach will er seinen Staat vertreten und beispielsweise als Botschafter arbeite
 Pläne für eine Familie oder ähnliches gibt es nicht.
 ## kurzfristig
 Zum erreichen seiner Ziele will [[Darius]] alle größeren Städte des Landes besuchen und die (ehemaligen) Herrscher sowie einflussreiche Personen dort von seiner Idee überzeugen, wenn möglich auch in [[Meluzan]]. Eine Reihenfolge hat er sich noch nicht überlegt.
+# Besitz
+| Name                                  | Anzahl | Typ                  | Wert pro Stück |
+| ------------------------------------- | ------ | -------------------- | -------------- |
+| Goldmünzen                            | 42     | Währung              | 1GM            |
+| [[Dolch]]                             | 1      | Kampf                |                |
+| [[Lederrüstung]]                      | 1      | Ausrüstung           |                |
+| Verkleidungsausrüstung                | 1      | Ausrüstung           |                |
+| Truhe                                 | 1      | Diplomatenausrüstung |                |
+| Behälter für Karten und Schriftrollen | 2      | Diplomatenausrüstung |                |
+| feine Kleidung                        | 1      | Diplomatenausrüstung |                |
+| Flasche Tinte                         | 1      | Diplomatenausrüstung |                |
+| Schreibfeder                          | 1      | Diplomatenausrüstung |                |
+| Blatt Papier                          | 5      | Diplomatenausrüstung |                |
+| Phiole Parfüm                         | 1      | Diplomatenausrüstung |                |
+| Siegelwachs                           | 1      | Diplomatenausrüstung |                |
+| Seife                                 | 1      | Diplomatenausrüstung |                |
+| Lampe                                 | 1      | Diplomatenausrüstung |                |
+| Flasche Öl                            | 2      | Diplomatenausrüstung |                |
+| Bolzen                                | 20     | Kampf                |                |
+| [[Siegelring]]                        | 1      | Gegenstand           |                |
+| Flasche Abwas                         | 1      | Nahrung              |                |
+| Citrin                                | 1      | Edelstein            | 50GM           |
+| Zircon                                | 1      | Edelstein            | 50GM           |
+| Cloth of Gold Vestments               | 1      | Kleidung             |                |
+| unbekannter Trank                     | 1      | Trank                |                |
+| Seil                                  | 1      | Ausrüstung           |                |
+| 5 Pfund Silberbarren                  | 1      | Metall               |                |
+| Kuo-Toa-Würfel                        | 1      | Gegenstand           |                |
+| Kuo-Toa-Stab                          | 1      | Gegenstand           |                |
+# Zauber
+| Name                | Typ     | Bekommen |
+| ------------------- | ------- | -------- |
+| Selbstverkleidung   | Firboig | Lvl. 1   |
+| Magie entdecken     | Firboig | Lvl. 1   |
+| Botschaft           | Cantrip | Lvl. 1   |
+| gehässiger Spott    | Cantrip | Lvl. 1   |
+| unsichtbarer Diener | Zauber  | Lvl. 1   |
+| heilendes Wort      | Zauber  | Lvl. 1   |
+| Donnerwoge          | Zauber  | Lvl. 1   |
+| identifizieren      | Zauber  | Lvl. 1   |
+| Vertraute finden    | Zauber  | Lvl. 1   |
+| Federfall           | Zauber  | Lvl. 2   |
+| Schlaf              | Zauber  | Lvl. 2   |
+| Sprachen verstehen  | Zauber  | Lvl. 2   |
