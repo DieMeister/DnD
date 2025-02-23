@@ -1,11 +1,4 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
-# Events
-## Die Sintflut
-- Terim hat Bevölkerung versammeln lassen
-	- Tod von Kem, Darius und Enya wurde verkündet
-	- Zerstörung Grashks als Notwendiges Opfer bezeichnet
-	- Danksagungen an Iskra im Namen Darius', Kems und Enyas
-	- Kem, Darius und Enya hätten sich für Iskra geopfert
 # Items
 ## Amulette
 - Axtkopf ist eins

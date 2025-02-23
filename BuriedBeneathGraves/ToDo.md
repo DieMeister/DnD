@@ -1,12 +1,12 @@
 # Sessions
 
 ## cut Session
-- [ ] [[Session 0]] (Sky)
+- [ ] [[Session 0]]
 - [ ] [[Session 1|Session 1]] (01:26:01)
 - [ ] [[Session 2]] (58:47)
 - [ ] [[Session 3]] (05:32)
 - [x] [[Session 4]] (02:23:05)
-- [ ] [[Session 5]] (13:22)
+- [ ] [[Session 5]] (41:54)
 
 ## get Information
 - [ ] [[Session 0]]
@@ -36,13 +36,15 @@
 - [ ] create NPC who's politically different but [[Darius]] respects
 - [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
 - [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
+- [ ] Namen für Wochentage ausdenken (mit Sky)
 ## General
 - [ ] add Backgrounds
 - [ ] add Classes
 - [ ] add Spells
 - [x] add Races
-## Logik
-- [x] Sky fragen, warum ich 8 statt 5 Zauber habe
+## Character
+- [ ] Spells überarbeiten und fixen
+- [ ] Level up zu Level 3
 # Obsidian
 ## Formatting
 - [x] strukturiere [[Notes]]
@@ -55,7 +57,8 @@
 - [x] create start page with general infos
 - [ ] Infos aus GoogleDoc herausarbeiten
 # Git
-- [x] WENN ERLAUBT: neue map hinzufügen
+# Timeline
+- [ ] put all known events in the timeline
 # General
 - [ ] Anarchie verstehen
-- [ ] Timeline plugin/website/anything finden
+- [x] Timeline plugin/website/anything finden
