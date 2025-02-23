@@ -1,5 +1,6 @@
 [[Warforged]] sind während und für den [[Blutskrieg]] entwickelt worden. Sie sehen sich untereinander als gleichwertig an und haben kein Konkurrenzdenken.  
-Der [[Core]] ist das Herzstück eines [[Warforged]].
+Der [[Core]] ist das Herzstück eines [[Warforged]].  
+Die meisten Warforged sind Analphabeten, da ihre Bildung ausschließlich auf Kriegsführung ausgelegt war.
 # Inhalt
 - [[#Inhalt]]
 - [[#Klassen]]
