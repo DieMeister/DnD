@@ -29,22 +29,21 @@
 - [ ] [[Session 4]]
 - [ ] [[Session 5]]
 # DnD
-## World Building
-- [ ] clear ideology for [[Darius]]
-- [ ] create NPC that is already convinced by [[Darius|Darius's]] ideology
-- [ ] NPC mit grundlegend anderer Vorstellung als [[Darius]], die aber zusammenarbeiten müssen, erstellen
-- [ ] create NPC who's politically different but [[Darius]] respects
-- [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
-- [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
-- [ ] Namen für Wochentage ausdenken (mit Sky)
-## General
+- [ ] World Building
+	- [ ] clear ideology for [[Darius]]
+	- [ ] create NPC that is already convinced by [[Darius|Darius's]] ideology
+	- [ ] NPC mit grundlegend anderer Vorstellung als [[Darius]], die aber zusammenarbeiten müssen, erstellen
+	- [ ] create NPC who's politically different but [[Darius]] respects
+	- [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
+	- [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
+	- [ ] Namen für Wochentage ausdenken (mit Sky)
 - [ ] add Backgrounds
 - [ ] add Classes
 - [ ] add Spells
 - [x] add Races
-## Character
-- [ ] Spells überarbeiten und fixen
-- [ ] Level up zu Level 3
+- [ ] Character
+	- [ ] Spells überarbeiten und fixen
+	- [ ] Level up zu Level 3
 # Obsidian
 ## Formatting
 - [x] strukturiere [[Notes]]
@@ -61,4 +60,3 @@
 - [ ] put all known events in the timeline
 # General
 - [ ] Anarchie verstehen
-- [x] Timeline plugin/website/anything finden
