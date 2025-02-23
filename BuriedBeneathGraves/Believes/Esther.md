@@ -1,1 +1,1 @@
-[[Esther]] ist die am häufigsten vertretene #Religion 
+Esther ist die am häufigsten vertretene [[Religion]].
