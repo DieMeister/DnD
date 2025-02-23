@@ -48,16 +48,6 @@
 ## Gelände zwischen Grashk und Klippe
 - Untergrund wechselt zwischen Wiese, Stein und Wald
 - Sonne scheint früher als in Grashk
-## Grashk
-- teilweise stark zerstört
-	- Schiffe wurden in Stadt gespült
-	- Trockenhafen am stärksten getroffen
-		- kein Steg steht mehr
-		- einige Leichen angespült
-		- manche Schiffe weit aufs Land getragen
-		- Häuser brechen ein
-		- Leute suchen Freunde und Verwandte
-	- verlorener Distrikt halbwegs unversehrt
 ## Hornsingerbar
 - Bar komplett zerstört
 ## Höhle
