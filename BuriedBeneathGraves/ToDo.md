@@ -47,7 +47,8 @@
 - [x] add Races
 
 # Timeline
-- [ ] put all known events in the timeline
+- [ ] obsidian://show-plugin?id=aprils-automatic-timelines
+- [ ] obsidian://show-plugin?id=chronos
 
 # Obsidian
 ## Formatting
