@@ -1,4 +1,4 @@
-- [[Akedama]]
+- [[Akeldama]]
 - Avyth
 - Cethem
 - [[Changeling]]

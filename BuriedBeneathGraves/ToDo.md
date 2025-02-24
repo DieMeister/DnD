@@ -45,32 +45,35 @@
 - [x] add Classes
 - [ ] add Spells
 - [x] add Races
+
+# Timeline
+- [ ] put all known events in the timeline
+
 # Obsidian
 ## Formatting
 - [x] strukturiere [[Notes]]
 - [ ] Infos von [[Notes]] in entsprechende Dateien übertragen
 - [ ] Links auf Vollständigkeit überprüfen
 - [ ] Tags in Links umwandeln
-- [x] rename Sessions [Namen](https://discord.com/channels/1327709537339310292/1342460745081946124/1342974985832108094)
 - [ ] Links GitHub kompatibel machen (`[DisplayName](RelativeFilePath)`)
 	- [x] Believes
 		- [x] [Esther](./Believes/Esther.md)
 		- [x] [Siath](./BElieves/Siath.md)
-	- [ ] Creatures
-		- [ ] [Changeling](./Creatures/Changeling.md)
-		- [ ] [Warforged](./Creatures/Warforged.md)
-	- [ ] Events
-		- [ ] [Blutskrieg](./Events/Blutskrieg.md)
-		- [ ] [die Sintflut](./Events/die%20Sintflut.md)
-		- [ ] [Fest des Letzten Schiffs](./Events/Fest%20des%20Letzten%20Schiffs.md)
-	- [ ] Items
-		- [ ] [Darius's Sketch Book](./Items/Darius's%20Sketch%20Book.md)
-		- [ ] [Dolch](./Items/Dolch.md)
-		- [ ] [Kinstein](./Items/Kinstein.md)
-		- [ ] [Lederrüstung](./Items/Lederrüstung.md)
-		- [ ] [Siegelring](./Items/Siegelring.md)
+	- [x] Creatures
+		- [x] [Changeling](./Creatures/Changeling.md)
+		- [x] [Warforged](./Creatures/Warforged.md)
+	- [x] Events
+		- [x] [Blutskrieg](./Events/Blutskrieg.md)
+		- [x] [die Sintflut](./Events/die%20Sintflut.md)
+		- [x] [Fest des Letzten Schiffs](./Events/Fest%20des%20Letzten%20Schiffs.md)
+	- [x] Items
+		- [x] [Darius's Sketch Book](./Items/Darius's%20Sketch%20Book.md)
+		- [x] [Dolch](./Items/Dolch.md)
+		- [x] [Kinstein](./Items/Kinstein.md)
+		- [x] [Lederrüstung](./Items/Lederrüstung.md)
+		- [x] [Siegelring](./Items/Siegelring.md)
 	- [ ] Locations
-		- [ ] [Camp Recep](./Locations/Camp%20Recep.md)
+		- [x] [Camp Recep](./Locations/Camp%20Recep.md)
 		- [ ] [Grashk](./Locations/Grashk.md)
 		- [ ] [Kiranit](./Locations/Kiranit.md)
 		- [ ] [Sivyl](./Locations/Sivyl.md)
@@ -106,7 +109,6 @@
 ## config
 - [ ] create color for Processes in Graph View
 # Git
-# Timeline
-- [ ] put all known events in the timeline
-# General
-- [ ] Anarchie verstehen
+# Anarchie
+- [ ] wie schützt sich das System vor Feinden des Systems
+- [ ] Was passiert, wenn es zu keinem Kompromiss kommt

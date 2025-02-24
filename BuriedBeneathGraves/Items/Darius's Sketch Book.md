@@ -1,1 +1,1 @@
-[[Darius]] benutzt sein [[Darius's Sketch Book|Sketch Book]] für alle möglichen Notizen und Sketche, er schreibt aber auch seine Ideologie hinein und benutzt es um Zauber auszuführen. Das [[Darius's Sketch Book|Sketch Book]] selbst ist aber ein ganz normales Buch.
+[Darius](../Party/Darius.md) benutzt sein Sketch Book für alle möglichen Notizen und Sketche, er schreibt aber auch seine [Ideologie](../Party/Darius.md#Ideologie) hinein und benutzt es um Zauber auszuführen. Das Sketch Book selbst ist aber ein ganz normales Buch.

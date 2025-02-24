@@ -1,4 +1,16 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
+# Creatures
+# Events
+## Blutskrieg
+- endet mit Akeldama
+
+## Akeldama
+- 02.27nA
+- "fields of blood",
+- nicht aufzuräumendes Schlachtdeld
+- letzter entscheidender Kampf
+	- Askarash gefallen
+
 # Items
 ## Amulette
 - Axtkopf ist eins
@@ -20,31 +32,39 @@
 - lässt sich nicht drehen
 # Locations
 ## Camp Recep
-- Spitznamen teilweise schon aus krieg
+- Spitznamen teilweise schon aus Krieg
 	- werden dann weiter benutzt
 - Existenz wird durch hören-sagen verbreitet
 	- viele Kontakte 
-- zugang zu kreide
-- culture
-	- nummern-zeremonie
-	- shooting contests
-	- repair circles
-	- religious circles
-		- manche lehnen religion ab
-		- manchen verehren Verin (Erschafferin der war forged)
-	- gemeinschaftszelte
-		- konfrontation
-		- auseinandersetzungen
-	- war forge studies
-		- study own anatomy
-		- verbindung zu golems?
-	- political contact & studies
-		- Gemeinsamkeiten mit kudora
-		- neutral bis positive Beziehungen
-- etwa 5 neue im Monat
-- momentan ca. 215 in camp
-- Zwerge haben Nummer 2 & 3
+- Zugang zu kreide
 - vorbereitet auf erneuten Leichenmarsch
+- weiß nicht, warum Warforged verrückt werden
+	- hat mit Core zu tun
+### Geschichte
+- 13nA aufgegeben
+- Zwerge kommen 23nA
+	- Zwerge haben Nummer 2 & 3
+- 25nA Neugründung durch Warforged
+- zum Zeitpunkt Akeldamas etwa 60 im Camp
+	- folgende 3 Monate etwa 90 neue
+	- danach etwa 5 neue im Monat
+	- momentan ca. 215 in camp
+### Kultur
+- nummern-zeremonie
+- shooting contests
+- repair circles
+- religious circles
+	- manche lehnen religion ab
+	- manchen verehren Verin (Erschafferin der war forged)
+- gemeinschaftszelte
+	- konfrontation
+	- auseinandersetzungen
+- war forge studies
+	- study own anatomy
+	- verbindung zu golems?
+- political contact & studies
+	- Gemeinsamkeiten mit kudora
+	- neutral bis positive Beziehungen
 ## Gelände zwischen Grashk und Klippe
 - Untergrund wechselt zwischen Wiese, Stein und Wald
 - Sonne scheint früher als in Grashk
@@ -218,12 +238,17 @@
 - nicht auffindbar
 # Party
 ## Darius 
+- momentan 24
+- Anfang 26nA von zu Hause gegangen
+### Camp Recep
+- 03.26nA Camp entdeckt
+	- war nicht am stück da
 - kennt meisten der war forged aus recep
 	- auch 93
-	- selbst nummer 157
-	- war nicht am stück da
+- bleibt ab 02.27nA länger im camp
+	- bekommt Nummer 157 im 06.27nA
+- verlässt camp nochmal vor campaign beginn
 # Processes
-
 ## Leichenmarsch
 - manifestation der Kraft Sekras falls existent
 - beim Leichenmarsch wird Blut entzogen
