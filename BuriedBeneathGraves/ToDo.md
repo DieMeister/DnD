@@ -111,5 +111,14 @@
 - [ ] create color for Processes in Graph View
 # Git
 # Anarchie
+## Quellen
+- [ ] [Reddit - Anarchy101](https://www.reddit.com/r/Anarchy101/)
+- [ ] [Ruth Kinna - Anarchism: a Beginner's Guide](https://files.libcom.org/files/Anarchism%20-%20A%20Beginners%20Guide%20-%20Kinna,%20Ruth.pdf)
+- [ ] [Peter Gelderloos - Anarchy Works](https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works.pdf)
+- [ ] [Colin Ward - Anarchy in Action](https://files.libcom.org/files/Ward_-_Anarchy_in_Action_3.pdf)
+- [ ] [Errico Malatesta - Anarchy](https://theanarchistlibrary.org/library/errico-malatesta-anarchy.pdf)
+- [ ] [Anarcho, et al. - an Anarchist FAQ](https://www.anarchistfaq.org/afaq/index.html)
+- [x] [YouTube - MrWissen2go - Kann Anarchie funktionieren?](https://www.youtube.com/watch?v=Jt4RJJ3-PqQ)
+## Fragen
 - [ ] wie schützt sich das System vor Feinden des Systems
 - [ ] Was passiert, wenn es zu keinem Kompromiss kommt
