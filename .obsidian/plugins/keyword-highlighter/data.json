@@ -15,6 +15,14 @@
       "fontModifiers": [],
       "showColor": true,
       "showBackgroundColor": true
+    },
+    {
+      "keyword": "NOTSURE",
+      "color": "#1e1e1e",
+      "backgroundColor": "#ffb54d",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
     }
   ]
 }
