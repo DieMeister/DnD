@@ -1,3 +1,3 @@
-[[Terim]] ist der [[Flutbeobachter]] [[Grashk|Grashks]]. Während des [[Blutskrieg|Blutskriegs]] und des [[Massaker von Grashk]] schmuggelte er viele Leute nach [[Uthlin]]. Nach Ende des [[Blutskrieg|Blutskriegs]] nimmt er seine Aufgabe als [[Flutbeobachter]] wieder auf und probiert [[Grashk]] zu neuer Stärke zu führen.
-[[Terim]] hat keine Kinder oder Partner, er fokussiert sich komplett auf das Wohl [[Grashk|Grashks]] und dessen Bewohner.
+Terim ist der [Flutbeobachter](../Ranks/Flutbeobachter.md) [Grashks](../Locations/Grashk.md). Während des [Blutskriegs](../Events/Blutskrieg.md) und des [[Massaker von Grashk]] schmuggelte er viele Leute nach [Uthlin](../Locations/Uthlin.md). Nach Ende des [Blutskriegs](../Events/Blutskrieg.md) nimmt er seine Aufgabe als [Flutbeobachter](../Ranks/Flutbeobachter.md) wieder auf und probiert [Grashk](../Locations/Grashk.md) zu neuer Stärke zu führen.
+Terim hat keine Kinder oder Partner, er fokussiert sich komplett auf das Wohl [Grashks](../Locations/Grashk.md) und dessen Bewohner.
 Er ist eine widerstandsfähige Person mit einem klaren Wertekodex, welcher sich vor allem auf den Schutz der Allgemeinheit bezieht.

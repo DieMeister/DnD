@@ -2,48 +2,45 @@
 references:
   - https://pin.it/6lQicUery
 ---
-[[Darius]] ist ein [[Firbolg]] in seinen Zwanzigern. Er ist ein [[Bard|Barde]] mit der Subclass [[College of Whisper]].  
-Er ist in [[Verekir]] geboren und aufgewachsen, seine [[Mutter]] starb allerdings früh an einer #Krankheit und er wurde nur von seinem [[Vater]] und seiner 3 Jahre älteren [[Schwester]] aufgezogen, mit dem es aufgrund unterschiedlicher politischer Einstellungen immer wieder zu Meinungsverschiedenheiten kommt. Als Teenager radikalisiert er sich immer weiter, bis er sich schließlich komplett dem Aktivismus widmet.
+Darius ist ein [Firbolg](../../Races/Firbolg.md) in seinen Zwanzigern. Er ist ein [Barde](../../Classes/Bard.md) mit der Subclass [[College of Whispers]].  
+Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [[Mutter]] starb allerdings früh an einer [[Krankheit]] und er wurde nur von seinem [[Vater]] und seiner 3 Jahre älteren [[Schwester]] aufgezogen, mit dem es aufgrund unterschiedlicher politischer Einstellungen immer wieder zu Meinungsverschiedenheiten kommt. Als Teenager radikalisiert er sich immer weiter, bis er sich schließlich komplett dem Aktivismus widmet. Auf seinen Reisen lernt er [Fabel](../NPCs/Fabel.md) kenn, ein Eichhörnchen.
 # Inhalt
-- [[#Inhalt]]
-- [[#Backstory]]
-- [[#Aussehen]]
-	- [[#Kleidung]]
-- [[#Persönlichkeit]]
-- [[#Kunst]]
-- [[#Eigentum]]
-- [[#Ideologie]]
-	- [[#Utopie]]
-		- [[#Grundsätzliches]]
-		- [[#Legislative]]
-			- [[#Landesebene]]
-			- [[#weitere Ebenen]]
-		- [[#Exekutive]]
-		- [[#Judikative]]
-- [[#Ziele]]
-	- [[#langfristig]]
-	- [[#kurzfristig]]
-- [[#Besitz]]
-- [[#Zauber]]
+- [Inhalt](./Darius.md#Inhalt)
+- [Backstory](./Darius.md#Backstory)
+- [Aussehen](./Darius.md#Aussehen)
+	- [Kleidung](./Darius.md#Kleidung)
+- [Persönlichkeit](./Darius.md#Persönlichkeit)
+- [Kunst](./Darius.md#Kunst))
+- [Eigentum](./Darius.md#Eigentum)
+- [Ideologie](./Darius.md#Ideologie)
+	- [Utopie](./Darius.md#Utopie)
+		- [Grundsätzliches](./Darius.md#grundsätzliches)
+		- [Legislative](./Darius.md#Legislative)
+			- [Landesebene](./Darius.md#Landesebene)
+			- [weitere Ebenen](./Darius.md#weitere%20Ebenen)
+		- [Exekutive](./Darius.md#Exekutive)
+		- [Judikative](./Darius.md#Judikative)
+- [Ziele](./Darius.md#Ziele)
+	- [langfristig](./Darius.md#langfristig)
+	- [kurzfristig](./Darius.md#kurzfristig)
+- [Besitz](./Darius.md#Besitz)
+- [Zauber](./Darius.md#Zauber)
 # Backstory
-[[Darius]] wächst in [[Verekir]] bei seinem [[Darius' Vater|Vater]] auf, seine [[Mutter]] stirbt kurz nach seiner Geburt an einer Krankheit. Während seiner Kindheit ist [[Blutskrieg|Krieg]], [[Verekir]] ist aber nicht in Kämpfe verwickelt und seine Kindheit verläuft entsprechend normal, die Situation trägt aber erheblich zu seiner Radikalisierung bei.  
-Als Teenager engagiert er sich zunehmend politisch und sucht vermehrt den Kontakt zu einflussreichen Personen, um die Gesellschaft nach dem Krieg nach seiner Vorstellung formen zu können, wobei auch eine Brieffreundschaft zu [[Terim]] entsteht. Durch seinen Aktivismus und seine politische Position kommt es zwischen ihm und seinem [[Darius' Vater|Vater]] immer wieder zu Streit. Der Rest der Familie probiert sich größtenteils rauszuhalten.  
-Mit 22 verlässt [[Darius]] [[Verekir]] um seinen Einfluss weiter zu vergrößern und das Verhältnis zu seinem [[Darius' Vater|Vater]] nicht komplett zu zerstören.
+Darius wächst in [Verekir](../Locations/Verekir.md) bei seinem [Vater](../NPCs/Darius'%20Vater.md) auf, seine [[Mutter]] stirbt kurz nach seiner Geburt an einer Krankheit. Während seiner Kindheit ist gerade der [Blutskrieg](../Events/Blutskrieg.md) , [Verekir](../Locations/Verekir.md) ist aber nicht in Kämpfe verwickelt und seine Kindheit verläuft entsprechend normal, die Situation trägt aber erheblich zu seiner Radikalisierung bei.  
+Als Teenager engagiert er sich zunehmend politisch und sucht vermehrt den Kontakt zu einflussreichen Personen, um die Gesellschaft nach dem [Krieg](../Events/Blutskrieg.md) nach seiner Vorstellung formen zu können, wobei auch eine Brieffreundschaft zu [Terim](../NPCs/Terim.md) entsteht. Durch seinen Aktivismus und seine politische Position kommt es zwischen ihm und seinem [Vater](../NPCs/Darius'%20Vater.md) immer wieder zu Streit. Der Rest der Familie probiert sich größtenteils rauszuhalten.  
+Mit 22 verlässt Darius [Verekir](../Locations/Verekir.md) um seinen Einfluss weiter zu vergrößern und das Verhältnis zu seinem [Vater](../NPCs/Darius'%20Vater.md) nicht komplett zu zerstören.
 # Aussehen
-[[Darius]] ist ein [[Firbolg]] durchschnittlicher Statur mit einer Stupsnase und Kuhohren, Hörner hat er keine. Er hat mittellange, curly Haare, welche ab etwa der Hälfte vom natürlichen Braun in ein gefärbtes Orange übergehen. Er hat zwei kleine Zöpfe, die ihm bis über die Schultern reichen.  
-[[Darius]] trägt als Piercings SnakeBites, AngelFangs und ein Eyebrow #Piercing; Tattoos hat er keine.
+Darius ist ein [Firbolg](../../Races/Firbolg.md) durchschnittlicher Statur mit einer Stupsnase und Kuhohren, Hörner hat er keine. Er hat mittellange, curly Haare, welche ab etwa der Hälfte vom natürlichen Braun in ein gefärbtes Orange übergehen. Er hat zwei kleine Zöpfe, die ihm bis über die Schultern reichen.  
+Darius trägt als Piercings SnakeBites, AngelFangs und ein Eyebrow [[Piercing]]; Tattoos hat er keine.
 ## Kleidung
-Normalerweise trägt [[Darius]] CrustPants mit politischen Patches, am Oberkörper steht dazu im Kontrast vornehmere Kleidung. Er trägt eine Anzugsweste und ein Hemd darunter, wobei die Kleidung trotzdem funktionsfähig ist und keine leicht reißenden Stoffe verwendet werden. Dazu passend hat er festes Schuhwerk, indem auch gerannt werden kann.
+Normalerweise trägt Darius [[CrustPants]] mit politischen Patches, am Oberkörper steht dazu im Kontrast vornehmere Kleidung. Er trägt eine Anzugsweste und ein Hemd darunter, wobei die Kleidung trotzdem funktionsfähig ist und keine leicht reißenden Stoffe verwendet werden. Dazu passend hat er festes Schuhwerk, indem auch gerannt werden kann.
 # Persönlichkeit
-[[Darius]] geht gewalttätigen Auseinandersetzungen so weit möglich aus dem Weg. Er versucht Situationen durch Worte zu lösen und zu seinem Vorteil zu drehen. Auch deshalb verhält er sich zu jeder Person unterschiedlich. Dabei scheut er sich auch nicht davor, andere zu manipulieren oder emotionalem Druck auszusetzen um seine Ziele durchzusetzten. Es kann vorkommen, dass [[Darius]] seltsame Metaphern benutzt oder Fakten zu scheinbar unzusammenhängenden Themen erzählt.
-Seine eigenen Lebenssituation ist [[Darius]] ziemlich egal, wenn es die Situation erfordert würde er fast überall leben. Ähnlich bei seiner Kleidung, sie soll praktisch sein. Gut aussehen ist zweitrangig, wobei seine Kleidung auch einen Teil der Überzeugungskraft mit sich bringt.
+Darius geht gewalttätigen Auseinandersetzungen so weit möglich aus dem Weg. Er versucht Situationen durch Worte zu lösen und zu seinem Vorteil zu drehen. Auch deshalb verhält er sich zu jeder Person unterschiedlich. Dabei scheut er sich auch nicht davor, andere zu manipulieren oder emotionalem Druck auszusetzen um seine Ziele durchzusetzten. Es kann vorkommen, dass Darius seltsame Metaphern benutzt oder Fakten zu scheinbar unzusammenhängenden Themen erzählt.
+Seine eigenen Lebenssituation ist Darius ziemlich egal, wenn es die Situation erfordert würde er fast überall leben. Ähnlich bei seiner Kleidung, sie soll praktisch sein. Gut aussehen ist zweitrangig, wobei seine Kleidung auch einen Teil der Überzeugungskraft mit sich bringt.
 # Kunst
-[[Darius]] hat als Kunstform Zeichnen, Malen und ähnliche Formen der Kunst gewählt. Er kann zwar auch [[Dudelsack]] spielen, tut dies aber nur selten. Auch seine zeichnerischen Fähigkeiten sind für [[Darius]] eher ein Mittel um seine Botschaften zu verbreiten als tatsächliche Kunst, mit der er Geld verdienen will.
-# Eigentum
-- [[Darius's Sketch Book|Sketch Book]]
-- [[Fabel]]
+Darius hat als Kunstform Zeichnen, Malen und ähnliche Formen der Kunst gewählt. Er kann zwar auch [[Dudelsack]] spielen, tut dies aber nur selten. Auch seine zeichnerischen Fähigkeiten sind für Darius eher ein Mittel um seine Botschaften zu verbreiten als tatsächliche Kunst, mit der er Geld verdienen will.
 # Ideologie
-[[Darius]] hat eine klare Vorstellung davon, wie die Welt und vor allem ihre Gesellschaft funktionieren soll und arbeitet darauf zu, seine Vorstellung umzusetzen. 
+Darius hat eine klare Vorstellung davon, wie die Welt und vor allem ihre Gesellschaft funktionieren soll und arbeitet darauf zu, seine Vorstellung umzusetzen. 
 ## Utopie
 Dies ist nur eine Konzeptschrift welche weiterhin ausgearbeitet wird, soll aber als Grundlage für die kommenden Gesetze der von [[Askarash]] ehemals übernommenen Gebiete dienen.
 ### Grundsätzliches
@@ -86,41 +83,41 @@ Jedes Gericht besteht aus mindestens 3 Richtern, die Sitzungen sind, sofern nich
 
 # Ziele
 ## langfristig
-[[Darius]] größtes Ziel ist es, einen Staat nach seinen Vorstellungen aufzubauen. Dafür sieht er einen Zeitraum von etwa einem Jahr für noch realistisch an um das Chaos der Nachkriegszeit nutzen zu können und die dafür wichtigen Personen von seiner Idee zu überzeugen.  
+Darius größtes Ziel ist es, einen Staat nach seinen Vorstellungen aufzubauen. Dafür sieht er einen Zeitraum von etwa einem Jahr für noch realistisch an um das Chaos der Nachkriegszeit nutzen zu können und die dafür wichtigen Personen von seiner Idee zu überzeugen.  
 Wenn seine Vorstellung des Staats etabliert ist will er den Aufbau dessen überwachen.
 Danach will er seinen Staat vertreten und beispielsweise als Botschafter arbeiten.
 Pläne für eine Familie oder ähnliches gibt es nicht.
 ## kurzfristig
-Zum erreichen seiner Ziele will [[Darius]] alle größeren Städte des Landes besuchen und die (ehemaligen) Herrscher sowie einflussreiche Personen dort von seiner Idee überzeugen, wenn möglich auch in [[Meluzan]]. Eine Reihenfolge hat er sich noch nicht überlegt.
+Zum erreichen seiner Ziele will Darius alle größeren Städte des Landes besuchen und die (ehemaligen) Herrscher sowie einflussreiche Personen dort von seiner Idee überzeugen, wenn möglich auch in [[Meluzan]]. Eine Reihenfolge hat er sich noch nicht überlegt.
 # Besitz
-| Name                                  | Anzahl | Typ                  | Wert pro Stück |
-| ------------------------------------- | ------ | -------------------- | -------------- |
-| Goldmünzen                            | 42     | Währung              | 1GM            |
-| [[Dolch]]                             | 1      | Kampf                |                |
-| [[Lederrüstung]]                      | 1      | Ausrüstung           |                |
-| Verkleidungsausrüstung                | 1      | Ausrüstung           |                |
-| Truhe                                 | 1      | Diplomatenausrüstung |                |
-| Behälter für Karten und Schriftrollen | 2      | Diplomatenausrüstung |                |
-| feine Kleidung                        | 1      | Diplomatenausrüstung |                |
-| Flasche Tinte                         | 1      | Diplomatenausrüstung |                |
-| Schreibfeder                          | 1      | Diplomatenausrüstung |                |
-| Blatt Papier                          | 5      | Diplomatenausrüstung |                |
-| Phiole Parfüm                         | 1      | Diplomatenausrüstung |                |
-| Siegelwachs                           | 1      | Diplomatenausrüstung |                |
-| Seife                                 | 1      | Diplomatenausrüstung |                |
-| Lampe                                 | 1      | Diplomatenausrüstung |                |
-| Flasche Öl                            | 2      | Diplomatenausrüstung |                |
-| Bolzen                                | 20     | Kampf                |                |
-| [[Siegelring]]                        | 1      | Gegenstand           |                |
-| Flasche Abwas                         | 1      | Nahrung              |                |
-| Citrin                                | 1      | Edelstein            | 50GM           |
-| Zircon                                | 1      | Edelstein            | 50GM           |
-| Cloth of Gold Vestments               | 1      | Kleidung             |                |
-| unbekannter Trank                     | 1      | Trank                |                |
-| Seil                                  | 1      | Ausrüstung           |                |
-| 5 Pfund Silberbarren                  | 1      | Metall               |                |
-| Kuo-Toa-Würfel                        | 1      | Gegenstand           |                |
-| Kuo-Toa-Stab                          | 1      | Gegenstand           |                |
+| Name                                     | Anzahl | Typ                  | Wert pro Stück |
+| ---------------------------------------- | ------ | -------------------- | -------------- |
+| Goldmünzen                               | 42     | Währung              | 1GM            |
+| [Dolch](../Items/Dolch.md)               | 1      | Kampf                |                |
+| [Lederrüstung](../Items/Lederrüstung.md) | 1      | Ausrüstung           |                |
+| Verkleidungsausrüstung                   | 1      | Ausrüstung           |                |
+| Truhe                                    | 1      | Diplomatenausrüstung |                |
+| Behälter für Karten und Schriftrollen    | 2      | Diplomatenausrüstung |                |
+| feine Kleidung                           | 1      | Diplomatenausrüstung |                |
+| Flasche Tinte                            | 1      | Diplomatenausrüstung |                |
+| Schreibfeder                             | 1      | Diplomatenausrüstung |                |
+| Blatt Papier                             | 5      | Diplomatenausrüstung |                |
+| Phiole Parfüm                            | 1      | Diplomatenausrüstung |                |
+| Siegelwachs                              | 1      | Diplomatenausrüstung |                |
+| Seife                                    | 1      | Diplomatenausrüstung |                |
+| Lampe                                    | 1      | Diplomatenausrüstung |                |
+| Flasche Öl                               | 2      | Diplomatenausrüstung |                |
+| Bolzen                                   | 20     | Kampf                |                |
+| [Siegelring](../Items/Siegelring.md)     | 1      | Gegenstand           |                |
+| Flasche Abwas                            | 1      | Nahrung              |                |
+| Citrin                                   | 1      | Edelstein            | 50GM           |
+| Zircon                                   | 1      | Edelstein            | 50GM           |
+| Cloth of Gold Vestments                  | 1      | Kleidung             |                |
+| unbekannter Trank                        | 1      | Trank                |                |
+| Seil                                     | 1      | Ausrüstung           |                |
+| 5 Pfund Silberbarren                     | 1      | Metall               |                |
+| Kuo-Toa-Würfel                           | 1      | Gegenstand           |                |
+| Kuo-Toa-Stab                             | 1      | Gegenstand           |                |
 # Zauber
 | Name                | Typ     | Bekommen |
 | ------------------- | ------- | -------- |

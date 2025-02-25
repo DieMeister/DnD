@@ -1,9 +1,6 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
 # Creatures
 # Events
-## Blutskrieg
-- endet mit Akeldama
-
 ## Akeldama
 - 02.27nA
 - "fields of blood",
@@ -27,6 +24,9 @@
 ## Rechners Ring
 - kann Gegenstände "einsaugen"
 	- lila Licht scheint
+## Siegelring
+- soll Existenz Grygur Sorthans beweisen
+- hat Darius in Verekir anfertigen lassen
 ## Würfel
 - metallener, lilaner Schimmer
 - lässt sich nicht drehen
@@ -202,6 +202,8 @@
 - Teil von Camp Recep
 - autoritär
 	- will selbst Führung des camps übernehmen
+## Grygur Sorthan
+- von Darius ausgedacht
 ## Iskra
 - Aufenthaltsort unklar
 	- nicht mehr in Grashk
@@ -240,6 +242,10 @@
 ## Darius 
 - momentan 24
 - Anfang 26nA von zu Hause gegangen
+- sieht Warforged als Lebewesen
+- hat Grygur Sorthan ausgedacht
+	- ergänzt Informationen je nachdem was die Situation gerade erfordert
+- Eigentümer des Siegelrings
 ### Camp Recep
 - 03.26nA Camp entdeckt
 	- war nicht am stück da

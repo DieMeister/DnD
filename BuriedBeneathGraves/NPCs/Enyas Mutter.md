@@ -1,2 +1,2 @@
-[[Enyas Mutter]] ist eine bodenständige Schneiderin. Sie ist eher pragmatisch als religiös.
-In [[Grashk]] trifft sie ihren zukünftigen [[Enyas Vater|Ehemann]], wo sie auch ihre [[Enya]] zusammen bekommen. Kurz nach der Geburt ihrer Tochter müssen sie aufgrund des [[Massaker von Grashk|Massakers von Grashk]] nach [[Uthlin]] fliehen.
+Enyas Mutter ist eine bodenständige [[Schneiderin]]. Sie ist eher pragmatisch als religiös.
+In [Grashk](../Locations/Grashk.md) trifft sie ihren zukünftigen [Ehemann](./Enyas%20Vater.md), wo sie auch ihre [Tochter Enya](../Party/Enya.md) zusammen bekommen. Kurz nach der Geburt ihrer [Tochter](../Party/Enya.md) müssen sie aufgrund des [[Massaker von Grashk|Massakers von Grashk]] nach [Uthlin](../Locations/Uthlin.md) fliehen.

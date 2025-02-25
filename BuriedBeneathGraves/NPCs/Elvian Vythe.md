@@ -1,1 +1,1 @@
-[[Elvian Vythe]] ist ein #Diplomat [[Meluzan|Meluzans]].
+Elvian Vythe ist ein [[Diplomat]] [[Meluzan|Meluzans]].

@@ -1,1 +1,1 @@
-Der [[Flutbeobachter]] hat die wichtigste Aufgabe in [[Grashk]]. Durch seine wichtige Aufgabe und hohe Position ist er quasi Bürgermeister von [[Grashk]].
+Der Flutbeobachter hat die wichtigste Aufgabe in [Grashk](../Locations/Grashk.md). Durch seine wichtige Aufgabe und hohe Position ist er quasi Bürgermeister von [Grashk](../Locations/Grashk.md).

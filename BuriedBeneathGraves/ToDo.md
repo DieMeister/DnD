@@ -35,7 +35,7 @@
 		- [ ] create NPC that is already convinced by [[Darius|Darius's]] ideology
 		- [ ] NPC mit grundlegend anderer Vorstellung als [[Darius]], die aber zusammenarbeiten müssen, erstellen
 		- [ ] create NPC who's politically different but [[Darius]] respects
-		- [ ] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
+		- [x] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
 		- [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
 	- [ ] Namen für Wochentage ausdenken (mit Sky)
 - [ ] Character
@@ -47,9 +47,8 @@
 - [x] add Races
 
 # Timeline
-- [ ] obsidian://show-plugin?id=aprils-automatic-timelines
-- [ ] obsidian://show-plugin?id=chronos
-
+- [x] obsidian://show-plugin?id=aprils-automatic-timelines
+- [ ] Ereignisse eintragen
 # Obsidian
 ## Formatting
 - [x] strukturiere [[Notes]]
@@ -73,29 +72,29 @@
 		- [x] [Kinstein](./Items/Kinstein.md)
 		- [x] [Lederrüstung](./Items/Lederrüstung.md)
 		- [x] [Siegelring](./Items/Siegelring.md)
-	- [ ] Locations
+	- [x] Locations
 		- [x] [Camp Recep](./Locations/Camp%20Recep.md)
-		- [ ] [Grashk](./Locations/Grashk.md)
-		- [ ] [Kiranit](./Locations/Kiranit.md)
-		- [ ] [Sivyl](./Locations/Sivyl.md)
-		- [ ] [Uthlin](./Locations/Uthlin.md)
-		- [ ] [Verekir](./Locations/Verekir.md)
-	- [ ] NPCs
-		- [ ] [93](./NPCs/93.md)
-		- [ ] [Darius' Vater](./NPCs/Darius'%20Vater.md)
-		- [ ] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
-		- [ ] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
-		- [ ] [Enyas Vater](./NPCs/Enyas%20Vater.md)
-		- [ ] [Fabel](./NPCs/Fabel.md)
-		- [ ] [Terim](./NPCs/Terim.md)
-	- [ ] Party
-		- [ ] [Darius](./Party/Darius.md)
-		- [ ] [Enya](./Party/Enya.md)
-		- [ ] [Kem](./Party/Kem.md)
+		- [x] [Grashk](./Locations/Grashk.md)
+		- [x] [Kiranit](./Locations/Kiranit.md)
+		- [x] [Sivyl](./Locations/Sivyl.md)
+		- [x] [Uthlin](./Locations/Uthlin.md)
+		- [x] [Verekir](./Locations/Verekir.md)
+	- [x] NPCs
+		- [x] [93](./NPCs/93.md)
+		- [x] [Darius' Vater](./NPCs/Darius'%20Vater.md)
+		- [x] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
+		- [x] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
+		- [x] [Enyas Vater](./NPCs/Enyas%20Vater.md)
+		- [x] [Fabel](./NPCs/Fabel.md)
+		- [x] [Terim](./NPCs/Terim.md)
+	- [x] Party
+		- [x] [Darius](./Party/Darius.md)
+		- [x] [Enya](./Party/Enya.md)
+		- [x] [Kem](./Party/Kem.md)
 	- [x] Processes
 		- [x] [Wiederbelebung](./Processes/Wiederbelebung.md)
-	- [ ] Ranks
-		- [ ] [Flutbeobachter](./Ranks/Flutbeobachter.md)
+	- [x] Ranks
+		- [x] [Flutbeobachter](./Ranks/Flutbeobachter.md)
 	- [ ] Sessions
 		- [ ] [001 Gestohlenes Blut](./Sessions/001%20Gestohlenes%20Blut.md)
 		- [ ] [004 Auferstanden](./Sessions/004%20Auferstanden.md)
