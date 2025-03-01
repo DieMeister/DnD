@@ -1,21 +1,18 @@
 # Sessions
-
 ## cut Session
 - [ ] [[Session 0]]
-- [ ] [[001 Gestohlenes Blut|001 Gestohlenes Blut]] (01:26:01)
-- [ ] [[002 Schlaflose Nächte]] (58:47)
-- [ ] [[003 Offene See]] (05:32)
-- [x] [[004 Auferstanden]] (02:23:05)
-- [ ] [[005 Gebrochen und Geborgen]] (41:54)
-
+- [ ] [[001 Gestohlenes Blut|001 Gestohlenes Blut]] 
+- [ ] [[002 Schlaflose Nächte]] (58:47 / 02:45:05 - 35.61%)
+- [ ] [[003 Offene See]] (05:32 / 05:11:00 - 1.87%)
+- [x] [[004 Auferstanden]] (02:23:05 / 02:23:05 - 100%)
+- [ ] [[005 Gebrochen und Geborgen]] (01:40:05 / 03:38:51 - 45.73%) bei 01:11 fehlen ein paar Minuten
 ## get Information
 - [ ] [[Session 0]]
 - [ ] [[001 Gestohlenes Blut|001 Gestohlenes Blut]]
 - [ ] [[002 Schlaflose Nächte]]
 - [ ] [[003 Offene See]]
-- [x] [[004 Auferstanden]] (02:23:05)
+- [x] [[004 Auferstanden]] (02:23:05 / 02:23:05 - 100%)
 - [ ] [[005 Gebrochen und Geborgen]]
-
 ## summarize Session
 - [x] [[001 Gestohlenes Blut|001 Gestohlenes Blut]]
 - [ ] [[002 Schlaflose Nächte]]
@@ -45,7 +42,6 @@
 - [x] add Classes
 - [ ] add Spells
 - [x] add Races
-
 # Timeline
 - [x] obsidian://show-plugin?id=aprils-automatic-timelines
 - [ ] Ereignisse eintragen
@@ -110,14 +106,22 @@
 - [ ] create color for Processes in Graph View
 # Git
 # Anarchie
-## Quellen
+## Quellen verstehen
 - [ ] [Reddit - Anarchy101](https://www.reddit.com/r/Anarchy101/)
-- [ ] [Ruth Kinna - Anarchism: a Beginner's Guide](https://files.libcom.org/files/Anarchism%20-%20A%20Beginners%20Guide%20-%20Kinna,%20Ruth.pdf)
-- [ ] [Peter Gelderloos - Anarchy Works](https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works.pdf)
-- [ ] [Colin Ward - Anarchy in Action](https://files.libcom.org/files/Ward_-_Anarchy_in_Action_3.pdf)
-- [ ] [Errico Malatesta - Anarchy](https://theanarchistlibrary.org/library/errico-malatesta-anarchy.pdf)
+- [ ] [Ruth Kinna - Anarchism: a Beginner's Guide](../../PoliticalIdeologies/Anarchy/Anarchism%20-%20A%20Beginners%20Guide%20-%20Kinna,%20Ruth.pdf)
+- [ ] [Peter Gelderloos - Anarchy Works](../../PoliticalIdeologies/Anarchy/peter-gelderloos-anarchy-works.pdf)
+- [ ] [Colin Ward - Anarchy in Action](../../PoliticalIdeologies/Anarchy/Ward_-_Anarchy_in_Action_3.pdf)
+- [ ] [Errico Malatesta - Anarchy](../../PoliticalIdeologies/Anarchy/errico-malatesta-anarchy.pdf)
 - [ ] [Anarcho, et al. - an Anarchist FAQ](https://www.anarchistfaq.org/afaq/index.html)
 - [x] [YouTube - MrWissen2go - Kann Anarchie funktionieren?](https://www.youtube.com/watch?v=Jt4RJJ3-PqQ)
+- [ ] Locale
+	- [ ] [ANARCHY](../../PoliticalIdeologies/Anarchy/Locale/ANARCHY.pdf)
+	- [ ] [Anarchy and Anarchism - Towards a Theory of Complex International Systems](../../PoliticalIdeologies/Anarchy/Locale/Anarchy_and_Anarchism_Towards_a_Theory_o.pdf)
+	- [ ] [Anarchy is What Translators Make of It? Translating Theory and Translation Theories](../../PoliticalIdeologies/Anarchy/Locale/Anarchy_is_What_Translators_Make_of_It_T.pdf)
+	- [ ] [Authority & Anarchy An Existentialist deconstruction of Capitalism, the state and historical agricultural cooperative theory](../../PoliticalIdeologies/Anarchy/Locale/Authority_and_Anarchy_An_Existentialist.pdf)
 ## Fragen
 - [ ] wie schützt sich das System vor Feinden des Systems
 - [ ] Was passiert, wenn es zu keinem Kompromiss kommt
+- [ ] ab wann ist man mündiger Teil der Gesellschaft
+	- [ ] sind Kinder von Geburt an gleichberechtigt
+	- [ ] können alle einfach Teil der Gruppe werden

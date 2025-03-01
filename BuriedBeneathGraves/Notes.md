@@ -258,3 +258,8 @@
 ## Leichenmarsch
 - manifestation der Kraft Sekras falls existent
 - beim Leichenmarsch wird Blut entzogen
+# DnD Mechanics
+## Zauber
+- Cantrips immer
+- Firbolg einmal 
+- sonst verbrauchen slots
