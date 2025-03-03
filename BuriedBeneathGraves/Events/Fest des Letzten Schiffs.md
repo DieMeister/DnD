@@ -13,11 +13,12 @@ Seit der [Sintflut](./die%20Sintflut.md) wird das Fest nicht mehr gefeiert, da s
 # Ablauf
 Alle versammeln sich am [[Hafen]] um die Ankunft des letzten Schiffs zu beobachten. Wenn das Wasser komplett weg ist werden Muscheln gesammelt und zum [[Wasserplatz]] gebracht, wo sie gekocht und verspeist werden.
 # Liste der Feste
+## 30.02.028
 %%tl-inline-event
 tl-event-start: 28-02-30
 tl-render: true
 tl-timelines: [all, Grashk]
 tl-event-title: Fest des Letzten Schiffs
 %%
-## 30.02.028
 Dies ist das letzte Fest des Letzten Schiffs, da kurz darauf der Fluch gebrochen wurde und sich, nach der [Sintflut](./die%20Sintflut.md), der Wasserstand normalisiert hat.
+%%event-body-end%%

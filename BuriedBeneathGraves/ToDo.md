@@ -36,6 +36,9 @@
 		- [ ] create NPC who's politically different but [[Darius]] respects
 		- [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
 	- [ ] Namen für Wochentage ausdenken (mit Sky)
+- [ ] Zauber
+	- [ ] Gesten Überlegen
+	- [ ] Sprüche überlegen
 - [ ] Character
 	- [ ] Spells überarbeiten und fixen
 	- [ ] Level up zu Level 3
@@ -92,17 +95,6 @@
 	- [ ] [ToDo](./ToDo.md)
 	- [ ] Races
 		- [ ] [Firboig](../Races/Firbolg.md)
-- [ ] Ereignisse erstellen
-- [x] Timelines erstellen
-	- [x] alles
-	- [x] Party
-		- [x] Party
-		- [x] Darius
-		- [x] Kem
-		- [x] Enya
-	- [x] Städte
-		- [x] Grashk
-		- [x] Camp Recep
 # Obsidian
 ## Formatting
 - [ ] Infos von [[Notes]] in entsprechende Dateien übertragen
