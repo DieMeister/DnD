@@ -1,30 +1,32 @@
 # Sessions
-## cut Session
-- [ ] [[Session 0]]
-- [ ] [[001 Gestohlenes Blut|001 Gestohlenes Blut]] 
-- [ ] [[002 Schlaflose Nächte]] (58:47 / 02:45:05 - 35.61%)
-- [ ] [[003 Offene See]] (05:32 / 05:11:00 - 1.87%)
-- [x] [[004 Auferstanden]] (02:23:05 / 02:23:05 - 100%)
-- [ ] [[005 Gebrochen und Geborgen]] (01:40:05 / 03:38:51 - 45.73%) bei 01:11 fehlen ein paar Minuten
-## get Information
-- [ ] [[Session 0]]
-- [ ] [[001 Gestohlenes Blut|001 Gestohlenes Blut]]
-- [ ] [[002 Schlaflose Nächte]]
-- [ ] [[003 Offene See]]
-- [x] [[004 Auferstanden]] (02:23:05 / 02:23:05 - 100%)
-- [ ] [[005 Gebrochen und Geborgen]]
-## summarize Session
-- [x] [[001 Gestohlenes Blut|001 Gestohlenes Blut]]
-- [ ] [[002 Schlaflose Nächte]]
-- [ ] [[003 Offene See]]
-- [x] [[004 Auferstanden]]
-- [ ] [[005 Gebrochen und Geborgen]]
-## add Links to Summary
-- [x] [[001 Gestohlenes Blut]]
-- [ ] [[002 Schlaflose Nächte]]
-- [ ] [[003 Offene See]]
-- [ ] [[004 Auferstanden]]
-- [ ] [[005 Gebrochen und Geborgen]]
+- [ ] Session 0
+	- [ ] cut
+	- [ ] get Information
+- [ ] Session 1 - Gestohlenes Blut
+	- [ ] cut
+	- [ ] get Information
+	- [x] summarize
+	- [x] add links to summary
+- [ ] Session 2 - Schlaflose Nächte
+	- [ ] cut (58:47 / 02:45:05 - 35.61%)
+	- [ ] get Information
+	- [ ] summarize
+	- [ ] add links to summary
+- [ ] Session 3 - Offene See
+	- [ ] cut (05:32 / 05:11:00 - 1.87%)
+	- [ ] get Information
+	- [ ] summarize
+	- [ ] add links to summary
+- [ ] Session 4 - Auferstanden
+	- [x] cut (02:23:05 / 02:23:05 - 100%)
+	- [x] get Information (02:23:05 / 02:23:05 - 100%)
+	- [x] summarize
+	- [ ] add links to summary
+- [ ]  Session 5 - Gebrochen und Geborgen
+	- [ ] cut (02:14:50 / 03:31:21 - 63.80%) bei 01:11 fehlen ein paar Minuten
+	- [ ] get Information
+	- [ ] summarize
+	- [ ] add links to summary
 # DnD
 - [ ] World Building
 	- [ ] Darius
@@ -32,7 +34,6 @@
 		- [ ] create NPC that is already convinced by [[Darius|Darius's]] ideology
 		- [ ] NPC mit grundlegend anderer Vorstellung als [[Darius]], die aber zusammenarbeiten müssen, erstellen
 		- [ ] create NPC who's politically different but [[Darius]] respects
-		- [x] imaginärer Graf von dem [[Darius]] so tut als wär er Botschafter von erstellen
 		- [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
 	- [ ] Namen für Wochentage ausdenken (mit Sky)
 - [ ] Character
@@ -43,14 +44,112 @@
 - [ ] add Spells
 - [x] add Races
 # Timeline
-- [x] obsidian://show-plugin?id=aprils-automatic-timelines
-- [ ] Ereignisse eintragen
+- [ ] Ereignisse erstellen
+- [ ] Timelines erstellen
+	- [ ] alles
+	- [ ] Party
+	- [ ] Darius
+	- [ ] Kem
+	- [ ] Enya
 # Obsidian
 ## Formatting
-- [x] strukturiere [[Notes]]
 - [ ] Infos von [[Notes]] in entsprechende Dateien übertragen
 - [ ] Links auf Vollständigkeit überprüfen
+	- [ ] Believes
+		- [ ] [Esther](./Believes/Esther.md)
+		- [ ] [Siath](./BElieves/Siath.md)
+	- [ ] Creatures
+		- [ ] [Changeling](./Creatures/Changeling.md)
+		- [ ] [Warforged](./Creatures/Warforged.md)
+	- [ ] Events
+		- [ ] [Blutskrieg](./Events/Blutskrieg.md)
+		- [ ] [die Sintflut](./Events/die%20Sintflut.md)
+		- [ ] [Fest des Letzten Schiffs](./Events/Fest%20des%20Letzten%20Schiffs.md)
+	- [ ] Items
+		- [ ] [Darius's Sketch Book](./Items/Darius's%20Sketch%20Book.md)
+		- [ ] [Dolch](./Items/Dolch.md)
+		- [ ] [Kinstein](./Items/Kinstein.md)
+		- [ ] [Lederrüstung](./Items/Lederrüstung.md)
+		- [ ] [Siegelring](./Items/Siegelring.md)
+	- [ ] Locations
+		- [ ] [Camp Recep](./Locations/Camp%20Recep.md)
+		- [ ] [Grashk](./Locations/Grashk.md)
+		- [ ] [Kiranit](./Locations/Kiranit.md)
+		- [ ] [Sivyl](./Locations/Sivyl.md)
+		- [ ] [Uthlin](./Locations/Uthlin.md)
+		- [ ] [Verekir](./Locations/Verekir.md)
+	- [ ] NPCs
+		- [ ] [93](./NPCs/93.md)
+		- [ ] [Darius' Vater](./NPCs/Darius'%20Vater.md)
+		- [ ] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
+		- [ ] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
+		- [ ] [Enyas Vater](./NPCs/Enyas%20Vater.md)
+		- [ ] [Fabel](./NPCs/Fabel.md)
+		- [ ] [Terim](./NPCs/Terim.md)
+	- [ ] Party
+		- [ ] [Darius](./Party/Darius.md)
+		- [ ] [Enya](./Party/Enya.md)
+		- [ ] [Kem](./Party/Kem.md)
+	- [ ] Processes
+		- [ ] [Wiederbelebung](./Processes/Wiederbelebung.md)
+	- [ ] Ranks
+		- [ ] [Flutbeobachter](./Ranks/Flutbeobachter.md)
+	- [ ] Sessions
+		- [ ] [001 Gestohlenes Blut](./Sessions/001%20Gestohlenes%20Blut.md)
+		- [ ] [004 Auferstanden](./Sessions/004%20Auferstanden.md)
+	- [ ] [Introduction](./Introduction.md)
+	- [ ] [Names](./Names.md)
+	- [ ] [ToDo](./ToDo.md)
+	- [ ] Races
+		- [ ] [Firboig](../Races/Firbolg.md)
 - [ ] Tags in Links umwandeln
+	- [ ] Believes
+		- [ ] [Esther](./Believes/Esther.md)
+		- [ ] [Siath](./BElieves/Siath.md)
+	- [ ] Creatures
+		- [ ] [Changeling](./Creatures/Changeling.md)
+		- [ ] [Warforged](./Creatures/Warforged.md)
+	- [ ] Events
+		- [ ] [Blutskrieg](./Events/Blutskrieg.md)
+		- [ ] [die Sintflut](./Events/die%20Sintflut.md)
+		- [ ] [Fest des Letzten Schiffs](./Events/Fest%20des%20Letzten%20Schiffs.md)
+	- [ ] Items
+		- [ ] [Darius's Sketch Book](./Items/Darius's%20Sketch%20Book.md)
+		- [ ] [Dolch](./Items/Dolch.md)
+		- [ ] [Kinstein](./Items/Kinstein.md)
+		- [ ] [Lederrüstung](./Items/Lederrüstung.md)
+		- [ ] [Siegelring](./Items/Siegelring.md)
+	- [ ] Locations
+		- [ ] [Camp Recep](./Locations/Camp%20Recep.md)
+		- [ ] [Grashk](./Locations/Grashk.md)
+		- [ ] [Kiranit](./Locations/Kiranit.md)
+		- [ ] [Sivyl](./Locations/Sivyl.md)
+		- [ ] [Uthlin](./Locations/Uthlin.md)
+		- [ ] [Verekir](./Locations/Verekir.md)
+	- [ ] NPCs
+		- [ ] [93](./NPCs/93.md)
+		- [ ] [Darius' Vater](./NPCs/Darius'%20Vater.md)
+		- [ ] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
+		- [ ] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
+		- [ ] [Enyas Vater](./NPCs/Enyas%20Vater.md)
+		- [ ] [Fabel](./NPCs/Fabel.md)
+		- [ ] [Terim](./NPCs/Terim.md)
+	- [ ] Party
+		- [ ] [Darius](./Party/Darius.md)
+		- [ ] [Enya](./Party/Enya.md)
+		- [ ] [Kem](./Party/Kem.md)
+	- [ ] Processes
+		- [ ] [Wiederbelebung](./Processes/Wiederbelebung.md)
+	- [ ] Ranks
+		- [ ] [Flutbeobachter](./Ranks/Flutbeobachter.md)
+	- [ ] Sessions
+		- [ ] [001 Gestohlenes Blut](./Sessions/001%20Gestohlenes%20Blut.md)
+		- [ ] [004 Auferstanden](./Sessions/004%20Auferstanden.md)
+	- [ ] [Introduction](./Introduction.md)
+	- [ ] [Names](./Names.md)
+	- [ ] [ToDo](./ToDo.md)
+	- [ ] Races
+		- [ ] [Firboig](../Races/Firbolg.md)
 - [ ] Links GitHub kompatibel machen (`[DisplayName](RelativeFilePath)`)
 	- [x] Believes
 		- [x] [Esther](./Believes/Esther.md)
