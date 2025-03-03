@@ -1,1 +1,8 @@
-Der Blutskrieg endet [[Akeldama]], worin [[Meluzan]] [[Karaxan]] besiegt und dessen Gebiet übernimmt. Etwas ein Jahr später sind zwar Wahlen geplant, das Land ist aber immer noch durchzogen von Zerstörung und Chaos.
+---
+tl-render: true
+tl-event-start: 18-00-00
+tl-event-end: 27-02-00
+tl-timelines: [all]
+---
+
+Der Blutskrieg endet mit [[Akeldama]], worin [[Meluzan]] [[Karaxan]] besiegt und dessen Gebiet übernimmt. Etwas ein Jahr später sind zwar Wahlen geplant, das Land ist aber immer noch durchzogen von Zerstörung und Chaos.

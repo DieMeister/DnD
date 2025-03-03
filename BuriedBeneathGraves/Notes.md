@@ -258,6 +258,12 @@
 ## Leichenmarsch
 - manifestation der Kraft Sekras falls existent
 - beim Leichenmarsch wird Blut entzogen
+# Daten
+
+34 bank überfall
+33 sintflut - wiederbelebung
+32 grashk - kampf in höhle
+31 brunnen
 # DnD Mechanics
 ## Zauber
 - Cantrips immer
