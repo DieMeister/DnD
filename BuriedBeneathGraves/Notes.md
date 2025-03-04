@@ -25,25 +25,12 @@
 - lässt sich nicht drehen
 # Locations
 ## Camp Recep
-- Spitznamen teilweise schon aus Krieg
-	- werden dann weiter benutzt
-- Existenz wird durch hören-sagen verbreitet
-	- viele Kontakte 
 - Zugang zu kreide
 - vorbereitet auf erneuten Leichenmarsch
 - weiß nicht, warum Warforged verrückt werden
 	- hat mit Core zu tun
-### Geschichte
-- 13nA aufgegeben
-- Zwerge kommen 23nA
-	- Zwerge haben Nummer 2 & 3
-- 25nA Neugründung durch Warforged
-- zum Zeitpunkt Akeldamas etwa 60 im Camp
-	- folgende 3 Monate etwa 90 neue
-	- danach etwa 5 neue im Monat
-	- momentan ca. 215 in camp
+- momentan ca. 215 in camp
 ### Kultur
-- nummern-zeremonie
 - shooting contests
 - repair circles
 - religious circles
