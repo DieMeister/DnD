@@ -25,6 +25,7 @@
 - [Siath](./Believes/Siath.md)
 - Stav
 - [Terim](./NPCs/Terim.md)
+- Tzekkrah
 - [Sivyl](./Locations/Sivyl.md)
 - [Uthlin](./Locations/Uthlin.md)
 - [Verekir](./Locations/Verekir.md)

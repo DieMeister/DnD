@@ -235,9 +235,6 @@
 	- bekommt Nummer 157 im 06.27nA
 - verlässt camp nochmal vor campaign beginn
 # Processes
-## Leichenmarsch
-- manifestation der Kraft Sekras falls existent
-- beim Leichenmarsch wird Blut entzogen
 # Daten
 
 34 bank überfall
