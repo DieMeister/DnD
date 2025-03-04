@@ -66,7 +66,7 @@
 		- [ ] [Lederrüstung](./Items/Lederrüstung.md)
 		- [ ] [Siegelring](./Items/Siegelring.md)
 	- [ ] Locations
-		- [ ] [Camp Recep](./Locations/Camp%20Recep.md)
+		- [x] [Camp Recep](./Locations/Camp%20Recep.md)
 		- [ ] [Grashk](./Locations/Grashk.md)
 		- [ ] [Kiranit](./Locations/Kiranit.md)
 		- [ ] [Sivyl](./Locations/Sivyl.md)
@@ -241,14 +241,14 @@
 	- [x] [Introduction](./Introduction.md)
 	- [x] [Names](./Names.md)
 	- [x] [ToDo](./ToDo.md)
-	- [ ] Races
-		- [ ] [Firboig](../Races/Firbolg.md)
+	- [x] Races
+		- [x] [Firboig](../Races/Firbolg.md)
 ## Infos
 - [x] create start page with general infos
 - [ ] Infos aus GoogleDoc herausarbeiten
 ## config
 - [ ] create color for Processes in Graph View
-- [ ] remove Timeline files from Graph View
+- [x] remove Timeline files from Graph View
 # Git
 # Anarchie
 ## Quellen verstehen
