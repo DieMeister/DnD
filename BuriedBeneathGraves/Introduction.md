@@ -1,13 +1,13 @@
 # Inhalt
-- [Inhalt](./Introduction#Inhalt)
-- [Einführung](./Introduction#Einführung)
-- [Astronomie](./Introduction#Astronomie)
-	- [Meluzanischer Kalender](./Introduction#Meluzanischer%20Kalender)
-		- [Jahreszeiten](./Introduction#Jahreszeiten)
-		- [Monate](./Introduction#Monate)
-		- [Wochen](./Introduction#Wochen)
-		- [Tage](./Introduction#Tage)
-		- [Askarashischer Kalender](#Askarashischer%20Kalender)
+- [Inhalt](./Introduction.md#Inhalt)
+- [Einführung](./Introduction.md#Einführung)
+- [Astronomie](./Introduction.md#Astronomie)
+	- [Meluzanischer Kalender](./Introduction.md#Meluzanischer%20Kalender)
+		- [Jahreszeiten](./Introduction.md#Jahreszeiten)
+		- [Monate](./Introduction.md#Monate)
+		- [Wochen](./Introduction.md#Wochen)
+		- [Tage](./Introduction.md#Tage)
+		- [Askarashischer Kalender](./Introduction.md#Askarashischer%20Kalender)
 # Einführung
 Es ist kaum ein Jahr her, seitdem der Tyrann [[Askarash]] gefallen ist. Die Dynastie von [[Meluzan]], welche ihn bezwang, bereitet nun die früheren Gebiete, welche dem Imperium von [[Karaxan]] angehörten, auf Wahlen bezüglich der zukünftigen Führung vor.  
 Eine Zeit des Umschwungs, der Entwicklung und der rasanten Veränderung, aber auch der Unsicherheit, was die Zukunft bringen wird, ist angebrochen. Orte sind immer noch geplagt von den Spuren des Krieges, Bevölkerungen trauern um ihre Verstorbenen und politische Gegner stehen sich an jeder Ecke gegenüber, teilweise mit sehr verschiedenen Vorstellungen, wie es weitergehen soll.  

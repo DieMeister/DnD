@@ -1,7 +1,7 @@
 # Inhalt
 - [Inhalt](./Wiederbelebung.md#Inhalt)
 - [Vorbereitung](./Wiederbelebung.md#Vorbereitung)
-- [Durchführung](./Wiederbelebung#Durchführung)
+- [Durchführung](./Wiederbelebung.md#Durchführung)
 - [Nebenwirkungen](./Wiederbelebung.md#Nebenwirkungen)
 # Vorbereitung
 Benötigt hierfür wird eine tote Person, die wiederbelebt werden soll, eine untote Person, und ein #Messer.  
