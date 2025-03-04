@@ -1,7 +1,7 @@
 {
   "dateDisplayFormat": "{day}.{month}.{year}",
   "dateParserGroupPriority": "year,month,day",
-  "dateParserRegex": "(?<year>-?[0-9]*)-(?<month>-?[0-9]*)-(?<day>-?[0-9]*)",
+  "dateParserRegex": "(?<year>-?[0-9]*)-(?<month>[0-9]*)-(?<day>[0-9]*)",
   "eventRenderToggleKey": "tl-render",
   "inlineEventEndOfBodyMarker": "%%event-body-end",
   "markdownBlockTagsToFindSeparator": ",",
