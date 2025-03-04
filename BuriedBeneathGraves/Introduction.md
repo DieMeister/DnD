@@ -1,17 +1,17 @@
 # Inhalt
-- [[#Inhalt]]
-- [[#Einführung]]
-- [[#Astronomie]]
-	- [[#Meluzanischer Kalender]]
-		- [[#Jahreszeiten]]
-		- [[#Monate]]
-		- [[#Wochen]]
-		- [[#Tage]]
-		- [[#Askarashischer Kalender]]
+- [Inhalt](./Introduction#Inhalt)
+- [Einführung](./Introduction#Einführung)
+- [Astronomie](./Introduction#Astronomie)
+	- [Meluzanischer Kalender](./Introduction#Meluzanischer%20Kalender)
+		- [Jahreszeiten](./Introduction#Jahreszeiten)
+		- [Monate](./Introduction#Monate)
+		- [Wochen](./Introduction#Wochen)
+		- [Tage](./Introduction#Tage)
+		- [Askarashischer Kalender](#Askarashischer%20Kalender)
 # Einführung
 Es ist kaum ein Jahr her, seitdem der Tyrann [[Askarash]] gefallen ist. Die Dynastie von [[Meluzan]], welche ihn bezwang, bereitet nun die früheren Gebiete, welche dem Imperium von [[Karaxan]] angehörten, auf Wahlen bezüglich der zukünftigen Führung vor.  
 Eine Zeit des Umschwungs, der Entwicklung und der rasanten Veränderung, aber auch der Unsicherheit, was die Zukunft bringen wird, ist angebrochen. Orte sind immer noch geplagt von den Spuren des Krieges, Bevölkerungen trauern um ihre Verstorbenen und politische Gegner stehen sich an jeder Ecke gegenüber, teilweise mit sehr verschiedenen Vorstellungen, wie es weitergehen soll.  
-Auch technisch verändert sich viel, das erste Schienennetz wird gebaut und die Erfindung der [[Warforged]], humanoide Wesen, welche von Hand erschaffen wurden, stellen die Justiz und verschiedene Religionen auf den Kopf.
+Auch technisch verändert sich viel, das erste Schienennetz wird gebaut und die Erfindung der [Warforged](./Creatures/Warforged.md), humanoide Wesen, welche von Hand erschaffen wurden, stellen die Justiz und verschiedene Religionen auf den Kopf.
 # Astronomie
 Die Erde ist unserer Wahrnehmung nach rund.  
 Die Sonne geht im Norden auf, wandert dann über Westen und geht im Süden wieder unter, wobei ein Tag 28 Stunden hat.  
@@ -51,5 +51,5 @@ Wochen bestehen aus 6 Tagen.
 ### Tage
 Ein Tag ist 28 Stunden lang.
 ### Askarashischer Kalender
-Dieser Kalender beginnt mit der Machtübernahme in [[Karaxan]] und wurde bzw. wird ausschließlich in den ehemals eingenommenen Städten genutzt, dazu zählen unter anderem [[Karaxan]], [[Verekir]], [[Grashk]] und [[Ruzen]].  
+Dieser Kalender beginnt mit der Machtübernahme in [[Karaxan]] und wurde bzw. wird ausschließlich in den ehemals eingenommenen Städten genutzt, dazu zählen unter anderem [[Karaxan]], [Verekir](./Locations/Verekir.md), [Grashk](./Locations/Grashk.md) und [[Ruzen]].  
 Er basiert komplett auf dem meluzanischen Kalender, nur das Jahr 0 ist 735 Jahre später, 28nA entspricht also 763nM.

@@ -7,6 +7,7 @@
 	- [ ] get Information
 	- [x] summarize
 	- [x] add links to summary
+	- [ ] rewrite Summary
 - [ ] Session 2 - Schlaflose Nächte
 	- [ ] cut (58:47 / 02:45:05 - 35.61%)
 	- [ ] get Information
@@ -30,11 +31,11 @@
 # DnD
 - [ ] World Building
 	- [ ] Darius
-		- [ ] clear ideology for [[Darius]]
-		- [ ] create NPC that is already convinced by [[Darius|Darius's]] ideology
-		- [ ] NPC mit grundlegend anderer Vorstellung als [[Darius]], die aber zusammenarbeiten müssen, erstellen
-		- [ ] create NPC who's politically different but [[Darius]] respects
-		- [ ] ausarbeiten was [[Darius]] nach Zeit in [[Verekir]] gemacht hat ([[Camp Recep]])
+		- [ ] clear ideology for Darius
+		- [ ] create NPC that is already convinced by Darius's ideology
+		- [ ] NPC mit grundlegend anderer Vorstellung als Darius, die aber zusammenarbeiten müssen, erstellen
+		- [ ] create NPC who's politically different but Darius respects
+		- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat (Camp Recep)
 	- [ ] Namen für Wochentage ausdenken (mit Sky)
 - [ ] Zauber
 	- [ ] Gesten Überlegen
@@ -97,7 +98,9 @@
 		- [ ] [Firboig](../Races/Firbolg.md)
 # Obsidian
 ## Formatting
-- [ ] Infos von [[Notes]] in entsprechende Dateien übertragen
+- [ ] Infos von [Notes](./Notes.md) in entsprechende Dateien übertragen
+- [ ] Links zu neuen Dateien in GitHub kompatible Links umwandeln
+	- [ ] Akeldama
 - [ ] Links auf Vollständigkeit überprüfen
 	- [ ] Believes
 		- [ ] [Esther](./Believes/Esther.md)
@@ -237,9 +240,9 @@
 	- [ ] Sessions
 		- [ ] [001 Gestohlenes Blut](./Sessions/001%20Gestohlenes%20Blut.md)
 		- [ ] [004 Auferstanden](./Sessions/004%20Auferstanden.md)
-	- [ ] [Introduction](./Introduction.md)
-	- [ ] [Names](./Names.md)
-	- [ ] [ToDo](./ToDo.md)
+	- [x] [Introduction](./Introduction.md)
+	- [x] [Names](./Names.md)
+	- [x] [ToDo](./ToDo.md)
 	- [ ] Races
 		- [ ] [Firboig](../Races/Firbolg.md)
 ## Infos
@@ -247,6 +250,7 @@
 - [ ] Infos aus GoogleDoc herausarbeiten
 ## config
 - [ ] create color for Processes in Graph View
+- [ ] remove Timeline files from Graph View
 # Git
 # Anarchie
 ## Quellen verstehen
