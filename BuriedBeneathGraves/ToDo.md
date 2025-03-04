@@ -23,7 +23,7 @@
 	- [x] summarize
 	- [ ] add links to summary
 - [ ]  Session 5 - Gebrochen und Geborgen
-	- [ ] cut (02:14:50 / 03:31:21 - 63.80%) bei 01:11 fehlen ein paar Minuten
+	- [x] cut (03:24:07 / 03:24:07 - 100%)
 	- [ ] get Information
 	- [ ] summarize
 	- [ ] add links to summary
