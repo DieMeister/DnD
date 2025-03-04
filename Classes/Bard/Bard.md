@@ -45,11 +45,11 @@ You start with the following equipment, in addition to the equipment granted by 
 ## Spellcasting
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.
 ### Cantrips
-You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
+You know two cantrips of your choice from the [[bard spell list]]. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
 ### Spell Slots
-The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended slots when you finish a long rest. For example, if you know the 1st-level spell Cure Wound and have a 1st-level and a 2nd-level spell slot available, you can cast Cure Wounds using either slot.
+The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended slots when you finish a long rest. For example, if you know the 1st-level spell [[Cure Wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Cure Wounds]] using either slot.
 ### Spells Known of 1st Level and Higher
-You know four 1st-level spells of your choice from the bard spell list.  
+You know four 1st-level spells of your choice from the [[bard spell list]].  
 The Spells Known column of the Bard table shows when you learn bard spells of your choice. Each of these spells must be of a level for which you have a spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.  
 Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spells slots.
 ### Spellcasting Ability
@@ -75,24 +75,22 @@ At 2nd level, if a creature has a Bardic Inspiration die from you and casts a sp
 ## Bard College
 At 3rd level, you delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th and 14th level.
 
-| College   | Source                                                      |
-| --------- | ----------------------------------------------------------- |
-| Creation  | Tasha's Cauldron of Everything                              |
-| Eloquence | Mythic Odysseys of Theros<br>Tasha's Cauldron of Everything |
-| Glamour   | Xanathar's Guide to Everything                              |
-| Lore      | Player's Handbook                                           |
-| Spirits   | Van Richten's Guide to Ravenloft                            |
-| Swords    | Xanathar's Guide to Everything                              |
-| Valor     | Player's Handbook                                           |
-| Whispers  | Xanathar's Guide to Everything                              |
-
-| Archived Unearthed Arcana |                                           |
-| ------------------------- | ----------------------------------------- |
-| Mage of Lerhold           | Unearthed Arcana 79 - Mages of Strixhaven |
-| Mage of Silverquilld      | Unearthed Arcana 79 - Mages of Strixhaven |
-| Creation                  | Unearthed Arcana 68 - Subclasses, Part 2  |
-| Spirits                   | Unearthed Arcana 74 - Subclasses, Part 4  |
-| Satire                    | Unearthed Arcana 12 - Kits of Old         |
+| College                                           | Source                                                      |
+| ------------------------------------------------- | ----------------------------------------------------------- |
+| [[Creation]]                                      | Tasha's Cauldron of Everything                              |
+| [[Eloquence]]                                     | Mythic Odysseys of Theros<br>Tasha's Cauldron of Everything |
+| [[Glamour]]                                       | Xanathar's Guide to Everything                              |
+| [[Lore]]                                          | Player's Handbook                                           |
+| [[Spirits]]                                       | Van Richten's Guide to Ravenloft                            |
+| [[Swords]]                                        | Xanathar's Guide to Everything                              |
+| [[Valor]]                                         | Player's Handbook                                           |
+| [Whispers](./Colleges/College%20of%20Whispers.md) | Xanathar's Guide to Everything                              |
+| **Archived Unearthed Arcana**                     |                                                             |
+| [[Mage of Lerhold]]                               | [[Unearthed Arcana 79 - Mages of Strixhaven]]               |
+| [[Mage of Silverquilld]]                          | [[Unearthed Arcana 79 - Mages of Strixhaven]]               |
+| [[Creation]]                                      | [[Unearthed Arcana 68 - Subclasses, Part 2]]                |
+| [[Spirits]]                                       | [[Unearthed Arcana 74 - Subclasses, Part 4]]                |
+| [[Satire]]                                        | [[Unearthed Arcana 12 - Kits of Old]]                       |
 ## Expertise
 At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.  
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
@@ -101,7 +99,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ## Bardic Versality (Optional)
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a chance in focus as you use your skills and magic:
 - Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefit from Expertise.
-- Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the bard spell list.
+- Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the [[bard spell list]].
 ## Font of Inspiration
 Beginning when you reach 5th level, you regain all your expended uses of Bardic Inspiration when you finish a short or long rest.
 ## Countercharm

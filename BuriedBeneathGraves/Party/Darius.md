@@ -2,7 +2,7 @@
 references:
   - https://pin.it/6lQicUery
 ---
-Darius ist ein [Firbolg](../../Races/Firbolg.md) in seinen Zwanzigern. Er ist ein [Barde](../../Classes/Bard.md) mit der Subclass [[College of Whispers]].  
+Darius ist ein [Firbolg](../../Races/Firbolg.md) in seinen Zwanzigern. Er ist ein [Barde](../../Classes/Bard/Bard.md) mit der Subclass [College of Whispers](../../Classes/Bard/Colleges/College%20of%20Whispers.md).  
 Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [[Mutter]] starb allerdings früh an einer [[Krankheit]] und er wurde nur von seinem [[Vater]] und seiner 3 Jahre älteren [[Schwester]] aufgezogen, mit dem es aufgrund unterschiedlicher politischer Einstellungen immer wieder zu Meinungsverschiedenheiten kommt. Als Teenager radikalisiert er sich immer weiter, bis er sich schließlich komplett dem Aktivismus widmet. Auf seinen Reisen lernt er [Fabel](../NPCs/Fabel.md) kenn, ein Eichhörnchen.
 # Inhalt
 - [Inhalt](./Darius.md#Inhalt)
