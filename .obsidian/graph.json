@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:BuriedBeneathGraves -file:\"Session 0\" -file:ToDo -file:Introduction -path:Sessions/Summaries -path:\"irl People\" -file:README -file:Notes -file:Ideas -file:Timeline -file:Names",
+  "search": "path:BuriedBeneathGraves -file:\"Session 0\" -file:ToDo -file:Introduction -path:Sessions/Summaries -path:\"irl People\" -file:README -file:Notes -file:Ideas -file:Timeline -file:Names -path:Timelines",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
