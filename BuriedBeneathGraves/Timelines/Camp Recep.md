@@ -1,3 +1,0 @@
-```aat-vertical
-Camp Recep
-```
