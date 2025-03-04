@@ -1,13 +1,6 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
 # Creatures
 # Events
-## Akeldama
-- 02.27nA
-- "fields of blood",
-- nicht aufzuräumendes Schlachtdeld
-- letzter entscheidender Kampf
-	- Askarash gefallen
-
 # Items
 ## Amulette
 - Axtkopf ist eins

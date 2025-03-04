@@ -99,8 +99,8 @@
 # Obsidian
 ## Formatting
 - [ ] Infos von [Notes](./Notes.md) in entsprechende Dateien übertragen
-- [ ] Links zu neuen Dateien in GitHub kompatible Links umwandeln
-	- [ ] Akeldama
+- [x] Links zu neuen Dateien in GitHub kompatible Links umwandeln
+	- [x] Akeldama
 - [ ] Links auf Vollständigkeit überprüfen
 	- [ ] Believes
 		- [ ] [Esther](./Believes/Esther.md)
