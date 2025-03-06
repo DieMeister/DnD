@@ -220,6 +220,7 @@
 - nicht auffindbar
 # Party
 ## Darius 
+- geboren 12.04.003nA
 - momentan 24
 - Anfang 26nA von zu Hause gegangen
 - sieht Warforged als Lebewesen

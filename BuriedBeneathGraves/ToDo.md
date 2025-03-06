@@ -36,7 +36,12 @@
 		- [ ] NPC mit grundlegend anderer Vorstellung als Darius, die aber zusammenarbeiten müssen, erstellen
 		- [ ] create NPC who's politically different but Darius respects
 		- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat (Camp Recep)
-	- [ ] Namen für Wochentage ausdenken (mit Sky)
+	- [ ] Namen ausdenken 
+		- [ ] Wochentage (mit Sky)
+		- [ ] Familienname von Darius
+		- [ ] Darius' Vater
+		- [ ] Darius' Mutter
+		- [ ] Darius' Schwester
 - [ ] Zauber
 	- [ ] Gesten Überlegen
 	- [ ] Sprüche überlegen
