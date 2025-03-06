@@ -220,13 +220,11 @@
 - nicht auffindbar
 # Party
 ## Darius 
-- geboren 12.04.003nA
-- momentan 24
-- Anfang 26nA von zu Hause gegangen
 - sieht Warforged als Lebewesen
 - hat Grygur Sorthan ausgedacht
 	- ergänzt Informationen je nachdem was die Situation gerade erfordert
 - Eigentümer des Siegelrings
+- Briefverkehr zu Terim 
 ### Camp Recep
 - 03.26nA Camp entdeckt
 	- war nicht am stück da
@@ -235,6 +233,13 @@
 - bleibt ab 02.27nA länger im camp
 	- bekommt Nummer 157 im 06.27nA
 - verlässt camp nochmal vor campaign beginn
+### mögliche Namen der Familie
+- Schwester
+	- Eleonor
+	- Emilia
+	- **Fiona**
+- Vater
+	- **Markus**
 # Processes
 # Daten
 

@@ -7,6 +7,7 @@ Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [[M
 # Inhalt
 - [Inhalt](./Darius.md#Inhalt)
 - [Backstory](./Darius.md#Backstory)
+	- [Kindheit und Jugend](./Darius.md#Kindheit%20und%20Jugend)
 - [Aussehen](./Darius.md#Aussehen)
 	- [Kleidung](./Darius.md#Kleidung)
 - [Persönlichkeit](./Darius.md#Persönlichkeit)
@@ -26,9 +27,51 @@ Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [[M
 - [Besitz](./Darius.md#Besitz)
 - [Zauber](./Darius.md#Zauber)
 # Backstory
-Darius wächst in [Verekir](../Locations/Verekir.md) bei seinem [Vater](../NPCs/Darius'%20Vater.md) auf, seine [[Mutter]] stirbt kurz nach seiner Geburt an einer Krankheit. Während seiner Kindheit ist gerade der [Blutskrieg](../Events/Blutskrieg.md) , [Verekir](../Locations/Verekir.md) ist aber nicht in Kämpfe verwickelt und seine Kindheit verläuft entsprechend normal, die Situation trägt aber erheblich zu seiner Radikalisierung bei.  
-Als Teenager engagiert er sich zunehmend politisch und sucht vermehrt den Kontakt zu einflussreichen Personen, um die Gesellschaft nach dem [Krieg](../Events/Blutskrieg.md) nach seiner Vorstellung formen zu können, wobei auch eine Brieffreundschaft zu [Terim](../NPCs/Terim.md) entsteht. Durch seinen Aktivismus und seine politische Position kommt es zwischen ihm und seinem [Vater](../NPCs/Darius'%20Vater.md) immer wieder zu Streit. Der Rest der Familie probiert sich größtenteils rauszuhalten.  
-Mit 22 verlässt Darius [Verekir](../Locations/Verekir.md) um seinen Einfluss weiter zu vergrößern und das Verhältnis zu seinem [Vater](../NPCs/Darius'%20Vater.md) nicht komplett zu zerstören.
+## Kindheit und Jugend
+%%tl-inline-event
+tl-render: true
+tl-event-title: Geburt Darius
+tl-event-start: 003-04-12
+tl-timelines: [all, Darius]
+tl-event-picture: none
+tl-event-body: Darius wird geboren.
+%%
+
+%%tl-inline-event
+tl-render: true
+tl-event-title: Darius in Verekir
+tl-event-start: 003-04-12
+tl-event-end: 026-01-08
+tl-timelines: [all, Darius]
+tl-event-picture: none
+tl-event-body: Darius verbringt seine Kindheit und Jugend in Verekir
+%%
+Darius wird am 12.04.003nA in [Verekir](../Locations/Verekir.md) geboren. Trotz der laufenden  [[Expansion]] merkt Darius nur mittelbar, dass Krieg herrscht, da [Verekir](../Locations/Verekir.md) sich direkt unterwarf, sofern das Leben in der Stadt wie gehabt weitergehen kann.  
+Seine Mutter stirbt als Darius erst 4 Jahre alt ist am 13. Meavyth 007 nA an einer Überdosis. %%TODO Droge überlegen, an der Mutter gestorben ist%%
+Von da an werden er und seine 3 Jahre ältere Schwester [[Fiona]] %%NOTSURE Name könnte sich ändern%% nur von ihrem Vater [[Markus]] aufgezogen, haben aber eine ansonsten normale Kindheit.  
+Als Teenager beginnt Darius sich zunehmend politisch zu interessieren und engagieren, was in [Verekir](../Locations/Verekir.md) aber nur auf wenig Unterstützung trifft. Besonders sein Vater sieht der Entwicklung seines Sohnes skeptisch und es kommt häufiger zu Auseinandersetzungen zwischen beiden. 
+Mit 22 verlässt Darius [Verekir](../Locations/Verekir.md) um sich ganz dem Aktivismus widmen zu können.
+## politische Reise
+%%tl-inline-event
+tl-render: true
+tl-event-title: Darius' Reise
+tl-event-start: 026-01-08
+tl-event-end: 999-99-99
+tl-timelines: [all, Darius]
+tl-event-picture: none
+tl-event-body: Darius reist herum, um andere von seiner Vorstellung einer Gesellschaft nach dem Krieg zu verbreiten.
+%%
+
+%%tl-inline-event
+tl-render: true
+tl-event-title: Darius' Reise nach Karaxan
+tl-event-start: 026-01-08
+tl-event-end: 026-01-42
+tl-timelines: [all, Darius]
+tl-event-picture: none
+%%
+Am 08. Mekayttz 026nA verlässt Darius [Verekir](../Locations/Verekir.md) und macht sich auf den Weg nach [[Karaxan]], wo er etwa 6 Wochen später ankommt.
+%%tl-event-body-end%%
 # Aussehen
 Darius ist ein [Firbolg](../../Races/Firbolg.md) durchschnittlicher Statur mit einer Stupsnase und Kuhohren, Hörner hat er keine. Er hat mittellange, curly Haare, welche ab etwa der Hälfte vom natürlichen Braun in ein gefärbtes Orange übergehen. Er hat zwei kleine Zöpfe, die ihm bis über die Schultern reichen.  
 Darius trägt als Piercings SnakeBites, AngelFangs und ein Eyebrow [[Piercing]]; Tattoos hat er keine.

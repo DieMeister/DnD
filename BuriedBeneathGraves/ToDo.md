@@ -36,12 +36,15 @@
 		- [ ] NPC mit grundlegend anderer Vorstellung als Darius, die aber zusammenarbeiten müssen, erstellen
 		- [ ] create NPC who's politically different but Darius respects
 		- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat (Camp Recep)
+			- [ ] Karaxan
+			- [ ] Camp Recep
 	- [ ] Namen ausdenken 
 		- [ ] Wochentage (mit Sky)
 		- [ ] Familienname von Darius
 		- [ ] Darius' Vater
 		- [ ] Darius' Mutter
 		- [ ] Darius' Schwester
+	- [ ] Brief an Terim, wie es mit Grashk weitergehen soll
 - [ ] Zauber
 	- [ ] Gesten Überlegen
 	- [ ] Sprüche überlegen
@@ -255,6 +258,12 @@
 ## config
 - [ ] create color for Processes in Graph View
 - [x] remove Timeline files from Graph View
+## Keywords
+- [ ] TODO
+	- [ ] Todesursache von Darius Mutter
+- [x] FIXME
+- [x] NOTSURE
+	- [ ] Name von Darius Schwester
 # Git
 # Anarchie
 ## Quellen verstehen
