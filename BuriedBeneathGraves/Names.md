@@ -1,4 +1,5 @@
 - [Akeldama](./Events/Akeldama.md)
+- Arrek
 - Avyth
 - Cethem
 - [Changeling](./Creatures/Changeling.md)
@@ -29,6 +30,7 @@
 - [Sivyl](./Locations/Sivyl.md)
 - [Uthlin](./Locations/Uthlin.md)
 - [Verekir](./Locations/Verekir.md)
+- Vinsa
 - Ynavith
 - Ynceth
 - Ynkayttz

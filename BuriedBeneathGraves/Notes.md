@@ -196,7 +196,7 @@
 ## Jadzia
 - tot
 - Leiche nicht auffindbar
-- hat immer vor Terim geplant
+- hat immer vor Terim gewarnt
 ## Kazkrah
 - tot
 ## Kuo-Toa Priester
@@ -246,3 +246,67 @@
 - Cantrips immer
 - Firbolg einmal 
 - sonst verbrauchen slots
+# Session 5
+- beginnt am Wasserplatz
+- Überlegung wo man schlafen kann
+- Enya erfährt was passiert ist
+	- Zuza und Jadzia sind  tot bzw nicht auffindbar
+## Arrek
+- Arrek kommt vorbei und bietet ihnen an, in seinem Lager zu schlafen
+	- Arrek ist 1,20 - 1,30m
+	- Decke, Feuer auf Boden, Topf, Trümmer auf Boden in einer Gasse
+		- Boden aus Pflasterstein
+- Arrek war nicht bei Terims Rede da
+- Darius berichtet was passiert ist
+	- Arrek findet Terim ist ein guter Mann
+- Poststelle von Arrek heißt "offener Tee"
+- **Long Rest**
+- **34.02.28nA - Sonnenaufgang**
+- Enya will sich waschen
+- Einkaufslage in Grashk schwierig gerade
+- Darius verspricht Arrek einen Brief zu verschicken
+	- will nachmittags zur Poststation kommen
+- Arrek packt seine Sachen und geht Richtung Poststation
+	- wickelt alles in Decke
+- beschließen erst zum Brunnen und dann zur Hornsingerbar zu gehen
+## Wasserplatz
+- Darius wirft Münze in Brunnen
+- Enya holt Wasser und versucht es zu erhitzen
+	- Enyas Hand erhitzt sich
+	- Enya hält Hand in Wasser
+	- Wasser verdampft
+	- Darius und Kem überzeugen Enya den Eimer abzustellen
+		- Eimer weißt leichte Spuren von Verkohlung auf
+- Darius holt neues Wasser aus dem Brunnen
+	- Wasser bleibt eiskalt
+	- waschen sich und Kleidung gleich mit (nicht nackt)
+- Halbelf kommt auf sie zu
+	- weiblich
+	- sonnengebräunte Haut
+	- blond-graue Locken
+		- seitlich abrasiert
+		- oben viel Volumen
+	- Kleidung auf Nützlichkeit ausgelegt
+- Halbelf fragt, ob sie die sind, die mit Iskra unterwegs waren
+- Kem und Enya waschen sich
+- Darius spricht mit Elfin
+- Elfin will Geschichte von ihnen hören
+	- fragt wie sie zu Iskra stehen
+	- sind nicht gut auf ihn zu sprechen
+- Elfin heißt Vinsa
+- Schiff mit dem Iskra kam gehört Vinsa
+- Vinsa spricht Camp Recep an ohne Namen zu nennen
+	- Darius vorsichtig nicht zu viel vor Enya und Kem zu sagen
+- Vinsa will direkte Kommunikation
+- Vinsa kennt 93
+- Vinsa beliefert Camp Recep
+- Vinsa spricht Konflikt mit Rechner an
+	- kaputter Warforged ist wollte ins Camp
+	- Iskra hat Warforged über Bord geworfen
+		- wollte sich um Folgen davon kümmern (hat er nicht)
+- Vinsa findet Terims Rede heuchlerisch
+- Vinsa ordert die 3 bis Nachmittag ins alte Rathaus
+	- Informationen wo sich Iskra aufhalten könnte
+- Vinsa verabschiedet sich
+- Enya "tauscht" Cloth of Gold Vestment von Darius gegen einen seltsamen Schlüssel
+## Trockenhafen

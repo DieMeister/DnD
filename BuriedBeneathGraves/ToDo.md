@@ -25,7 +25,7 @@
 	- [ ] add links to summary
 - [ ]  Session 5 - Gebrochen und Geborgen
 	- [x] cut (03:24:07 / 03:24:07 - 100%)
-	- [ ] get Information
+	- [ ] get Information (42:30 / 03:24:07 - 20.82%)
 	- [ ] summarize
 	- [ ] add links to summary
 # DnD
@@ -99,6 +99,7 @@
 # Obsidian
 ## Formatting
 - [ ] Infos von [Notes](./Notes.md) in entsprechende Dateien übertragen
+- [ ] Pronomen von Warforged in Summary überprüfen
 - [ ] Links auf Vollständigkeit überprüfen
 	- [ ] Believes
 		- [ ] [Esther](./Believes/Esther.md)
