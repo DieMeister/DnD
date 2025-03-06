@@ -3,7 +3,7 @@
   "dateParserGroupPriority": "year,month,day",
   "dateParserRegex": "(?<year>-?[0-9]*)-(?<month>[0-9]*)-(?<day>[0-9]*)",
   "eventRenderToggleKey": "tl-render",
-  "inlineEventEndOfBodyMarker": "%%event-body-end",
+  "inlineEventEndOfBodyMarker": "%%tl-event-body-end",
   "markdownBlockTagsToFindSeparator": ",",
   "metadataKeyEventBodyOverride": "tl-event-body",
   "metadataKeyEventEndDate": "tl-event-end",

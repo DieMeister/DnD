@@ -21,4 +21,4 @@ tl-timelines: [all, Grashk]
 tl-event-title: Fest des Letzten Schiffs
 %%
 Dies ist das letzte Fest des Letzten Schiffs, da kurz darauf der Fluch gebrochen wurde und sich, nach der [Sintflut](./die%20Sintflut.md), der Wasserstand normalisiert hat.
-%%event-body-end%%
+%%tl-event-body-end%%
