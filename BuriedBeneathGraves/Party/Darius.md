@@ -73,6 +73,40 @@ tl-event-picture: none
 %% --->
 Am 08. Mekayttz 026nA verlässt Darius [Verekir](../Locations/Verekir.md) und macht sich auf den Weg nach [[Karaxan]], wo er etwa 6 Wochen später ankommt.
 <!-- %%tl-event-body-end%% -->
+
+<!--- %%tl-inline-event
+tl-render: true
+tl-event-title: Darius in Karaxan
+tl-event-start: 026-01-42
+tl-event-end: 026-02-33
+tl-timelines: [all, Darius]
+tl-event-picture: none
+tl-event-body:
+%% --->
+TODO Was hat Darius in Karaxan gemacht
+<!-- %%tl-event-body-end%% -->
+
+<!--- %%tl-inline-event
+tl-render: true
+tl-event-title: Darius' Reise nach Camp Recep
+tl-event-start: 026-02-33
+tl-event-end: 026-03-07
+tl-timelines: [all, Darius]
+tl-event-picture: none
+tl-event-body: Auf seinem Weg nach Grashk entdeckt Darius Camp Recep, weil er eine Abkürzung nehmen wollte. 
+%% --->
+Eigentlich wollte Darius nach seinem Aufenthalt in [Karaxan](../Locations/Karaxan.md) weiter nach [Grashk](../Location/Grashk.md). Um schneller zu folgt er nicht der Straße nach Westen, sondern kürz direkt nach Süd-Westen ab. Dabei trifft er am 07.03.026nA auf [Camp Recep](../Locations/Camp%20Recep), wo er erstmal bleibt und seine Reise nach [Grashk](../Locations/Grashk.md) auf unbestimmte Zeit verschiebt.
+
+<!--- %%tl-inline-event
+tl-render: true
+tl-event-title: Darius in Camp Recep
+tl-event-start: 026-03-07
+tl-event-end: 026-05-00
+tl-timelines: [all, Darius]
+tl-event-picture: none
+tl-event-body:
+%% --->
+Während seiner Zeit in [Camp Recep](../Locations/Camp%20Recep.md) lernt Darius viel über [Warforged](../Creatures/Warforged.md) und [[Anarchie]]. Mit den meisten [Warforged](../Creatures/Warforged.md) versteht er sich gut und es entstehen viele neue Freundschaften.
 # Aussehen
 Darius ist ein [Firbolg](../../Races/Firbolg.md) durchschnittlicher Statur mit einer Stupsnase und Kuhohren, Hörner hat er keine. Er hat mittellange, curly Haare, welche ab etwa der Hälfte vom natürlichen Braun in ein gefärbtes Orange übergehen. Er hat zwei kleine Zöpfe, die ihm bis über die Schultern reichen.  
 Darius trägt als Piercings SnakeBites, AngelFangs und ein Eyebrow [[Piercing]]; Tattoos hat er keine.

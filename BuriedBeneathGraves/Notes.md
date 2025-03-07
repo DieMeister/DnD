@@ -242,7 +242,6 @@
 	- **Markus**
 # Processes
 # Daten
-
 34 bank überfall
 33 sintflut - wiederbelebung
 32 grashk - kampf in höhle
@@ -252,6 +251,26 @@
 - Cantrips immer
 - Firbolg einmal 
 - sonst verbrauchen slots
+# Namensideen
+- Fiadh
+- Fiona
+- Phia
+- Eliora
+- Eleanora
+- Wynn
+- Gwyneth
+- **Celestine**
+- Pepper
+- Ffion
+- Sina
+- Moon(ie)
+- Enola
+- Zuzu
+- Guinevere
+- Finja
+- Siiri
+- Xandria
+- **Thalassa**
 # Session 5
 - beginnt am Wasserplatz
 - Überlegung wo man schlafen kann
