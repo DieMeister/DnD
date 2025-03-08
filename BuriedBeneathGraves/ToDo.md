@@ -56,7 +56,8 @@
 - [ ] add Spells
 - [x] add Races
 # Timeline
-- [ ] Ereignisse rausarbeiten
+- [ ] Inline Events strukturiert sammeln
+- [ ] Ereignisse herausarbeiten
 	- [ ] Believes
 		- [ ] [Esther](./Believes/Esther.md)
 		- [ ] [Siath](./BElieves/Siath.md)
@@ -81,7 +82,7 @@
 		- [ ] [Uthlin](./Locations/Uthlin.md)
 		- [ ] [Verekir](./Locations/Verekir.md)
 	- [ ] NPCs
-		- [ ] [93](./NPCs/93.md)
+		- [ ] [93](./NPCs/93%20-%20Eule.md)
 		- [ ] [Darius' Vater](./NPCs/Darius'%20Vater.md)
 		- [ ] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
 		- [ ] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
@@ -133,7 +134,7 @@
 		- [ ] [Uthlin](./Locations/Uthlin.md)
 		- [ ] [Verekir](./Locations/Verekir.md)
 	- [ ] NPCs
-		- [ ] [93](./NPCs/93.md)
+		- [ ] [93](./NPCs/93%20-%20Eule.md)
 		- [ ] [Darius' Vater](./NPCs/Darius'%20Vater.md)
 		- [ ] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
 		- [ ] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
@@ -181,7 +182,7 @@
 		- [ ] [Uthlin](./Locations/Uthlin.md)
 		- [ ] [Verekir](./Locations/Verekir.md)
 	- [ ] NPCs
-		- [ ] [93](./NPCs/93.md)
+		- [ ] [93](./NPCs/93%20-%20Eule.md)
 		- [ ] [Darius' Vater](./NPCs/Darius'%20Vater.md)
 		- [ ] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
 		- [ ] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
@@ -229,7 +230,7 @@
 		- [x] [Uthlin](./Locations/Uthlin.md)
 		- [x] [Verekir](./Locations/Verekir.md)
 	- [x] NPCs
-		- [x] [93](./NPCs/93.md)
+		- [x] [93](./NPCs/93%20-%20Eule.md)
 		- [x] [Darius' Vater](./NPCs/Darius'%20Vater.md)
 		- [x] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
 		- [x] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)

@@ -107,6 +107,27 @@ tl-event-picture: none
 tl-event-body:
 %% --->
 Während seiner Zeit in [Camp Recep](../Locations/Camp%20Recep.md) lernt Darius viel über [Warforged](../Creatures/Warforged.md) und [[Anarchie]]. Mit den meisten [Warforged](../Creatures/Warforged.md) versteht er sich gut und es entstehen viele neue Freundschaften.
+
+<!--- %%tl-inline-event
+tl-render: true
+tl-event-title: Darius' zweiter Aufenthalt in Camp Recep
+tl-event-start: 027-02-00
+tl-event-end: 027-08-00
+tl-timelines: [all, Darius]
+tl-event-picture: none
+tl-event-body: 
+%% --->
+
+<!--- %%tl-inline-event
+tl-render: true
+tl-event-title: Darius bekommt Nummer in Camp Recep
+tl-event-start: 027-06-00
+tl-event-end: none
+tl-timelines: [all, Darius, Camp Recep]
+tl-event-picture: none
+%% --->
+Auch wenn Darius nicht für immer im Camp bleiben möchte, wird er trotzdem mit einer Nummer geehrt und als Freund des Camps anerkannt.
+<!-- %%tl-event-body-end%% -->
 # Aussehen
 Darius ist ein [Firbolg](../../Races/Firbolg.md) durchschnittlicher Statur mit einer Stupsnase und Kuhohren, Hörner hat er keine. Er hat mittellange, curly Haare, welche ab etwa der Hälfte vom natürlichen Braun in ein gefärbtes Orange übergehen. Er hat zwei kleine Zöpfe, die ihm bis über die Schultern reichen.  
 Darius trägt als Piercings SnakeBites, AngelFangs und ein Eyebrow [[Piercing]]; Tattoos hat er keine.

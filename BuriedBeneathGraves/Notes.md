@@ -157,7 +157,6 @@
 	- zerzausten Kaputzenumhang
 	- Dolch
 - kommt nicht aus Grashk
-- kennt Darius
 - ist für die Sicherheit in der Gegend um Grashk verantwortlich
 - weiß von 3 Amuletten
 ## 177
@@ -225,21 +224,6 @@
 	- ergänzt Informationen je nachdem was die Situation gerade erfordert
 - Eigentümer des Siegelrings
 - Briefverkehr zu Terim 
-### Camp Recep
-- 03.26nA Camp entdeckt
-	- war nicht am stück da
-- kennt meisten der war forged aus recep
-	- auch 93
-- bleibt ab 02.27nA länger im camp
-	- bekommt Nummer 157 im 06.27nA
-- verlässt camp nochmal vor campaign beginn
-### mögliche Namen der Familie
-- Schwester
-	- Eleonor
-	- Emilia
-	- **Fiona**
-- Vater
-	- **Markus**
 # Processes
 # Daten
 34 bank überfall
@@ -259,18 +243,27 @@
 - Eleanora
 - Wynn
 - Gwyneth
-- **Celestine**
+- Celestine
 - Pepper
 - Ffion
-- Sina
-- Moon(ie)
+- *Sina*
+- *Moon(ie)*
 - Enola
 - Zuzu
 - Guinevere
 - Finja
-- Siiri
+- *Siiri*
 - Xandria
-- **Thalassa**
+- Thalassa
+- *Levorya*
+- Eleonor
+- Emilia
+- Fiona
+- *Jasmine*
+- *Waschbär*
+- *Nora*
+- *Henry*
+- *Addie*
 # Session 5
 - beginnt am Wasserplatz
 - Überlegung wo man schlafen kann
