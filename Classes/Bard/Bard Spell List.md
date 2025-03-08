@@ -89,5 +89,125 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [[Suggestion]]               | Enchantment   | 1 Action              | 30 feet              | Concentration, up to 8 hours    | V, M       |
 | [[Warding Wind]]             | Evocation     | 1 Action              | Self                 | Concentration, up to 10 minutes | V          |
 | [[Zone of Truth]]            | Enchantment   | 1 Action              | 60 feet              | 10 minutes                      | V, S       |
+# 3rd Level
+
+| Spell Name              | School        | Casting Time          | Range                            | Duration                        | Components |
+| ----------------------- | ------------- | --------------------- | -------------------------------- | ------------------------------- | ---------- |
+| [[Antagonize]]          | Enchantment   | 1 Action              | 30 feet                          | Instantaneous                   | V, S, M    |
+| [[Antagonize (UA)]]     | Enchantment   | 1 Action              | 30 feet                          | Instantaneous                   | V, S, M    |
+| [[Bestow Curse]]        | Necromancy    | 1 Action              | Touch                            | Concentration, up to 1 minute   | V, S       |
+| [[Catnap]]              | Enchantment   | 1 Action              | 30 feet                          | 10 minutes                      | S, M       |
+| [[Clairvoyance]]        | Divination    | 10 Minutes            | 1 mile                           | Concentration, up to 10 minutes | V, S, M    |
+| [[Dispel Magic]]        | Abjuration    | 1 Action              | 120 feet                         | Instantaneous                   | V, S       |
+| [[Enemies Abound]]      | Enchantment   | 1 Action              | 120 feet                         | Concentration, up to 1 minute   | V, S       |
+| [[Fast Friends]]        | Enchantment   | 1 Action              | 30 feet                          | Concentration, up to 1 hour     | V          |
+| [[Fear]]                | Illusion      | 1 Action              | Self (30-foot cone)              | Concentration, up to 1 minute   | V, S, M    |
+| [[Feign Death]]         | Necromancy    | 1 Action <sup>R</sup> | Touch                            | 24 hours                        | V, S, M    |
+| [[Glyph of Warding]]    | Abjuration    | 1 Hour                | Touch                            | Until dispelled or triggert     | V, S, M    |
+| [[House of Cards (UA)]] | Conjuration   | 1 Minute              | Touch                            | 24 hours                        | V, S, M    |
+| [[Hypnotic Pattern]]    | Illusion      | 1 Action              | 120 feet                         | Concentration, up to 1 minute   | S, M       |
+| [[Intellect Fortress]]  | Abjuration    | 1 Action              | 30 feet                          | Concentration, up to 1 hour     | V          |
+| [[Leomund's Tiny Hut]]  | Evocation     | 1 Minute <sup>R</sup> | Self (10-foot radius hemisphere) | 8 hours                         | V, S, M    |
+| [[Major Image]]         | Illusion      | 1 Action              | 120 feet                         | Concentration, up to 10 minutes | V, S, M    |
+| [[Mass Healing Word]]   | Evocation     | 1 Bonus Action        | 60 feet                          | Instantaneous                   | V          |
+| [[Motivational Speech]] | Enchantment   | 1 Minute              | 60 feet                          | 1 hour                          | V          |
+| [[Nondetection]]        | Abjuration    | 1 Action              | Touch                            | 8 hours                         | V, S, M    |
+| [[Plant Growth]]        | Transmutation | 1 Action or 8 Hours   | 150 feet                         | Instantaneous                   | V, S       |
+| [[Sending]]             | Evocation     | 1 Action              | Unlimited                        | 1 round                         | V, S, M    |
+| [[Slow]]                | Transmutation | 1 Action              | 120 feet                         | Concentration, up to 1 minute   | V, S, M    |
+| [[Speak with Dead]]     | Necromancy    | 1 Action              | 10 feet                          | 10 minutes                      | V, S, M    |
+| [[Speak with Plants]]   | Transmutation | 1 Action              | Self (30-foot radius)            | 10 minutes                      | V, S       |
+| [[Stinking Cloud]]      | Conjuration   | 1 Action              | 90 feet                          | Concentration, up to 1 minute   | V, S, M    |
+| [[Tongues]]             | Divination    | 1 Action              | Touch                            | 1 hour                          | V, M       |
+# 4th Level
+
+| Spell Name                         | School        | Casting Time | Range    | Duration                      | Components |
+| ---------------------------------- | ------------- | ------------ | -------- | ----------------------------- | ---------- |
+| [[Charm Monster]]                  | Enchantment   | 1 Action     | 30 feet  | 1 hour                        | V, S       |
+| [[Compulsing]]                     | Enchantment   | 1 Action     | 30 feet  | Concentration, up to 1 minute | V, S       |
+| [[Confusion]]                      | Enchantment   | 1 Action     | 90 feet  | Concentration, up to 1 minute | V, S, M    |
+| [[Dimension Door]]                 | Conjuration   | 1 Action     | 500 feet | Instantaneous                 | V          |
+| [[Ego Whip (UA)]]                  | Enchantment   | 1 Action     | 30 feet  | Concentration, up to 1 minute | V          |
+| [[Freedom of Movement]]            | Abjuration    | 1 Action     | Touch    | 1 hour                        | V, S, M    |
+| [[Greater Invisibility]]           | Illusion      | 1 Action     | Touch    | Concentration, up to 1 minute | V, S       |
+| [[Hallucinatory Terrain]]          | Illusion      | 10 Minutes   | 300 feet | 24 hours                      | V, S, M    |
+| [[Locate Creature]]                | Divination    | 1 Action     | Self     | Concentration, up to 1 hour   | V, S, M    |
+| [[Phantasmal Killer]]              | Illusion      | 1 Action     | 120 feet | Concentration, up to 1 minute | V, S       |
+| [[Polymorph]]                      | Transmutation | 1 Action     | 60 feet  | Concentration, up to 1 hour   | V, S, M    |
+| [[Raulothim's Psychic Lance]]      | Enchantment   | 1 Action     | 120 feet | Instantaneous                 | V          |
+| [[Raulothim's Psychic Lance (UA)]] | Enchantment   | 1 Action     | 120 feet | Instantaneous                 | V          |
+# 5th Level
+
+| Spell Name                 | School        | Casting Time          | Range    | Duration                        | Components |
+| -------------------------- | ------------- | --------------------- | -------- | ------------------------------- | ---------- |
+| [[Animate Objects]]        | Transmutation | 1 Action              | 120 feet | Concentration, up to 1 minute   | V, S       |
+| [[Awaken]]                 | Transmutation | 8 Hours               | Touch    | Instantaneous                   | V, S, M    |
+| [[Dominate Person]]        | Enchantment   | 1 Action              | 60 feet  | Concentration, up to 1 minute   | V, S       |
+| [[Dream]]                  | Illusion      | 1 Minute              | Special  | 8 hours                         | V, S, M    |
+| [[Geas]]                   | Enchantment   | 1 Minute              | 60 feet  | 30 days                         | V          |
+| [[Greater Restoration]]    | Abjuration    | 1 Action              | Touch    | Instantaneous                   | V, S, M    |
+| [[Hold Monster]]           | Enchantment   | 1 Action              | 90 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Legend Lore]]            | Divination    | 10 Minutes            | Self     | Instantaneous                   | V, S, M    |
+| [[Mass Cure Wounds]]       | Evocation     | 1 Action              | 60 feet  | Instantaneous                   | V, S       |
+| [[Mislead]]                | Illusion      | 1 Action              | Self     | Concentration, up to 1 hour     | S          |
+| [[Modify Memory]]          | Enchantment   | 1 Action              | 30 feet  | Concentration, up to 1 minute   | V, S       |
+| [[Planar Binding]]         | Abjuration    | 1 Hour                | 60 feet  | 24 hours                        | V, S, M    |
+| [[Raise Dead]]             | Necromancy    | 1 Action              | Touch    | Instantaneous                   | V, S, M    |
+| [[Rary's Telepathic Bond]] | Divination    | 1 Action <sup>R</sup> | 30 feet  | 1 hour                          | V, S, M    |
+| [[Scying]]                 | Divination    | 10 Minutes            | Self     | Concentration, up to 10 minutes | V, S, M    |
+| [[Seeming]]                | Illusion      | 1 Action              | 30 feet  | 8 hours                         | V, S       |
+| [[Skill Empowerment]]      | Transmutation | 1 Action              | Touch    | Concentration, up to 1 hour     | V, S       |
+| [[Synaptic Static]]        | Enchantment   | 1 Action              | 120 feet | Instantaneous                   | V, S       |
+| [[Teleportation Circle]]   | Conjuration   | 1 Minute              | 10 feet  | 1 round                         | V, M       |
+# 6th Level
+
+| Spell Name                    | School      | Casting Time | Range    | Duration                      | Components |
+| ----------------------------- | ----------- | ------------ | -------- | ----------------------------- | ---------- |
+| [[Eyebite]]                   | Necromancy  | 1 Action     | Self     | Concentration, up to 1 minute | V, S       |
+| [[Find the Path]]             | Divination  | 1 Minute     | Self     | Concentration, up to 1 day    | V, S, M    |
+| [[Guards and Wards]]          | Abjuration  | 10 Minutes   | Touch    | 24 hours                      | V, S, M    |
+| [[Heroe's Feast]]             | Conjuration | 10 Minutes   | 30 feet  | Instantaneous                 | V, S, M    |
+| [[Mass Suggestion]]           | Enchantment | 1 Action     | 60 feet  | 24 hours                      | V, M       |
+| [[Otto's Irresistible Dance]] | Enchantment | 1 Action     | 30 feet  | Concentration, up to 1 minute | V          |
+| [[Programmed Illusion]]       | Illusion    | 1 Action     | 120 feet | Until dispelled               | V, S, M    |
+| [[True Seeing]]               | Divination  | 1 Action     | Touch    | 1 hour                        | V, S, M    |
+# 7th Level
+
+| Spell Name                             | School        | Casting Time | Range               | Duration                      | Components |
+| -------------------------------------- | ------------- | ------------ | ------------------- | ----------------------------- | ---------- |
+| [[Dream of the Blue Veil]]             | Conjuration   | 10 minutes   | 20 feet             | 6 hours                       | V, S, M    |
+| [[Etherealness]]                       | Transmutation | 1 Action     | Self                | Up to 8 hours                 | V, S       |
+| [[Forcecage]]                          | Evocation     | 1 Action     | 100 feet            | 1 hour                        | V, S, M    |
+| [[Mirage Arcane]]                      | Illusion      | 10 Minutes   | Sight               | 10 days                       | V, S       |
+| [[Mordenkainen's Magnificent Mansion]] | Conjuration   | 1 Minute     | 300 feet            | 24 hours                      | V, S, M    |
+| [[Mordenkainen's Sword]]               | Evocation     | 1 Action     | 60 feet             | Concentration, up to 1 minute | V, S, M    |
+| [[Prismatic Spray]]                    | Evocation     | 1 Action     | Self (60-foot cone) | Instantaneous                 | V, S       |
+| [[Project Image]]                      | Illusion      | 1 Action     | 500 Miles           | Concentration, up to 1 day    | V, S, M    |
+| [[Regenerate]]                         | Transmutation | 1 Minute     | Touch               | 1 hour                        | V, S, M    |
+| [[Resurrection]]                       | Necromancy    | 1 Hour       | Touch               | Instantaneous                 | V, S, M    |
+| [[Symbol]]                             | Abjuration    | 1 Minute     | Touch               | Until dispelled or triggered  | V, S, M    |
+| [[Teleport]]                           | Conjuration   | 1 Action     | 10 feet             | Instantaneous                 | V          |
+# 8th Level
+
+| Spell Name             | School        | Casting Time | Range    | Duration                    | Components |
+| ---------------------- | ------------- | ------------ | -------- | --------------------------- | ---------- |
+| [[Antipathy/Sympathy]] | Enchantment   | 1 Hour       | 60 feet  | 10 Days                     | V, S, M    |
+| [[Dominate Monster]]   | Enchantment   | 1 Action     | 60 feet  | Concentration, up to 1 hour | V, S       |
+| [[Feeblemind]]         | Enchantment   | 1 Action     | 150 feet | Instantaneous               | V, S, M    |
+| [[Glibness]]           | Transmutation | 1 Action     | Self     | 1 hour                      | V          |
+| [[Mind Blank]]         | Abjuration    | 1 Action     | Touch    | 24 hours                    | V, S       |
+| [[Power Word: Stun]]   | Enchantment   | 1 Action     | 60 feet  | Instantaneous               | V, S       |
+
+# 9th Level
+
+| Spell Name           | School        | Casting Time | Range    | Duration                    | Components |
+| -------------------- | ------------- | ------------ | -------- | --------------------------- | ---------- |
+| [[Foresight]]        | Divination    | 1 Minute     | Touch    | 8 hours                     | V, S, M    |
+| [[Mass Polymorph]]   | Transmutation | 1 Action     | 120 feet | Concentration, up to 1 hour | V, S, M    |
+| [[Power Word: Heal]] | Evocation     | 1 Action     | Touch    | Instantaneous               | V, S       |
+| [[Power Word: Kill]] | Enchantment   | 1 Action     | 60 feet  | Instantaneous               | V          |
+| [[Prismatic Wall]]   | Abjuration    | 1 Action     | 60 feet  | 10 minutes                  | V, S       |
+| [[Psychic Stream]]   | Enchantment   | 1 Action     | 90 feet  | Instantaneous               | S          |
+| [[True Polymorph]]   | Transmutation | 1 Action     | 30 feet  | Concentration, up to 1 hour | V, S, M    |
 
 <sup>R</sup> - Ritual Spell
