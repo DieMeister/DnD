@@ -1,20 +1,20 @@
-This bard spell list includes [[optional spells]] available from Tasha's Cauldron of Everything. For the bard spell list without optional spells, see [[Core Bard Spells]]
+de This bard spell list includes [[optional spells]] available from Tasha's Cauldron of Everything. For the bard spell list without optional spells, see [[Core Bard Spells]]
 # Cantrip
 
-| Spell Name           | School        | Casting Time | Range                | Duration                      | Components |
-| -------------------- | ------------- | ------------ | -------------------- | ----------------------------- | ---------- |
-| [[Blade Ward]]       | Abjuration    | 1 Action     | Self                 | 1 round                       | V, S       |
-| [[Dancing Lights]]   | Evocation     | 1 Action     | 120 feet             | Concentration up to 1 minute  | V, S, M    |
-| [[Friends]]          | Enchantment   | 1 Action     | Self                 | Concentration, up to 1 minute | S, M       |
-| [[Light]]            | Evocation     | 1 Action     | Touch                | 1 hour                        | V, M       |
-| [[Mage Hand]]        | Conjuration   | 1 Action     | 30 feet              | 1 minute                      | V, S       |
-| [[Mending]]          | Transmutation | 1 Minute     | Touch                | Instantaneous                 | V, S, M    |
-| [[Message]]          | Transmutation | 1 Action     | 120 feet             | 1 round                       | V, S, M    |
-| [[Minor Illusion]]   | Illusion      | 1 Action     | 30 feet              | 1 minute                      | S, M       |
-| [[Prestidigitation]] | Transmutation | 1 Action     | 10 feet              | Up to 1 hour                  | V, S       |
-| [[Thunderclap]]      | Evocation     | 1 Action     | Self (5-foot-radius) | Instantaneous                 | S          |
-| [[True Strike]]      | Divination    | 1 Action     | 30 feet              | Concentration up to 1 round   | S          |
-| [[Vicious Mockery]]  | Enchantment   | 1 Action     | 60 feet              | Instantaneous                 | V          |
+| Spell Name                                          | School        | Casting Time | Range                | Duration                      | Components |
+| --------------------------------------------------- | ------------- | ------------ | -------------------- | ----------------------------- | ---------- |
+| [Blade Ward](../Cantrips/Blade%20Ward.md)           | Abjuration    | 1 Action     | Self                 | 1 round                       | V, S       |
+| [Dancing Lights](../Cantrips/Dancing%20Lights.md)   | Evocation     | 1 Action     | 120 feet             | Concentration up to 1 minute  | V, S, M    |
+| [Friends](../Cantrips/Friends.md)                   | Enchantment   | 1 Action     | Self                 | Concentration, up to 1 minute | S, M       |
+| [Light](../Cantrips/Light.md)                       | Evocation     | 1 Action     | Touch                | 1 hour                        | V, M       |
+| [Mage Hand](../Cantrips/Mage%20Hand.md)             | Conjuration   | 1 Action     | 30 feet              | 1 minute                      | V, S       |
+| [Mending](../Cantrips/Mending.md)                   | Transmutation | 1 Minute     | Touch                | Instantaneous                 | V, S, M    |
+| [Message](../Cantrips/Message.md)                   | Transmutation | 1 Action     | 120 feet             | 1 round                       | V, S, M    |
+| [Minor Illusion](../Cantrips/Minor%20Illusion.md)   | Illusion      | 1 Action     | 30 feet              | 1 minute                      | S, M       |
+| [Prestidigitation](../Cantrips/Prestidigitation.md) | Transmutation | 1 Action     | 10 feet              | Up to 1 hour                  | V, S       |
+| [Thunderclap](../Cantrips/Thunderclap.md)           | Evocation     | 1 Action     | Self (5-foot-radius) | Instantaneous                 | S          |
+| [True Strike](../Cantrips/True%20Strike.md)         | Divination    | 1 Action     | 30 feet              | Concentration up to 1 round   | S          |
+| [Vicious Mockery](../Cantrips/Vicious%20Mockery.md) | Enchantment   | 1 Action     | 60 feet              | Instantaneous                 | V          |
 # 1st Level
 
 | Spell Name                   | School        | Casting Time          | Range                 | Duration                        | Components |
