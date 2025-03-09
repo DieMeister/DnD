@@ -33,23 +33,18 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [Earth Tremor](../Level1/Earth%20Tremor.md)                           | Evocation     | 1 Action              | Self (10-foot-radius) | Instantaneous                   | V, S       |
 | [Faerie Fire](../Level1/Faerie%20Fire.md)                             | Evocation     | 1 Action              | 60 feet               | Concentration, up to 1 minute   | V          |
 | [Feather Fall](../Level1/Feather%20Fall.md)                           | Transmutation | 1 Reaction            | 60 feet               | 1 minute                        | V, M       |
-| [[Guiding Hand (UA)]]                                                 | Divination    | 1 Minute <sup>R</sup> | 5 feet                | Concentration, up to 8 hours    | V, S       |
 | [Healing Word](../Level1/Healing%20Word.md)                           | Evocation     | 1 Bonus Action        | 60 feet               | Instantaneous                   | V          |
 | [Heroism](../Level1/Heroism.md)                                       | Enchantment   | 1 Action              | Touch                 | Concentration, up to 1 minute   | V, S       |
 | [Identify](../Level1/Identify.md)                                     | Divination    | 1 Minute <sup>R</sup> | Touch                 | Instantaneous                   | V, S, M    |
 | [Illusory Script](../Level1/Illusory%20Script.md)                     | Illusion      | 1 Minute <sup>R</sup> | Touch                 | 10 days                         | S, M       |
 | [Longstrider](../Level1/Longstrider.md)                               | Transmutation | 1 Action              | Touch                 | 1 hour                          | V, S, M    |
-| [[Puppet (UA)]]                                                       | Enchantment   | 1 Action              | 120 feet              | Instantaneous                   | V          |
-| [[Sense Emotion (UA)]]                                                | Divination    | 1 Action              | Self                  | Concentration, up to 1 minute   | V, S       |
 | [Silent Image](../Level1/Silent%20Image.md)                           | Illusion      | 1 Action              | 60 feet               | Concentration, up to 10 minutes | V, S, M    |
 | [Silvery Barbs](../Level1/Silvery%20Barbs.md)                         | Enchantment   | 1 Reaction            | 60 feet               | Instantaneous                   | V          |
 | [Sleep](../Level1/Sleep.md)                                           | Enchantment   | 1 Action              | 90 feet               | 1 minute                        | V, S, M    |
 | [Speak with Animals](../Level1/Speak%20with%20Animals.md)             | Divination    | 1 Action <sup>R</sup> | Self                  | 10 minutes                      | V, S       |
-| [[Sudden Awakening (UA)]]                                             | Enchantment   | 1 Bonus Action        | 10 feet               | Instantaneous                   | V          |
 | [Tasha's Hideous Laughter](../Level1/Tasha's%20Hideous%20Laughter.md) | Enchantment   | 1 Action              | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
 | [Thunderwave](../Level1/Thunderwave.md)                               | Evocation     | 1 Action              | Self (15-foot cube)   | Instantaneous                   | V, S       |
-| [[Uneartlhy Chorus (UA)]]                                             | Illusion      | 1 Action              | Self (30-foot-radius) | Concentration, up to 10 minutes | V          |
-| [Unseen Servant](../Level1/Unseen%20Servant.md)                       | Conjuration   | 1 Action <sup>R</sup> | 60 feet               | 1 hour                          |  V, S, M   |
+| [Unseen Servant](../Level1/Unseen%20Servant.md)                       | Conjuration   | 1 Action <sup>R</sup> | 60 feet               | 1 hour                          | V, S, M    |
 # 2nd Level
 
 | Spell Name                   | School        | Casting Time          | Range                | Duration                        | Components |
@@ -77,7 +72,6 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [[Magic Mouth]]              | Illusion      | 1 Minute <sup>R</sup> | 30 feet              | Unit dispelled                  | V, S, M    |
 | [[Mirror Image]]             | Illusion      | 1 Action              | Self                 | 1 minute                        | V, S       |
 | [[Nathair's Mischief]]       | Illusion      | 1 Action              | 60 ft                | Concentration, up to 1 minute   | S, M       |
-| [[Nathair's Mischief (UA)]]  | Illusion      | 1 Action              | 60 feet              | Concentration, up to 1 minute   | S, M       |
 | [[Phantasmal Force]]         | Illusion      | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
 | [[Pyrotechnics]]             | Transmutation | 1 Action              | 60 feet              | Instantaneous                   | V, S       |
 | [[See Invisibility]]         | Divination    | 1 Action              | Self                 | 1 hour                          | V, S, M    |
@@ -85,7 +79,6 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [[Silence]]                  | Illusion      | 1 Action <sup>R</sup> | 120 feet             | Concentration, up to 10 minutes | V, S       |
 | [[Skywrite]]                 | Transmutation | 1 Action <sup>R</sup> | Sight                | Concentration, up to 1 day      | V, S       |
 | [[Spray of Cards]]           | Conjuration   | 1 Action              | Self (15-foot- cone) | Instantaneous                   | V, S, M    |
-| [[Spray of Cards (UA)]]      | Conjuration   | 1 Action              | 15-foot-cone         | Instantaneous                   | V, S, M    |
 | [[Suggestion]]               | Enchantment   | 1 Action              | 30 feet              | Concentration, up to 8 hours    | V, M       |
 | [[Warding Wind]]             | Evocation     | 1 Action              | Self                 | Concentration, up to 10 minutes | V          |
 | [[Zone of Truth]]            | Enchantment   | 1 Action              | 60 feet              | 10 minutes                      | V, S       |
@@ -94,7 +87,6 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | Spell Name              | School        | Casting Time          | Range                            | Duration                        | Components |
 | ----------------------- | ------------- | --------------------- | -------------------------------- | ------------------------------- | ---------- |
 | [[Antagonize]]          | Enchantment   | 1 Action              | 30 feet                          | Instantaneous                   | V, S, M    |
-| [[Antagonize (UA)]]     | Enchantment   | 1 Action              | 30 feet                          | Instantaneous                   | V, S, M    |
 | [[Bestow Curse]]        | Necromancy    | 1 Action              | Touch                            | Concentration, up to 1 minute   | V, S       |
 | [[Catnap]]              | Enchantment   | 1 Action              | 30 feet                          | 10 minutes                      | S, M       |
 | [[Clairvoyance]]        | Divination    | 10 Minutes            | 1 mile                           | Concentration, up to 10 minutes | V, S, M    |
@@ -104,7 +96,6 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [[Fear]]                | Illusion      | 1 Action              | Self (30-foot cone)              | Concentration, up to 1 minute   | V, S, M    |
 | [[Feign Death]]         | Necromancy    | 1 Action <sup>R</sup> | Touch                            | 24 hours                        | V, S, M    |
 | [[Glyph of Warding]]    | Abjuration    | 1 Hour                | Touch                            | Until dispelled or triggert     | V, S, M    |
-| [[House of Cards (UA)]] | Conjuration   | 1 Minute              | Touch                            | 24 hours                        | V, S, M    |
 | [[Hypnotic Pattern]]    | Illusion      | 1 Action              | 120 feet                         | Concentration, up to 1 minute   | S, M       |
 | [[Intellect Fortress]]  | Abjuration    | 1 Action              | 30 feet                          | Concentration, up to 1 hour     | V          |
 | [[Leomund's Tiny Hut]]  | Evocation     | 1 Minute <sup>R</sup> | Self (10-foot radius hemisphere) | 8 hours                         | V, S, M    |
@@ -127,7 +118,6 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [[Compulsing]]                     | Enchantment   | 1 Action     | 30 feet  | Concentration, up to 1 minute | V, S       |
 | [[Confusion]]                      | Enchantment   | 1 Action     | 90 feet  | Concentration, up to 1 minute | V, S, M    |
 | [[Dimension Door]]                 | Conjuration   | 1 Action     | 500 feet | Instantaneous                 | V          |
-| [[Ego Whip (UA)]]                  | Enchantment   | 1 Action     | 30 feet  | Concentration, up to 1 minute | V          |
 | [[Freedom of Movement]]            | Abjuration    | 1 Action     | Touch    | 1 hour                        | V, S, M    |
 | [[Greater Invisibility]]           | Illusion      | 1 Action     | Touch    | Concentration, up to 1 minute | V, S       |
 | [[Hallucinatory Terrain]]          | Illusion      | 10 Minutes   | 300 feet | 24 hours                      | V, S, M    |
@@ -135,7 +125,7 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [[Phantasmal Killer]]              | Illusion      | 1 Action     | 120 feet | Concentration, up to 1 minute | V, S       |
 | [[Polymorph]]                      | Transmutation | 1 Action     | 60 feet  | Concentration, up to 1 hour   | V, S, M    |
 | [[Raulothim's Psychic Lance]]      | Enchantment   | 1 Action     | 120 feet | Instantaneous                 | V          |
-| [[Raulothim's Psychic Lance (UA)]] | Enchantment   | 1 Action     | 120 feet | Instantaneous                 | V          |
+
 # 5th Level
 
 | Spell Name                 | School        | Casting Time          | Range    | Duration                        | Components |
