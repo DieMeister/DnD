@@ -1,4 +1,4 @@
-de This bard spell list includes [[optional spells]] available from Tasha's Cauldron of Everything. For the bard spell list without optional spells, see [[Core Bard Spells]]
+This bard spell list includes [[optional spells]] available from Tasha's Cauldron of Everything. For the bard spell list without optional spells, see [[Core Bard Spells]]
 # Cantrip
 
 | Spell Name                                          | School        | Casting Time | Range                | Duration                      | Components |
@@ -17,39 +17,39 @@ de This bard spell list includes [[optional spells]] available from Tasha's Caul
 | [Vicious Mockery](../Cantrips/Vicious%20Mockery.md) | Enchantment   | 1 Action     | 60 feet              | Instantaneous                 | V          |
 # 1st Level
 
-| Spell Name                   | School        | Casting Time          | Range                 | Duration                        | Components |
-| ---------------------------- | ------------- | --------------------- | --------------------- | ------------------------------- | ---------- |
-| [[Animal Friendship]]        | Enchantment   | 1 Action              | 30 feet               | 24 hours                        | V, S, M    |
-| [[Bane]]                     | Enchantment   | 1 Action              | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
-| [[Charm Person]]             | Enchantment   | 1 Action              | 30 feet               | 1 hour                          | V, S       |
-| [[Color Spray]]              | Illusion      | 1 Action              | Self (15-foot-radius) | 1 round                         | V, S, M    |
-| [[Command]]                  | Enchantment   | 1 Action              | 60 feet               | 1 round                         | V          |
-| [[Comprehend Languages]]     | Divination    | 1 Action <sup>R</sup> | Self                  | 1 round                         | V, S, M    |
-| [[Cure Wounds]]              | Evocation     | 1 Action              | Touch                 | Instantaneous                   | V, S       |
-| [[Detect Magic]]             | Divination    | 1 Action <sup>R</sup> | Self                  | Concentration, up to 10 minutes | V, S       |
-| [[Disguise Self]]            | Illusion      | 1 Action              | Self                  | 1 hour                          | V, S       |
-| [[Dissonant Whispers]]       | Enchantment   | 1 Action              | 60 feet               | Instantaneous                   | V          |
-| [[Distort Value]]            | Illusion      | 1 Minute              | Touch                 | 8 hours                         | V          |
-| [[Earth Tremor]]             | Evocation     | 1 Action              | Self (10-foot-radius) | Instantaneous                   | V, S       |
-| [[Faerie Fire]]              | Evocation     | 1 Action              | 60 feet               | Concentration, up to 1 minute   | V          |
-| [[Feather Fall]]             | Transmutation | 1 Reaction            | 60 feet               | 1 minute                        | V, M       |
-| [[Guiding Hand (UA)]]        | Divination    | 1 Minute <sup>R</sup> | 5 feet                | Concentration, up to 8 hours    | V, S       |
-| [[Healing Word]]             | Evocation     | 1 Bonus Action        | 60 feet               | Instantaneous                   | V          |
-| [[Heroism]]                  | Enchantment   | 1 Action              | Touch                 | Concentration, up to 1 minute   | V, S       |
-| [[Identify]]                 | Divination    | 1 Minute <sup>R</sup> | Touch                 | Instantaneous                   | V, S, M    |
-| [[Illusory Script]]          | Illusion      | 1 Minute <sup>R</sup> | Touch                 | 10 days                         | S, M       |
-| [[Longstrider]]              | Transmutation | 1 Action              | Touch                 | 1 hour                          | V, S, M    |
-| [[Puppet (UA)]]              | Enchantment   | 1 Action              | 120 feet              | Instantaneous                   | V          |
-| [[Sense Emotion (UA)]]       | Divination    | 1 Action              | Self                  | Concentration, up to 1 minute   | V, S       |
-| [[Silent Image]]             | Illusion      | 1 Action              | 60 feet               | Concentration, up to 10 minutes | V, S, M    |
-| [[Silvery Barbs]]            | Enchantment   | 1 Reaction            | 60 feet               | Instantaneous                   | V          |
-| [[Sleep]]                    | Enchantment   | 1 Action              | 90 feet               | 1 minute                        | V, S, M    |
-| [[Speak with Animals]]       | Divination    | 1 Action <sup>R</sup> | Self                  | 10 minutes                      | V, S       |
-| [[Sudden Awakening (UA)]]    | Enchantment   | 1 Bonus Action        | 10 feet               | Instantaneous                   | V          |
-| [[Tasha's Hideous Laughter]] | Enchantment   | 1 Action              | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
-| [[Thunderwave]]              | Evocation     | 1 Action              | Self (15-foot cube)   | Instantaneous                   | V, S       |
-| [[Uneartlhy Chorus (UA)]]    | Illusion      | 1 Action              | Self (30-foot-radius) | Concentration, up to 10 minutes | V          |
-| [[Unseen Servant]]           | Conjuration   | 1 Action <sup>R</sup> | 60 feet               | 1 hour                          |  V, S, M   |
+| Spell Name                                                            | School        | Casting Time          | Range                 | Duration                        | Components |
+| --------------------------------------------------------------------- | ------------- | --------------------- | --------------------- | ------------------------------- | ---------- |
+| [Animal Friendship](../Level1/Animal%20Friendship.md)                 | Enchantment   | 1 Action              | 30 feet               | 24 hours                        | V, S, M    |
+| [Bane](../Level1/Bane.md)                                             | Enchantment   | 1 Action              | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [Charm Person](../Level1/Charm%20Person.md)                           | Enchantment   | 1 Action              | 30 feet               | 1 hour                          | V, S       |
+| [Color Spray](../Level1/Color%20Spray.md)                             | Illusion      | 1 Action              | Self (15-foot-radius) | 1 round                         | V, S, M    |
+| [Command](../Level1/Command.md)                                       | Enchantment   | 1 Action              | 60 feet               | 1 round                         | V          |
+| [Comprehend Languages](../Level1/Comprehend%20Languages.md)           | Divination    | 1 Action <sup>R</sup> | Self                  | 1 round                         | V, S, M    |
+| [Cure Wounds](../Level1/Cure%20Wounds.md)                             | Evocation     | 1 Action              | Touch                 | Instantaneous                   | V, S       |
+| [Detect Magic](../Level1/Detect%20Magic.md)                           | Divination    | 1 Action <sup>R</sup> | Self                  | Concentration, up to 10 minutes | V, S       |
+| [Disguise Self](../Level1/Disguise%20Self.md)                         | Illusion      | 1 Action              | Self                  | 1 hour                          | V, S       |
+| [Dissonant Whispers](../Level1/Dissonant%20Whispers.md)               | Enchantment   | 1 Action              | 60 feet               | Instantaneous                   | V          |
+| [Distort Value](../Level1/Distort%20Value.md)                         | Illusion      | 1 Minute              | Touch                 | 8 hours                         | V          |
+| [Earth Tremor](../Level1/Earth%20Tremor.md)                           | Evocation     | 1 Action              | Self (10-foot-radius) | Instantaneous                   | V, S       |
+| [Faerie Fire](../Level1/Faerie%20Fire.md)                             | Evocation     | 1 Action              | 60 feet               | Concentration, up to 1 minute   | V          |
+| [Feather Fall](../Level1/Feather%20Fall.md)                           | Transmutation | 1 Reaction            | 60 feet               | 1 minute                        | V, M       |
+| [[Guiding Hand (UA)]]                                                 | Divination    | 1 Minute <sup>R</sup> | 5 feet                | Concentration, up to 8 hours    | V, S       |
+| [Healing Word](../Level1/Healing%20Word.md)                           | Evocation     | 1 Bonus Action        | 60 feet               | Instantaneous                   | V          |
+| [Heroism](../Level1/Heroism.md)                                       | Enchantment   | 1 Action              | Touch                 | Concentration, up to 1 minute   | V, S       |
+| [Identify](../Level1/Identify.md)                                     | Divination    | 1 Minute <sup>R</sup> | Touch                 | Instantaneous                   | V, S, M    |
+| [Illusory Script](../Level1/Illusory%20Script.md)                     | Illusion      | 1 Minute <sup>R</sup> | Touch                 | 10 days                         | S, M       |
+| [Longstrider](../Level1/Longstrider.md)                               | Transmutation | 1 Action              | Touch                 | 1 hour                          | V, S, M    |
+| [[Puppet (UA)]]                                                       | Enchantment   | 1 Action              | 120 feet              | Instantaneous                   | V          |
+| [[Sense Emotion (UA)]]                                                | Divination    | 1 Action              | Self                  | Concentration, up to 1 minute   | V, S       |
+| [Silent Image](../Level1/Silent%20Image.md)                           | Illusion      | 1 Action              | 60 feet               | Concentration, up to 10 minutes | V, S, M    |
+| [Silvery Barbs](../Level1/Silvery%20Barbs.md)                         | Enchantment   | 1 Reaction            | 60 feet               | Instantaneous                   | V          |
+| [Sleep](../Level1/Sleep.md)                                           | Enchantment   | 1 Action              | 90 feet               | 1 minute                        | V, S, M    |
+| [Speak with Animals](../Level1/Speak%20with%20Animals.md)             | Divination    | 1 Action <sup>R</sup> | Self                  | 10 minutes                      | V, S       |
+| [[Sudden Awakening (UA)]]                                             | Enchantment   | 1 Bonus Action        | 10 feet               | Instantaneous                   | V          |
+| [Tasha's Hideous Laughter](../Level1/Tasha's%20Hideous%20Laughter.md) | Enchantment   | 1 Action              | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
+| [Thunderwave](../Level1/Thunderwave.md)                               | Evocation     | 1 Action              | Self (15-foot cube)   | Instantaneous                   | V, S       |
+| [[Uneartlhy Chorus (UA)]]                                             | Illusion      | 1 Action              | Self (30-foot-radius) | Concentration, up to 10 minutes | V          |
+| [Unseen Servant](../Level1/Unseen%20Servant.md)                       | Conjuration   | 1 Action <sup>R</sup> | 60 feet               | 1 hour                          |  V, S, M   |
 # 2nd Level
 
 | Spell Name                   | School        | Casting Time          | Range                | Duration                        | Components |

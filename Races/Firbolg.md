@@ -9,7 +9,7 @@
 - **Creature Type.** You are Humanoid.
 - **Size.** You are Medium.
 - **Speed** Your walking speed is 30 feet.
-- **Firbolg Magic.** You can cast the [[Detect Magic]] and [[Disguise Self]] spells with this trait. When you use this version of Disguise Self, you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
+- **Firbolg Magic.** You can cast the [Detect Magic](../Spells/Level1/Detect%20Magic.md) and [Disguise Self](../Spells/Level1/Disguise%20Self.md) spells with this trait. When you use this version of Disguise Self, you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
 	- Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 - **Hidden Step.** As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 - **Powerful Build.** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.

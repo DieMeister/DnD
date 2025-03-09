@@ -1,4 +1,4 @@
-# Sessions 
+# Sessions
 - [ ] Session 0
 	- [ ] cut
 	- [ ] get Information

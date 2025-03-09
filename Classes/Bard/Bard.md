@@ -47,7 +47,7 @@ You have learned to untangle and reshape the fabric of reality in harmony with y
 ### Cantrips
 You know two cantrips of your choice from the [bard spell list](../../Spells/Spell%20Lists/Bard%20Spell%20List.md). You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
 ### Spell Slots
-The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended slots when you finish a long rest. For example, if you know the 1st-level spell [[Cure Wounds]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[Cure Wounds]] using either slot.
+The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended slots when you finish a long rest. For example, if you know the 1st-level spell [Cure Wounds](../../Spells/Level1/cure%20Wounds.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [Cure Wounds](../../Spells/Level1/cure%20Wounds.md) using either slot.
 ### Spells Known of 1st Level and Higher
 You know four 1st-level spells of your choice from the [bard spell list](../../Spells/Spell%20Lists/Bard%20Spell%20List.md).  
 The Spells Known column of the Bard table shows when you learn bard spells of your choice. Each of these spells must be of a level for which you have a spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.  
