@@ -57,13 +57,13 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [Cloud of Daggers](../Level2/Cloud%20of%20Daggers.md)   | Conjuration   | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
 | [Crown of Madness](../Level2/Crown%20of%20Madness.md)   | Enchantment   | 1 Action              | 120 feet             | Concentration, up to 1 minute   | V, S       |
 | [Detect Thoughts](../Level2/Detect%20Thoughts.md)       | Divination    | 1 Action              | Self                 | Concentration, up to 1 minute   | V, S, M    |
-| [[Enhance Ability]]                                     | Transmutation | 1 Action              | Touch                | Concentration, up to 1 hour     | V, S, M    |
-| [[Enlarge/Reduce]]                                      | Transmutation | 1 Action              | 30 feet              | Concentration, up to 1 minute   | V, S, M    |
-| [[Enthrall]]                                            | Enchantment   | 1 Action              | 60 feet              | 1 minute                        | V, S       |
-| [[Gift of Gab]]                                         | Enchantment   | Reaction              | Self                 | Instantaneous                   | V, S, M    |
-| [[Heat Metal]]                                          | Transmutation | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
-| [[Hold Person]]                                         | Enchantment   | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
-| [[Invisibility]]                                        | Illusion      | 1 Action              | Touch                | Concentration, up to 1 hour     | V, S, M    |
+| [Enhance Ability](../Level2/Enhance%20Ability.md)       | Transmutation | 1 Action              | Touch                | Concentration, up to 1 hour     | V, S, M    |
+| [Enlarge/Reduce](../Level2/Enlarge-Reduce.md)           | Transmutation | 1 Action              | 30 feet              | Concentration, up to 1 minute   | V, S, M    |
+| [Enthrall](../Level2/Enthrall.md)                       | Enchantment   | 1 Action              | 60 feet              | 1 minute                        | V, S       |
+| [Gift of Gab](../LEvel2/Gift%20of%20Gab.md)             | Enchantment   | Reaction              | Self                 | Instantaneous                   | V, S, M    |
+| [Heat Metal](../Level2/Heat%20Metal.md)                 | Transmutation | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
+| [Hold Person](../Level2/Hold%20Person.md)               | Enchantment   | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
+| [Invisibility](../Level2/Invisibility.md)               | Illusion      | 1 Action              | Touch                | Concentration, up to 1 hour     | V, S, M    |
 | [[Kinetic Jaunt]]                                       | Transmutation | 1 Bonus Action        | Self                 | Concentration, up to 1 minute   | S          |
 | [[Knock]]                                               | Transmutation | 1 Action              | 60 feet              | Instantaneous                   | V          |
 | [[Lesser Restoration]]                                  | Abjuration    | 1 Action              | Touch                | Instantaneous                   | V, S       |
