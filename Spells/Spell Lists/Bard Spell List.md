@@ -64,8 +64,8 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [Heat Metal](../Level2/Heat%20Metal.md)                 | Transmutation | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
 | [Hold Person](../Level2/Hold%20Person.md)               | Enchantment   | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
 | [Invisibility](../Level2/Invisibility.md)               | Illusion      | 1 Action              | Touch                | Concentration, up to 1 hour     | V, S, M    |
-| [[Kinetic Jaunt]]                                       | Transmutation | 1 Bonus Action        | Self                 | Concentration, up to 1 minute   | S          |
-| [[Knock]]                                               | Transmutation | 1 Action              | 60 feet              | Instantaneous                   | V          |
+| [Kinetic Jaunt](../Level2/Kinetic%20Jaunt.md)           | Transmutation | 1 Bonus Action        | Self                 | Concentration, up to 1 minute   | S          |
+| [Knock](../Level2/Knock.md)                             | Transmutation | 1 Action              | 60 feet              | Instantaneous                   | V          |
 | [[Lesser Restoration]]                                  | Abjuration    | 1 Action              | Touch                | Instantaneous                   | V, S       |
 | [[Locate Animals or Plants]]                            | Divination    | 1 Action <sup>R</sup> | Self                 | Instantaneous                   | V, S, M    |
 | [[Locate Object]]                                       | Divination    | 1 Action              | Self                 | Concentration, up to 10 minutes | V, S, M    |
