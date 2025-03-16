@@ -10,6 +10,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 - **Cat's Grace.** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
 - **Eagle's Splendor.** The target has advantage on Charisma checks.
 - **Fox's Cunning.** The target has advantage on Intelligence checks.
-- **Owl's Wisdom.** The target has advantage on Wisdom checks.
+- **Owl's Wisdom.** The target has advantage on Wisdom checks.  
+
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.  
 **Spell Lists.** [[Artificer]], [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [[Cleric]], [[Druid]], [[Ranger|Ranger (Optional)]], [[Sorcerer]], [[Wizard|Wizard (Optional)]]
