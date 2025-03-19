@@ -459,5 +459,34 @@
 	- Limek war vorher nie außerhalb des verlorenen Distrikts
 		- freut sich als ihm von der Zerstörung erzählt wird
 		- verabschiedet sich und geht
+- Darius, Kem und Enya schreiben Brief an Enyas Eltern
+	- Karolos hat sich noch nie mit Terim verstanden
 - Im Rathaus wurde von Praztir das Massaker deklariert
-- 
+## Poststation
+- heißt "offener Tee"
+- etwa Telefonzellengröße
+- Arrek sitzt auf kleinem Podest
+	- macht gerade Tee
+- Darius gibt Brief ab
+	- Arrek verlangt kein Geld für den Brief 
+- Arrek kennt Enyas Eltern
+- Arrek ist nicht ganz überzeugt, dass Enya die eigenen Eltern anlügen will, hinterfragt es aber nicht weiter
+	- kann Terims Unterschrift fälschen
+- Enya fragt wo Arrek während der Sintflut war
+	- er ist "nicht da" in stressigen Situationen
+	- kann sich nicht erinnern wo er war
+	- niemand sieht ihn während der Zeit
+	- hat das schon lange
+	- sonst keine gesundheitlichen Probleme
+- verabschieden sich von Arrek
+	- Arrek schenkt ihnen noch Tee
+- früher bis mittlerer Abend
+- Darius führt ganz kurz in Camp Recep ein
+	- War Forged sind Lebewesen
+	- keine ungefragten Amputationen
+	- haben Nummern und Namen
+# Brief an Enyas Eltern
+Lieber Herr Stratis, Liebe Frau Stratis,  
+leider ist Enya verhindert und kann erstmal nicht nach Uthlin zurückkehren, unter Umständen hat das mit den Ereignissen in Grashk zu tun.  
+Alles Gute  
+Terim

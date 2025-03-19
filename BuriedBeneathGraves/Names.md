@@ -10,11 +10,13 @@
 - Fryderyk (Ryk)
 - [Grashk](./Locations/Grashk.md)
 - Jadzia
+- Karolos 
 - Kayttz
 - Kazkra
 - [Kem](./Party/Kem.md)
 - [Kiranit](./Locations/Kiranit.md)
 - [Kinstein](./Items/Kinstein.md)
+- Klaasa
 - Koreth
 - Limek
 - Meavith
