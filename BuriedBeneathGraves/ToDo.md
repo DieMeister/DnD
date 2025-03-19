@@ -25,7 +25,7 @@
 	- [ ] add links to summary
 - [ ]  Session 5 - Gebrochen und Geborgen
 	- [x] cut (03:24:07 / 03:24:07 - 100%)
-	- [ ] get Information (01:59:00 / 03:24:07 - 58.30%)
+	- [x] get Information (03:24:07 / 03:24:07 - 100%)
 	- [ ] summarize
 	- [ ] add links to summary
 # DnD
@@ -211,7 +211,6 @@
 - [ ] Infos aus GoogleDoc herausarbeiten
 ## config
 - [ ] create color for Processes in Graph View
-- [x] remove Timeline files from Graph View
 ## Keywords
 - [ ] TODO
 	- [ ] Todesursache von Darius Mutter

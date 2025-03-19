@@ -485,6 +485,158 @@
 	- War Forged sind Lebewesen
 	- keine ungefragten Amputationen
 	- haben Nummern und Namen
+## Bankraub
+- gehen zur Izka Bank
+- Gebäude steht an einer Ecke
+	- Eingang nahe der Ecke
+- niemand ist im Eingang
+- kurze Lagebesprechung
+- Kem schaut durch das Fenster des Büros
+	- Vorhänge sind zugezogen
+	- kein Licht im Raum
+- Kem knackt das Fenster erfolgreich
+	- Enya und Darius stehen Schmiere
+- im Raum ist niemand
+- alle klettern durchs Fenster
+- Büro
+	- gut organisiert
+	- Tür nach draußen
+		- abgeschlossen
+	- edler Holztisch
+		- mit Harz beschichtet
+		- Schublade verschlossen
+			- hat kein Schloss
+	- Dokumentenzerstörer neben Schreibtisch
+	- Wände mit Bücher- und Ordnerregalen
+	- Tisch mit Schachbrett an einer Wand
+	- königsblauer Teppichboden
+		- Symbol mit in seinen Flügeln eingewickeltem Drachen und von Ring aus Ketten schützend umgeben ist
+	- leichter Wind kommt durchs Fenster
+	- Symbol vom Boden auch an Wandflagge
+		- kein Gang dahinter
+- Enya schaut sich im Raum um
+	- macht Kratzer in Schreibtisch
+- Darius schaut sich das Schachbrett an
+	- Figuren lassen sich nicht anheben
+	- Enya und Kem können kein Schach
+	- löst das Matt-in-1
+		- Zahnräder beginnen sich im ganzen Raum zu bewegen
+		- Schublade vom Schreibtisch öffnet sich
+			- Überreste von Metall
+				- matt
+				- ähnlich zu bronze / eisen
+			- Reparaturwerkzeug
+			- Arm einer Kriegsmaschine
+				- auseinandergebaut
+				- nur wichtigste Punkte noch da
+				- Ringfinger komplett ersetzt
+					- vom Ringfinger ausgehend fast alles weg
+					- sonst nicht besonders beschädigt
+- in Regalen sind Ordner für Steuern, Kredite/Schulden, Überweisungen/Transaktionen, Vorlagen für Besitzübertragung; Meluzanische Rechtsprechung, Geschichtsbuch zu Iskia Akyziath und ein Schachbuch
+	- Darius nimmt meluzanische Rechtsprechung und Ordner mit Vorlagen für Besitzübertragung mit
+	- Enya nimmt Geschichtsbuch zu Iska Akyziath mit
+- Kem probiert Metall aus Schublade mit
+	- zerbröselt als er herausnehmen will
+- Darius nimmt Werkzeug und Arm aus Schublade mit
+- Kem hört Schritte auf Kellertreppe
+- Darius bewegt König zurück
+	- Zahnräder bewegen sich wieder
+- Rechner ist in Haupthalle
+- Darius und Enya schauen Ordner durch
+	- Enya findet Transaktion von Iriel an Kiranit
+		- Enya nimmt Eintrag mit
+		- Bruch wird an Kiranit übertragen und mit der nächsten Lieferung versendet
+	- Terim ist auf 1500 Gold verschuldet
+	- Darius nimmt Steuerbescheid von Zuza mit
+	- Darius findet Zettel in Iriels Steuererklärung und nimmt ihn mit
+- Kem öffnet Tür in die Haupthalle
+- Hören wie Rechner die Kellertreppe runtergeht
+- die Haupthalle ist leer
+	- hochwertig verarbeitet
+	- heller, fast weißer Stein
+	- Tresen
+		- bis zum Boden
+	- blauer Teppich vom Eingang zum Tresen
+	- Kronenleuchter an der Decke
+	- Verzierungen an Wand
+	- vergoldete Tafel auf Boden
+	- Säulen entlang des Teppichs
+	- große Fenster mit Vorhängen, sodass Licht zwischen den Säulen reinfällt
+- die drei planen weiteres Vorgehen
+- Darius beschwört unsichtbaren Diener
+- Kem schließt Bürotür ab
+- alle drei verstecken sich in der Haupthalle
+- der unsichtbare Diener zerstört das Bürofenster
+- Rechner rennt ins Büro
+	- vergisst Kellertür abzuschließen
+- Rechner ist etwa 2 Meter groß
+	- linker Arm tiefer als rechter
+	- zwei Armschäfte ohne Arme
+	- Report
+- Türschlüssel in Rechners Bein
+- Rechner geht mit Pistole ins Büro
+	- Schuss hörbar
+- Kem, Enya und Darius gehen in den Keller
+	- Wendeltreppe nach unten
+		- fester, dunkler Stein
+	- Treppe endet an Mitte eines Gangs
+		- geht in zwei Richtungen
+- Darius hat nur noch eine funktionierende Fackel
+	- alle anderen sind nass geworden
+- Kem und Darius gehen nach links, Enya nach rechts
+	- Enya bekommt einen von Darius' sending stones
+- Darius und Kem kommen in einen großen Raum
+	- Wände sind mit etwas Staubähnlichem bedeckt
+	- Kem schaut sich Staub an
+		- selbes Metall wie in Schreibtischschublade
+	- Fässer voll mit Metallstaub
+	- auf Boden ist ein Symbol / Kreis aus dem Staub
+		- erinnert an Izka
+		- Darius informiert Enya über Entdeckung
+		- Kem legt Metallkugel in Kreis - nichts passiert
+- Enya wird von Gittertür gestoppt
+	- hinter der Tür werden Sachen gelagert
+		- Personenähnlicher liegt im Raum
+	- informiert Darius
+- Darius und Kem gehen zu Enya
+	- Darius hört Schritte von Rechner von oben
+	- Rechner öffnet Kellertür
+		- Darius und Kem sind am Fuß der Treppe
+- War Forged haben sehr gute dark vision
+- Darius und Kem rennen zu Enya
+- Kem macht die Tür auf
+- Darius erklärt kurz was los ist
+- Darius macht Fackel aus
+- alle gehen rein
+	- Tür wird nicht wieder abgeschlossen
+- die drei verstecken sich im Raum
+	- etwas verteilt
+- Rechner kommt in den Raum
+	- Pistole bereit in der Hand
+	- Ring in der anderen Hand
+- Rechner nimmt Bruch mit
+	- rechte Hand
+	- Hand in der davor die Pistole war
+- Kem hat dark vision
+- Enya schleicht Rechner hinterher
+- Kem legt seine Muskete an
+- Enya schneidet Rechners rechten Unterarm ab (sehr episch)
+- Kem schießt Rechner in den Core während Rechner zu Boden fällt (auch sehr episch)
+- Rechner liegt tot auf dem Boden
+- Enya nimmt Bruch und Rechners Hand mit
+- Kem nimmt Pistole mit
+- Darius greift sich Schriftrolle aus einem Regal
+- alle drei verlassen schnellstmöglich die Bank
+	- wieder durchs Bürofenster
+	- Büro ist komplett verwüstet
+	- Einschussloch im Schreibtisch
+	- Darius nimmt Springer mit
+	- Enya setzt Büro in Brand
+- rennen schnellstmöglich zur Straße 1 westlich der Hauptstraße
+- Wagen mit Waren steht bereit
+	- Vinsa und 93 warten
+	- Wagen wird von unsichtbaren Dienern gezogen
+- sie fahren los
 # Brief an Enyas Eltern
 Lieber Herr Stratis, Liebe Frau Stratis,  
 leider ist Enya verhindert und kann erstmal nicht nach Uthlin zurückkehren, unter Umständen hat das mit den Ereignissen in Grashk zu tun.  
