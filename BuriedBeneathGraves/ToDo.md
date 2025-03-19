@@ -25,7 +25,7 @@
 	- [ ] add links to summary
 - [ ]  Session 5 - Gebrochen und Geborgen
 	- [x] cut (03:24:07 / 03:24:07 - 100%)
-	- [ ] get Information (01:39:25 / 03:24:07 - 48.71%) `(5965)/(12247)`
+	- [ ] get Information (01:39:25 / 03:24:07 - 48.71%)
 	- [ ] summarize
 	- [ ] add links to summary
 # DnD
