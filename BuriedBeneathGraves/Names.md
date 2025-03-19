@@ -16,6 +16,7 @@
 - [Kiranit](./Locations/Kiranit.md)
 - [Kinstein](./Items/Kinstein.md)
 - Koreth
+- Limek
 - Meavith
 - Meceth
 - Mekayttz

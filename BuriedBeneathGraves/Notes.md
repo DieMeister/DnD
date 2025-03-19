@@ -328,3 +328,136 @@
 - Vinsa verabschiedet sich
 - Enya "tauscht" Cloth of Gold Vestment von Darius gegen einen seltsamen Schlüssel
 ## Trockenhafen
+- Stege fast komplett zerstört
+	- nur wenige Wege noch begehbar
+### Hornsingerbar
+- Bar noch weiter eingestürzt
+- Ryk sitzt auf dem letzten Rest Steg
+	- sieht übermüdet aus
+	- Ryk wischt Zuza's Stirn ab
+	- Kaputter Rollstuhl von Jadzia liegt daneben
+	- Kazkrah liegt zugedeckt daneben
+- nimmt erst nicht war, dass sie kommen
+- nicht erfreut über deren Ankunft
+	- überfordert von Enyas Zustand (lebend)
+- Zuza ist stark mitgenommen
+	- rechter Arm zerschmettert
+	- viele gebrochene Knochen
+	- linke Seite des Gesichts hängt
+	- kann nur Muskeln auf rechter Seite bewegen
+	- zuckt eher als sich kontrolliert zu bewegen
+- Enyas Herz ist im Ausschnitt erkennbar
+- Ryk wirft Darius und Kem vor, Enya wiederbelebt zu haben
+	- will nichts mehr mit ihnen zu tun haben
+	- "sie sollten tot sein"
+- Enya geht zu Zuza
+	- Zuza kann sich kaum bewegen
+	- sie hat starke Schmerzen
+	- fragt nach
+		- Kazkrah
+		- Enyas Herz
+- Ryk hat die letzten Jahr Kindern Kartentricks gezeigt
+- die drei gehen
+	- Enya ist still / betrübt
+## altes Rathaus
+- etwa mittags
+- steht im verlorenen Distrikt
+- sehr gut in Stand gehalten
+	- Banner und Siegel hängen noch
+	- Vorgarten nicht überwuchert
+- Eingang durch Vorgarten
+	- Tür ist offen
+	- gehen rein
+### Eingangshalle
+- Parkett knarzt nicht
+- sieht fast noch bewohnt aus
+- Tische
+	- an einem sitzt 93
+		- hat keinen Dolche sondern ein Warforged arm blade (eingebaute Klinge am Unterarm)
+		- schaut sich seine Lehmeule an
+- Zwerg putzt Rüstung
+	- trägt typisch Karaxanischen Kriegshelm
+	- fluffiger, großer, schwarzer Bart
+	- allerlei Werkzeuge am Gürtel
+- machen sich bemerkbar
+- Darius erklärt warum sie hier sind
+- 93 begrüßt sie
+	- packt Eule wieder an Gürtel
+	- zeigt auf Tür (neben dem Zwerg)
+- Zwerg verwickelt Darius in kurzes Gespräch über Gebäude
+	- er hat das Rathaus in Stand gehalten
+	- Darius wimmelt in freundlich ab
+	- gehen durch die Tür in einen Flur
+- Darius bittet um neutrale Außenwirkung (vor allem Enya)
+	- neutrale Blicke
+	- nicht alles sagen was man denkt
+- klopfen an Tür wo "Flutbeobachter" steht
+### Büro
+- Vinsa legt Unterlagen beiseite als sie eintreten
+- 3 Stühle für sie stehen im Raum
+	- gegenüber von Vinsa
+- Darius und Kem setzten sich
+- Enya bleibt stehen
+- 93 kommt rein und setzt sich auf den dritten Stuhl
+	- dreht den Stuhl seitlich, dass es seitlich zu Vinsa und den dreien sitzt
+- 93 ergreift das Wort
+	- kaputte Kriegsmaschine hätte Zuwachs für Camp Recep sein sollen
+	- sie sollen die Kriegsmaschine und Schreiben über Position des Camps von Rechner klauen
+	- bekommen Informationen über möglichen Aufenthaltsort von Iskrah
+- planen den Bankeinbruch
+	- Bank hat Hauptraum mit 2 Türen
+		- Eingang zum Keller
+			- dort werden Wertsachen gelagert
+			- keine weiteren Informationen über Aufbau
+		- Büro
+			- normales Büro
+			- vermutlich Nachricht dort
+				- Existenz des Camps muss geheim bleiben
+				- verschlüsselt
+					- 32's Verschlüsselungsmethode
+				- normales Papier
+				- 93 kann Nachricht nicht lesen
+	- müssen sowohl ins Büro und den Keller einbrechen
+- Büro hat zwei Türen
+	- Vinsa führt sie durch Tür nach draußen in eins der verlassenen Häuser
+	- Darius fragt wie es Enya geht
+		- glaubt er hätte sie mit seiner Ansprache vor her verärgert
+		- Enya ist mitgenommen von Ereignissen der letzten Tage
+			- hat nichts mit Darius zu tun
+### Lagergebäude
+- Kisten aus dem "letzten Schiff" dort gelagert
+- 93 holt Muskete aus einer der Kisten
+- Lieferung soll nach Recep
+- Kem bekommt Muskete und Schießpulver/Bleikugeln für mindestens Weg bis zum Camp
+- Schiff im Zentrum der Stadt gehört Vinsa
+- nach Bankraub müssen sie sofort die Stadt verlassen
+	- werden nur mitgenommen wenn sie Bruch mitnehmen
+	- müssen vor Mitternacht raus sein
+- gehen wieder ins Büro
+- gerade etwa 1400Uhr
+- Bank schließt um 2000Uhr
+- Ringe von Rechner
+	- Izkrah Ringe
+	- Tunnel um zwei Orte zu verbinden
+		- darin kann nichts länger sein als benötigt
+- 93 fängt Darius kurz ab
+	- will dass Darius die anderen beiden über das Camp aufklärt
+		- Camp in schwieriger Lage momentan
+	- holt Rifle aus seinem Umhang hervor und zeigt es Darius
+		- high-end
+		- falls Darius was geschmuggelt braucht soll er Vinsa fragen
+- Enya, Darius und Kem kommen wieder beim Zwerg vorbei
+	- Enya fragt ob er einen Waffe hat
+		- Darius fragt nach Schusswaffe
+	- kommt mit (großem) Schwert und Armbrust wieder
+		- Schwert aus karaxanischem Stahl
+		- mal fast durchgebrochen im Kampf
+	- Zwerg heißt Limek
+		- kommt aus Kudora
+		- kam um Häuser wiederaufzubauen
+			- hat Rathaus wiederaufgebaut
+	- Limek war vorher nie außerhalb des verlorenen Distrikts
+		- freut sich als ihm von der Zerstörung erzählt wird
+		- verabschiedet sich und geht
+- Im Rathaus wurde von Praztir das Massaker deklariert
+- 
