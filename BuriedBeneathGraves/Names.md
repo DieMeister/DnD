@@ -9,6 +9,7 @@
 - [Fabel](./NPCs/Fabel.md)
 - Fryderyk (Ryk)
 - [Grashk](./Locations/Grashk.md)
+- Iskra
 - Jadzia
 - Karolos 
 - Kayttz

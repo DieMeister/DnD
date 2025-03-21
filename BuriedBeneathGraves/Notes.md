@@ -400,6 +400,9 @@
 - Enya bleibt stehen
 - 93 kommt rein und setzt sich auf den dritten Stuhl
 	- dreht den Stuhl seitlich, dass es seitlich zu Vinsa und den dreien sitzt
+
+
+
 - 93 ergreift das Wort
 	- kaputte Kriegsmaschine hätte Zuwachs für Camp Recep sein sollen
 	- sie sollen die Kriegsmaschine und Schreiben über Position des Camps von Rechner klauen
