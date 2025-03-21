@@ -549,9 +549,6 @@
 	- Terim ist auf 1500 Gold verschuldet
 	- Darius nimmt Steuerbescheid von Zuza mit
 	- Darius findet Zettel in Iriels Steuererklärung und nimmt ihn mit
-
-
-
 - Kem öffnet Tür in die Haupthalle
 - Hören wie Rechner die Kellertreppe runtergeht
 - die Haupthalle ist leer
