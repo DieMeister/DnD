@@ -400,6 +400,9 @@
 - Enya bleibt stehen
 - 93 kommt rein und setzt sich auf den dritten Stuhl
 	- dreht den Stuhl seitlich, dass es seitlich zu Vinsa und den dreien sitzt
+
+
+
 - 93 ergreift das Wort
 	- kaputte Kriegsmaschine hätte Zuwachs für Camp Recep sein sollen
 	- sie sollen die Kriegsmaschine und Schreiben über Position des Camps von Rechner klauen
@@ -549,9 +552,6 @@
 	- Terim ist auf 1500 Gold verschuldet
 	- Darius nimmt Steuerbescheid von Zuza mit
 	- Darius findet Zettel in Iriels Steuererklärung und nimmt ihn mit
-
-
-
 - Kem öffnet Tür in die Haupthalle
 - Hören wie Rechner die Kellertreppe runtergeht
 - die Haupthalle ist leer

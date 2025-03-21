@@ -12,6 +12,4 @@ BuriedBeneathGraves/Audio/Samples
 BuriedBeneathGraves/Audio/Transcripts/*raw.mp3
 BuriedBeneathGraves/Audio/Transcripts/*.aup3
 
-BuriedBeneathGraves/Timelines/
-
 BuriedBeneathGraves/character_sheet.json
