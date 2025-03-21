@@ -1,0 +1,207 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1741630680960,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1741630570406,
+          "title": "BuriedBeneathGraves",
+          "options": {
+            "collapse-filter": true,
+            "search": "path:BuriedBeneathGraves -file:\"Session 0\" -file:ToDo -file:Introduction -path:Sessions/Summaries -path:\"irl People\" -file:README -file:Notes -file:Ideas -file:Timeline -file:Names -path:Timelines",
+            "showTags": true,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:Believes",
+                "color": {
+                  "a": 1,
+                  "rgb": 65535
+                }
+              },
+              {
+                "query": "path:Creatures",
+                "color": {
+                  "a": 1,
+                  "rgb": 6941791
+                }
+              },
+              {
+                "query": "path:Events",
+                "color": {
+                  "a": 1,
+                  "rgb": 16767232
+                }
+              },
+              {
+                "query": "path:Items",
+                "color": {
+                  "a": 1,
+                  "rgb": 2117632
+                }
+              },
+              {
+                "query": "path:Locations",
+                "color": {
+                  "a": 1,
+                  "rgb": 16752640
+                }
+              },
+              {
+                "query": "path:NPCs",
+                "color": {
+                  "a": 1,
+                  "rgb": 255
+                }
+              },
+              {
+                "query": "path:Party",
+                "color": {
+                  "a": 1,
+                  "rgb": 8388863
+                }
+              },
+              {
+                "query": "path:Ranks",
+                "color": {
+                  "a": 1,
+                  "rgb": 28159
+                }
+              },
+              {
+                "query": "path:Sessions",
+                "color": {
+                  "a": 1,
+                  "rgb": 16711680
+                }
+              }
+            ],
+            "collapse-display": false,
+            "showArrow": false,
+            "textFadeMultiplier": -2,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 250,
+            "scale": 0.4453651847749624,
+            "close": true
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1741635475053,
+          "title": "Spells",
+          "options": {
+            "collapse-filter": true,
+            "search": "path:Spells  ",
+            "showTags": true,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "path:\"Spells/Spell Lists\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14701138
+                }
+              },
+              {
+                "query": "path:Spells/Level1  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 16740897
+                }
+              },
+              {
+                "query": "path:Spells/Level2  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 15785226
+                }
+              },
+              {
+                "query": "path:Spells/Level3  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 5435402
+                }
+              },
+              {
+                "query": "path:Spells/Level4  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 716894
+                }
+              },
+              {
+                "query": "path:Spells/Level5  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 717009
+                }
+              },
+              {
+                "query": "path:Spells/Level6  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 693488
+                }
+              },
+              {
+                "query": "path:Spells/Level7  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 659952
+                }
+              },
+              {
+                "query": "path:Spells/Level8  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 8915696
+                }
+              },
+              {
+                "query": "path:Spells/Level9  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 15207152
+                }
+              },
+              {
+                "query": "path:Spells/Cantrips  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 15731298
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -2,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 250,
+            "scale": 0.44536518477496256,
+            "close": true
+          }
+        }
+      ],
+      "title": "Graphs"
+    }
+  ]
+}
