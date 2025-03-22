@@ -188,10 +188,11 @@ Danach will er seinen Staat vertreten und beispielsweise als Botschafter arbeite
 Pläne für eine Familie oder ähnliches gibt es nicht.
 ## kurzfristig
 Zum erreichen seiner Ziele will Darius alle größeren Städte des Landes besuchen und die (ehemaligen) Herrscher sowie einflussreiche Personen dort von seiner Idee überzeugen, wenn möglich auch in [[Meluzan]]. Eine Reihenfolge hat er sich noch nicht überlegt.
+
 # Besitz
 | Name                                     | Anzahl | Typ                  | Wert pro Stück |
 | ---------------------------------------- | ------ | -------------------- | -------------- |
-| Goldmünzen                               | 42     | Währung              | 1GM            |
+| Goldmünzen                               | 41     | Währung              | 1GM            |
 | [Dolch](../Items/Dolch.md)               | 1      | Kampf                |                |
 | [Lederrüstung](../Items/Lederrüstung.md) | 1      | Ausrüstung           |                |
 | Verkleidungsausrüstung                   | 1      | Ausrüstung           |                |
@@ -211,24 +212,33 @@ Zum erreichen seiner Ziele will Darius alle größeren Städte des Landes besuch
 | Flasche Abwas                            | 1      | Nahrung              |                |
 | Citrin                                   | 1      | Edelstein            | 50GM           |
 | Zircon                                   | 1      | Edelstein            | 50GM           |
-| Cloth of Gold Vestments                  | 1      | Kleidung             |                |
 | unbekannter Trank                        | 1      | Trank                |                |
 | Seil                                     | 1      | Ausrüstung           |                |
 | 5 Pfund Silberbarren                     | 1      | Metall               |                |
 | Kuo-Toa-Würfel                           | 1      | Gegenstand           |                |
 | Kuo-Toa-Stab                             | 1      | Gegenstand           |                |
+| seltsamer Schlüssel                      | 1      | Gegenstand           |                |
+| Armbrust                                 | 1      | Ausrüstung           |                |
+| meluzanisches Recht                      | 1      | Gegenstand           |                |
+| Ordner Vorlagen für Besitzübertragung    | 1      | Dokument             |                |
+| Rechners Arm Überreste                   | 1      | Gegenstand           |                |
+| Reparaturwerkzeug                        | 1      | Ausrüstung           |                |
+| verschlüsselte Schrift                   | 1      | Dokument             |                |
+| Zuzas Steuererklärung                    | 1      | Dokument             |                |
+| Sending Stone                            | 1      | Ausrüstung           |                |
+| Identifizieren Schriftroll               | 1      | Zauberrolle          |                |
+| Springer                                 | 1      | Gegenstand           |                |
 # Zauber
-| Name                | Typ     | Bekommen |
-| ------------------- | ------- | -------- |
-| Selbstverkleidung   | Firboig | Lvl. 1   |
-| Magie entdecken     | Firboig | Lvl. 1   |
-| Botschaft           | Cantrip | Lvl. 1   |
-| gehässiger Spott    | Cantrip | Lvl. 1   |
-| unsichtbarer Diener | Zauber  | Lvl. 1   |
-| heilendes Wort      | Zauber  | Lvl. 1   |
-| Donnerwoge          | Zauber  | Lvl. 1   |
-| identifizieren      | Zauber  | Lvl. 1   |
-| Vertraute finden    | Zauber  | Lvl. 1   |
-| Federfall           | Zauber  | Lvl. 2   |
-| Schlaf              | Zauber  | Lvl. 2   |
-| Sprachen verstehen  | Zauber  | Lvl. 2   |
+| Name                                                          | Typ     | Bekommen |
+| ------------------------------------------------------------- | ------- | -------- |
+| [Disguise Self](../../Spells/Level1/Disguise%20Self.md)       | Firboig | Lvl. 1   |
+| [Detect Magic](../../Spells/Level1/Detect%20Magic.md)         | Firboig | Lvl. 1   |
+| Botschaft                                                     | Cantrip | Lvl. 1   |
+| [Vicious Mockery](../../Spells/Cantrips/Vicious%20Mockery.md) | Cantrip | Lvl. 1   |
+| Vertraute finden                                              | Zauber  | Lvl. 1   |
+| heilendes Wort                                                | Zauber  | Lvl. 1   |
+| Donnerwoge                                                    | Zauber  | Lvl. 1   |
+| identifizieren                                                | Zauber  | Lvl. 1   |
+| unsichtbarer Diener                                           | Zauber  | Lvl. 1   |
+| Federfall                                                     | Zauber  | Lvl. 2   |
+| Sprachen verstehen                                            | Zauber  | Lvl. 2   |

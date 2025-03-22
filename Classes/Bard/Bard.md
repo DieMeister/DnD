@@ -28,7 +28,7 @@ You must have a Charisma score of 13 or higher in order to multiclass in or out 
 As a bard you gain the following class features.
 ## Hit Points
 **Hit Dice:** 1d8 per bard level  
-**Hot Points at 1st Level:** 8 + your Constitution modifier  
+**Hit Points at 1st Level:** 8 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bard level after 1st
 ## Proficiencies
 **Armor:** Light armor  
