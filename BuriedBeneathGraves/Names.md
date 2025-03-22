@@ -1,4 +1,5 @@
 - [Akeldama](./Events/Akeldama.md)
+- Arcyziat
 - Arrek
 - Avyth
 - Cethem
@@ -10,6 +11,7 @@
 - Fryderyk (Ryk)
 - [Grashk](./Locations/Grashk.md)
 - Iskra
+- Izka Arcyziat
 - Jadzia
 - Karolos 
 - Kayttz

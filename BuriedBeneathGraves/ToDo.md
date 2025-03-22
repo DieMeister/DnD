@@ -218,8 +218,6 @@
 - [x] FIXME
 - [x] NOTSURE
 	- [ ] Name von Darius Schwester
-	- [ ] Schreibweise des Geschichtsbuchs
-	- [ ] Schreibweise Izka
 # Git
 # Anarchie
 ## Quellen verstehen
