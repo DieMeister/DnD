@@ -28,12 +28,13 @@
 | Fehlschläge | 0    |
 # Fähigkeiten
 
-| Name        | Wert                                                                                |
-| ----------- | ----------------------------------------------------------------------------------- |
-| Übungsbonus | +2                                                                                  |
-| Rüstung     | leicht                                                                              |
-| Waffen      | einfach;  <br>Handarmbrust;  <br>Langschwert;  <br>Rapier;  <br>Kurzschwert         |
-| Werkzeuge   | Dudelsack;  <br>Verkleidungsausrüstung;  <br>Fälscherausrüstung,  <br>Malutensilien |
+| Name        | Wert                                                                                                    |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| Übungsbonus | +2                                                                                                      |
+| Rüstung     | leicht                                                                                                  |
+| Waffen      | einfach;  <br>Handarmbrust;  <br>Langschwert;  <br>Rapier;  <br>Kurzschwert                             |
+| Werkzeuge   | Dudelsack;  <br>Mundharmonika;  <br>Verkleidungsausrüstung;  <br>Fälscherausrüstung,  <br>Malutensilien |
+| Sprachen    | Common;  <br>Verekir Geheimsprache                                                                      |
 ## Stärke
 
 | Name        | Gesamtwert | Bonus                                                                        |
@@ -177,3 +178,4 @@
 | Sending Stone                               | 1      | Ausrüstung           |                |
 | Identifizieren Schriftroll                  | 1      | Zauberrolle          |                |
 | Springer                                    | 1      | Gegenstand           |                |
+| Mundharmonika                               | 1      | Instrument           |                |
