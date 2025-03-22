@@ -10,9 +10,11 @@
 - [Fabel](./NPCs/Fabel.md)
 - Fryderyk (Ryk)
 - [Grashk](./Locations/Grashk.md)
+- Hülle
 - Iskra
 - Izka Arcyziat
 - Jadzia
+- Kante
 - Karolos 
 - Kayttz
 - Kazkra
@@ -30,6 +32,7 @@
 - Nuriel
 - Prashtir
 - [Siath](./Believes/Siath.md)
+- Spur
 - Stav
 - [Terim](./NPCs/Terim.md)
 - Tzekkrah
@@ -37,6 +40,7 @@
 - [Uthlin](./Locations/Uthlin.md)
 - [Verekir](./Locations/Verekir.md)
 - Vinsa
+- Waffendrill (Waffel)
 - Ynavith
 - Ynceth
 - Ynkayttz

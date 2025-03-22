@@ -11,11 +11,12 @@
 | Level          | 3                   |
 # Trefferpunkte
 
-| Name     | Wert |
-| -------- | ---- |
-| Maximal  | 33   |
-| Temporär | 0    |
-| Aktuell  | 33   |
+| Name        | Wert |
+| ----------- | ---- |
+| Maximal     | 33   |
+| Temporär    | 0    |
+| Aktuell     | 33   |
+| Inspiration | 2    |
 # Trefferwürfel
 | Name      | Wert |
 | --------- | ---- |
@@ -104,6 +105,10 @@
 - [Song of Rest](../../../Classes/Bard/Bard.md#Song%20of%20Rest)
 - [Psychic Blades](../../../Classes/Bard/Colleges/College%20of%20Whispers.md#Psychic%20Blades)
 - [Words of Terror](../../../Classes/Bard/Colleges/College%20of%20Whispers.md#Words%20of%20Terror)
+
+| Name               | Wert | Verbraucht |
+| ------------------ | ---- | ---------- |
+| Bardic Inspiration | 3    | 1          |
 # Zauber
 
 | Name                  | Wert  |
@@ -134,48 +139,49 @@
 | [Vicious Mockery](../../../Spells/Cantrips/Vicious%20Mockery.md) | Cantrip |
 | Vertraute finden                                                 | Level 1 |
 | [Cure Wounds](../../../Spells/Level1/Cure%20Wounds.md)           | Level 1 |
-| [Aid](../../../Spells/Level2/Aid.md)                             | Level 2 |
 | [Identify](../../../Spells/Level1/Identify.md)                   | Level 1 |
 | [Unseen Servant](../../../Spells/Level1/Unseen%20Servant.md)     | Level 1 |
 | [Feather Fall](../../../Spells/Level1/Feather%20Fall.md)         | Level 1 |
 | [Gift of Gab](../../../Spells/Level2/Gift%20of%20Gab.md)         | Level 2 |
+| [Aid](../../../Spells/Level2/Aid.md)                             | Level 2 |
 # Besitz
-| Name                                        | Anzahl | Typ                  | Wert pro Stück |
-| ------------------------------------------- | ------ | -------------------- | -------------- |
-| Goldmünzen                                  | 41     | Währung              | 1GM            |
-| [Dolch](../../Items/Dolch.md)               | 1      | Kampf                |                |
-| [Lederrüstung](../../Items/Lederrüstung.md) | 1      | Ausrüstung           |                |
-| Verkleidungsausrüstung                      | 1      | Ausrüstung           |                |
-| Truhe                                       | 1      | Diplomatenausrüstung |                |
-| Behälter für Karten und Schriftrollen       | 2      | Diplomatenausrüstung |                |
-| feine Kleidung                              | 1      | Diplomatenausrüstung |                |
-| Flasche Tinte                               | 1      | Diplomatenausrüstung |                |
-| Schreibfeder                                | 1      | Diplomatenausrüstung |                |
-| Blatt Papier                                | 5      | Diplomatenausrüstung |                |
-| Phiole Parfüm                               | 1      | Diplomatenausrüstung |                |
-| Siegelwachs                                 | 1      | Diplomatenausrüstung |                |
-| Seife                                       | 1      | Diplomatenausrüstung |                |
-| Lampe                                       | 1      | Diplomatenausrüstung |                |
-| Flasche Öl                                  | 2      | Diplomatenausrüstung |                |
-| Bolzen                                      | 20     | Kampf                |                |
-| [Siegelring](../../Items/Siegelring.md)     | 1      | Gegenstand           |                |
-| Flasche Abwas                               | 1      | Nahrung              |                |
-| Citrin                                      | 1      | Edelstein            | 50GM           |
-| Zircon                                      | 1      | Edelstein            | 50GM           |
-| unbekannter Trank                           | 1      | Trank                |                |
-| Seil                                        | 1      | Ausrüstung           |                |
-| 5 Pfund Silberbarren                        | 1      | Metall               |                |
-| Kuo-Toa-Würfel                              | 1      | Gegenstand           |                |
-| Kuo-Toa-Stab                                | 1      | Gegenstand           |                |
-| seltsamer Schlüssel                         | 1      | Gegenstand           |                |
-| Armbrust                                    | 1      | Kampf                |                |
-| meluzanisches Recht                         | 1      | Gegenstand           |                |
-| Ordner Vorlagen für Besitzübertragung       | 1      | Dokument             |                |
-| Rechners Arm Überreste                      | 1      | Gegenstand           |                |
-| Reparaturwerkzeug                           | 1      | Ausrüstung           |                |
-| verschlüsselte Schrift                      | 1      | Dokument             |                |
-| Zuzas Steuererklärung                       | 1      | Dokument             |                |
-| Sending Stone                               | 1      | Ausrüstung           |                |
-| Identifizieren Schriftroll                  | 1      | Zauberrolle          |                |
-| Springer                                    | 1      | Gegenstand           |                |
-| Mundharmonika                               | 1      | Instrument           |                |
+| Name                                        | Anzahl    | Typ                  | Wert pro Stück |
+| ------------------------------------------- | --------- | -------------------- | -------------- |
+| Goldmünzen                                  | 41        | Währung              | 1GM            |
+| [Dolch](../../Items/Dolch.md)               | 1         | Kampf                |                |
+| [Lederrüstung](../../Items/Lederrüstung.md) | 1         | Ausrüstung           |                |
+| Verkleidungsausrüstung                      | 1         | Ausrüstung           |                |
+| Truhe                                       | 1         | Diplomatenausrüstung |                |
+| Behälter für Karten und Schriftrollen       | 2         | Diplomatenausrüstung |                |
+| feine Kleidung                              | 1         | Diplomatenausrüstung |                |
+| Flasche Tinte                               | 1         | Diplomatenausrüstung |                |
+| Schreibfeder                                | 1         | Diplomatenausrüstung |                |
+| Blatt Papier                                | 5         | Diplomatenausrüstung |                |
+| Phiole Parfüm                               | 1         | Diplomatenausrüstung |                |
+| Siegelwachs                                 | 1         | Diplomatenausrüstung |                |
+| Seife                                       | 1         | Diplomatenausrüstung |                |
+| Lampe                                       | 1         | Diplomatenausrüstung |                |
+| Flasche Öl                                  | 2         | Diplomatenausrüstung |                |
+| Bolzen                                      | 20        | Kampf                |                |
+| [Siegelring](../../Items/Siegelring.md)     | 1         | Gegenstand           |                |
+| Flasche Abwas                               | 1         | Nahrung              |                |
+| Citrin                                      | 1         | Edelstein            | 50GM           |
+| Zircon                                      | 1         | Edelstein            | 50GM           |
+| unbekannter Trank                           | 1         | Trank                |                |
+| Seil                                        | 1         | Ausrüstung           |                |
+| 5 Pfund Silberbarren                        | 1         | Metall               |                |
+| Kuo-Toa-Würfel                              | 1         | Gegenstand           |                |
+| Kuo-Toa-Stab                                | 1         | Gegenstand           |                |
+| seltsamer Schlüssel                         | 1         | Gegenstand           |                |
+| Armbrust                                    | 1         | Kampf                |                |
+| meluzanisches Recht                         | 1         | Gegenstand           |                |
+| Ordner Vorlagen für Besitzübertragung       | 1         | Dokument             |                |
+| Rechners Arm Überreste                      | 1         | Gegenstand           |                |
+| Reparaturwerkzeug                           | 1         | Ausrüstung           |                |
+| verschlüsselte Schrift                      | 1         | Dokument             |                |
+| Zuzas Steuererklärung                       | 1         | Dokument             |                |
+| Sending Stone                               | 1         | Ausrüstung           |                |
+| Identifizieren Schriftroll                  | 1         | Zauberrolle          |                |
+| Springer                                    | 1         | Gegenstand           |                |
+| Mundharmonika                               | 1         | Instrument           |                |
+| Federfell eines Eulenbäres                  | 2x2 Meter | Gegenstand           |                |
