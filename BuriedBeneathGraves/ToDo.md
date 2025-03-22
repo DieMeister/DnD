@@ -48,9 +48,9 @@
 - [ ] Zauber
 	- [ ] Gesten Überlegen
 	- [ ] Sprüche überlegen
-- [ ] Character
-	- [ ] Spells überarbeiten und fixen
-	- [ ] Level up zu Level 3
+- [x] Character
+	- [x] Spells überarbeiten und fixen
+	- [x] Level up zu Level 3
 - [ ] add Backgrounds
 - [x] add Classes
 - [ ] add Spells
