@@ -13,3 +13,5 @@ BuriedBeneathGraves/Audio/Transcripts/*raw.mp3
 BuriedBeneathGraves/Audio/Transcripts/*.aup3
 
 BuriedBeneathGraves/character_sheet.json
+
+.obsidian/workspace.json
