@@ -1,19 +1,19 @@
 # General Info
 
-| Charactername | Hintergrund | Volk    | Klasse | Unterklasse         | Rüstungsklasse | Level |
-| ------------- | ----------- | ------- | ------ | ------------------- | -------------- | ----- |
-| Darius        | Scharlatan  | Firbolg | Barde  | College of Whispers | 11             | 3     |
+| Hintergrund | Volk    | Klasse | Unterklasse         | Rüstungsklasse | Initiative | Bewegungsrate | Level |
+| ----------- | ------- | ------ | ------------------- | -------------- | ---------- | ------------- | ----- |
+| Scharlatan  | Firbolg | Barde  | College of Whispers | 11             | 0          | 9m            | 3     |
 
 | Name                    | Maximal | Aktuell |
 | ----------------------- | ------- | ------- |
 | Trefferpunkte           | 33      | 33      |
 | Temporäre Trefferpunkte | /       | 0       |
-| Trefferwürfel           | 3w8     | 0       |
+| Trefferwürfel           | 3w8     | 3w8     |
 | Inspiration             | /       | 0       |
-| Grad-1-Zauber           | 4       | 1       |
-| Grad-2-Zauber           | 2       | 0       |
+| Grad-1-Zauber           | 4       | 3       |
+| Grad-2-Zauber           | 2       | 2       |
 
-# Todesrettung
+# Todesrettung 
 
 | Erfolge | Fehlschläge |
 | ------- | ----------- |
