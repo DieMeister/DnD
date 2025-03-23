@@ -1,5 +1,7 @@
 {
   "theme": "obsidian",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "table-rows"
+  ],
   "cssTheme": "Tokyo Night"
 }
