@@ -48,9 +48,6 @@
 - [ ] Zauber
 	- [ ] Gesten Überlegen
 	- [ ] Sprüche überlegen
-- [x] Character
-	- [x] Spells überarbeiten und fixen
-	- [x] Level up zu Level 3
 - [ ] add Backgrounds
 - [x] add Classes
 - [ ] add Spells
@@ -219,6 +216,7 @@
 - [x] NOTSURE
 	- [ ] Name von Darius Schwester
 # Git
+- [ ] update README
 # Anarchie
 ## Quellen verstehen
 - [ ] [Reddit - Anarchy101](https://www.reddit.com/r/Anarchy101/)
