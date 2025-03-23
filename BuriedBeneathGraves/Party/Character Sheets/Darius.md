@@ -25,66 +25,39 @@
 | ----------- | ------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | +2          | leicht  | einfach;  <br>Handarmbrust;  <br>Langschwert;  <br>Rapier;  <br>Kurzschwert | Dudelsack;  <br>Mundharmonika;  <br>Verkleidungsausrüstung;  <br>Fälscherausrüstung;  <br>Malutensilien | Common;  <br>Verekir Geheimsprache |
 
-## Stärke
+| Fähigkeit            | Modifikator/Gesamtwert | Komponenten                                                                       |
+| -------------------- | ---------------------- | --------------------------------------------------------------------------------- |
+| **STÄRKE**           | -1                     | Ability Score (8)                                                                 |
+| Rettung              | 0                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Athletik             | 0                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| **GESCHICKLICHKEIT** | 0                      | Ability Score (10)                                                                |
+| Rettung              | 2                      | Übungsbonus (+2)                                                                  |
+| Akrobatik            | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Fingerfertigkeit     | 2                      | Übungsbonus (+2)                                                                  |
+| Heimlichleit         | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| **KONSTITUTION**     | 3                      | Ability Score (16)                                                                |
+| Rettung              | 4                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| **INTELLIGENZ**      | 1                      | Ability Score (13)                                                                |
+| Rettung              | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Arkane Kunde         | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Geschichte           | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Nachforschung        | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Naturkunde           | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+2) |
+| Religion             | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+2) |
+| **WEISHEIT**         | 1                      | Ability Score (12)                                                                |
+| Rettung              | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Heilkunde            | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Motiv erkennen       | 5                      | Übungsbonus (+2);  <br>[Expertise](../../../Classes/Bard/Bard.md#Expertise) (+2)  |
+| Tiere kennen         | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Überleben            | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Wahrnehmung          | 3                      | Übungsbonus (+2)                                                                  |
+| **CHARISMA**         | 3                      | Ability Score (16)                                                                |
+| Rettung              | 5                      | Übungsbonus (+2)                                                                  |
+| Auftreten            | 4                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Einschüchtern        | 4                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Täuschen             | 5                      | Übungsbonus (+2)                                                                  |
+| Überzeugen           | 7                      | Übungsbonus (+2);  <br>[Expertise](../../../Classes/Bard/Bard.md#Expertise) (+2)  |
 
-| Name        | Gesamtwert | Bonus                                                                        |
-| ----------- | ---------- | ---------------------------------------------------------------------------- |
-| Score       | 8          |                                                                              |
-| Modifikator | -1         |                                                                              |
-| Rettung     | 0          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Athletik    | 0          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-## Geschicklichkeit
-
-| Name             | Gesamtwert | Bonus                                                                        |
-| ---------------- | ---------- | ---------------------------------------------------------------------------- |
-| Score            | 10         |                                                                              |
-| Modifikator      | 0          |                                                                              |
-| Rettung          | 2          | Übungsbonus                                                                  |
-| Akrobatik        | 1          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Fingerfertigkeit | 2          | Übungsbonus                                                                  |
-| Heimlichkeit     | 1          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-## Konstitution
-
-| Name        | Gesamtwert | Bonus                                                                        |
-| ----------- | ---------- | ---------------------------------------------------------------------------- |
-| Score       | 16         |                                                                              |
-| Modifikator | 3          |                                                                              |
-| Rettung     | 4          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-## Intelligenz
-
-| Name          | Gesamtwert | Bonus                                                                        |
-| ------------- | ---------- | ---------------------------------------------------------------------------- |
-| Score         | 13         |                                                                              |
-| Modifikator   | 1          |                                                                              |
-| Rettung       | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Arkane Kunde  | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Geschichte    | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Nachforschung | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Naturkunde    | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Religion      | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-## Weisheit
-
-| Name           | Gesamtwert | Bonus                                                                        |
-| -------------- | ---------- | ---------------------------------------------------------------------------- |
-| Score          | 12         |                                                                              |
-| Modifikator    | 1          |                                                                              |
-| Rettung        | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Heilkunde      | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Motiv Erkennen | 5          | Übungsbonus;  <br>[Expertise](../../../Classes/Bard/Bard.md#Expertise)       |
-| Tiere kennen   | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Überleben      | 2          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Wahrnehmung    | 3          | Übungsbonus                                                                  |
-## Charisma
-
-| Name          | Gesamtwert | Bonus                                                                        |
-| ------------- | ---------- | ---------------------------------------------------------------------------- |
-| Score         | 16         |                                                                              |
-| Modifikator   | 3          |                                                                              |
-| Rettung       | 5          | Übungsbonus                                                                  |
-| Auftreten     | 4          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Einschüchtern | 4          | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) |
-| Täuschen      | 5          | Übungsbonus                                                                  |
-| Überzeugen    | 7          | Übungsbonus;  <br>[Expertise](../../../Classes/Bard/Bard.md#Expertise)       |
 # Eigenschaften
 - Hidden Step
 - Powerful Build
