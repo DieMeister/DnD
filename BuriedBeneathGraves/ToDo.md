@@ -26,6 +26,11 @@
 - [ ]  Session 5 - Gebrochen und Geborgen
 	- [x] cut (03:24:07 / 03:24:07 - 100%)
 	- [x] get Information (03:24:07 / 03:24:07 - 100%)
+	- [x] summarize
+	- [ ] add links to summary
+- [ ] Session 6
+	- [ ] cut (00:24:19 / 03:33:43 - 11.38%)
+	- [ ] get Information
 	- [ ] summarize
 	- [ ] add links to summary
 # DnD
