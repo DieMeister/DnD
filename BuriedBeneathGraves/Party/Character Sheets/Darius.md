@@ -1,41 +1,30 @@
 # General Info
 
-| Name           | Beschreibung        |
-| -------------- | ------------------- |
-| Charatername   | Darius              |
-| Hintergrund    | Scharlatan          |
-| Volk           | Firboig             |
-| Klasse         | Bard                |
-| Unterklasse    | College of Whispers |
-| Rüstungsklasse | 11                  |
-| Level          | 3                   |
-# Trefferpunkte
+| Charactername | Hintergrund | Volk    | Klasse | Unterklasse         | Rüstungsklasse | Level |
+| ------------- | ----------- | ------- | ------ | ------------------- | -------------- | ----- |
+| Darius        | Scharlatan  | Firbolg | Barde  | College of Whispers | 11             | 3     |
 
-| Name        | Wert |
-| ----------- | ---- |
-| Maximal     | 33   |
-| Temporär    | 0    |
-| Aktuell     | 33   |
-| Inspiration | 2    |
-# Trefferwürfel
-| Name      | Wert |
-| --------- | ---- |
-| Maximal   | 3w8  |
-| Verwendet | 0    |
+| Name                    | Maximal | Aktuell |
+| ----------------------- | ------- | ------- |
+| Trefferpunkte           | 33      | 33      |
+| Temporäre Trefferpunkte | /       | 0       |
+| Trefferwürfel           | 3w8     | 0       |
+| Inspiration             | /       | 0       |
+| Grad-1-Zauber           | 4       | 1       |
+| Grad-2-Zauber           | 2       | 0       |
+
 # Todesrettung
-| Name        | Wert |
-| ----------- | ---- |
-| Erfolge     | 0    |
-| Fehlschläge | 0    |
+
+| Erfolge | Fehlschläge |
+| ------- | ----------- |
+| 0       | 0           |
+
 # Fähigkeiten
 
-| Name        | Wert                                                                                                    |
-| ----------- | ------------------------------------------------------------------------------------------------------- |
-| Übungsbonus | +2                                                                                                      |
-| Rüstung     | leicht                                                                                                  |
-| Waffen      | einfach;  <br>Handarmbrust;  <br>Langschwert;  <br>Rapier;  <br>Kurzschwert                             |
-| Werkzeuge   | Dudelsack;  <br>Mundharmonika;  <br>Verkleidungsausrüstung;  <br>Fälscherausrüstung,  <br>Malutensilien |
-| Sprachen    | Common;  <br>Verekir Geheimsprache                                                                      |
+| Übungsbonus | Rüstung | Waffen                                                                      | Werkzeuge                                                                                               | Sprachen                           |
+| ----------- | ------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| +2          | leicht  | einfach;  <br>Handarmbrust;  <br>Langschwert;  <br>Rapier;  <br>Kurzschwert | Dudelsack;  <br>Mundharmonika;  <br>Verkleidungsausrüstung;  <br>Fälscherausrüstung;  <br>Malutensilien | Common;  <br>Verekir Geheimsprache |
+
 ## Stärke
 
 | Name        | Gesamtwert | Bonus                                                                        |
@@ -106,9 +95,6 @@
 - [Psychic Blades](../../../Classes/Bard/Colleges/College%20of%20Whispers.md#Psychic%20Blades)
 - [Words of Terror](../../../Classes/Bard/Colleges/College%20of%20Whispers.md#Words%20of%20Terror)
 
-| Name               | Wert | Verbraucht |
-| ------------------ | ---- | ---------- |
-| Bardic Inspiration | 3    | 1          |
 # Zauber
 
 | Name                  | Wert  |
@@ -116,19 +102,7 @@
 | Zauberwirkende Klasse | Barde |
 | Zauberrettungswurf-SG | 13    |
 | Zauber-Angriffsbonus  | 5     |
-## Zauberplätze
 
-| Grad | Maximum | Verbraucht |
-| ---- | ------- | ---------- |
-| 1    | 4       | 1          |
-| 2    | 2       | 0          |
-| 3    | 0       | 0          |
-| 4    | 0       | 0          |
-| 5    | 0       | 0          |
-| 6    | 0       | 0          |
-| 7    | 0       | 0          |
-| 8    | 0       | 0          |
-| 9    | 0       | 0          |
 ## Bekannte Zauber
 
 | Name                                                             | Typ     |
