@@ -1,6 +1,4 @@
 .theme-dark {
     --table-row-alt-background: rgb(40, 40, 50);
     --table-row-alt-background-hover: rgb(40, 40, 50);
-    --link-color: rgb(100, 64, 130);
-    --link-unresolved-color: rgb(100, 64, 180)
 }
