@@ -1,3 +1,4 @@
+[Darius's Character Sheet](../Darius.md)
 # General Info
 
 | Hintergrund | Volk    | Klasse | Unterklasse         | Rüstungsklasse | Initiative | Bewegungsrate | Level |

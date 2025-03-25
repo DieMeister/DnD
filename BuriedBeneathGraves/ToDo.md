@@ -63,6 +63,7 @@
 # Obsidian
 ## Formatting
 - [ ] Infos von [Notes](./Notes.md) in entsprechende Dateien übertragen
+- [ ] Konzept für Links und Tags
 - [ ] Pronomen von Warforged in Summary überprüfen
 - [ ] Links auf Vollständigkeit überprüfen
 	- [ ] Believes
@@ -213,6 +214,7 @@
 - [ ] Infos aus GoogleDoc herausarbeiten
 ## config
 - [ ] create color for Processes in Graph View
+- [ ] create color for Character Sheets
 ## Keywords
 - [ ] TODO
 	- [ ] Todesursache von Darius Mutter
