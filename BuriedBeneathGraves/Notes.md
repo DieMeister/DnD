@@ -264,6 +264,7 @@
 - *Nora*
 - *Henry*
 - *Addie*
+- *Zitrone*
 # Session 5
 - beginnt am Wasserplatz
 - Überlegung wo man schlafen kann
