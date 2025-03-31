@@ -233,6 +233,7 @@
 - [ ] [Errico Malatesta - Anarchy](../../PoliticalIdeologies/Anarchy/errico-malatesta-anarchy.pdf)
 - [ ] [Anarcho, et al. - an Anarchist FAQ](https://www.anarchistfaq.org/afaq/index.html)
 - [x] [YouTube - MrWissen2go - Kann Anarchie funktionieren?](https://www.youtube.com/watch?v=Jt4RJJ3-PqQ)
+- [ ] [Spotify - Philosophie to go - Emma Goldman-Anarchie.](https://open.spotify.com/episode/5oMYIDKdMvTYLwa368Gzco?si=0ea827cc54c2441b)
 - [ ] Locale
 	- [ ] [ANARCHY](../../PoliticalIdeologies/Anarchy/Locale/ANARCHY.pdf)
 	- [ ] [Anarchy and Anarchism - Towards a Theory of Complex International Systems](../../PoliticalIdeologies/Anarchy/Locale/Anarchy_and_Anarchism_Towards_a_Theory_o.pdf)
