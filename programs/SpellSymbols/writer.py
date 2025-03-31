@@ -1,3 +1,5 @@
+import json
+import argparse
 import bases
 import line_shapes
 import numpy as np
@@ -6,6 +8,14 @@ import os
 from tqdm.auto import tqdm
 
 cmap = plt.get_cmap('viridis')
+
+
+def load_json_data(file_name: str) -> dict | list:
+    with open(file_name, "r") as file:
+        raw_data = file.read()
+    return json.loads(raw_data)
+
+
 #---------Functions for creating unique binary numbers------
 def cycle_list(l,loops = 1):
     n = len(l)
@@ -115,33 +125,33 @@ def load_attribute(fname):
     return(data)
 
 
-def draw_spell(level,rang,area,dtype,school,title = None,
-               savename = "output.png",legend = False,
-                base_fn = bases.polygon,base_kwargs = [],
-                shape_fn = line_shapes.straight,shape_kwargs = [],
-                colors = [],legend_loc = "upper left",breakdown = False):
-    
+def draw_spell(level,rang,area,dtype,school,title, savename, legend, breakdown):
+    base_fn = bases.polygon
+    shape_fn = line_shapes.straight
+    base_kwargs = []
+    shape_kwargs = []
+    colors = []
+    legend_loc = "upper left"
+
+    attributes = load_json_data("attributes.json")
+
     #draws a spell given certain values by comparing it to input txt
-    ranges = load_attribute("Attributes/range.txt")
-    levels = load_attribute("Attributes/levels.txt")
-    area_types = load_attribute("Attributes/area_types.txt")
-    dtypes = load_attribute("Attributes/damage_types.txt")
-    schools = load_attribute("Attributes/school.txt")
-    i_range = ranges.index(rang)
-    i_levels = levels.index(str(level))
-    i_area = area_types.index(area)
-    i_dtype = dtypes.index(dtype)
-    i_school = schools.index(school)
-    attributes = [i_levels,i_school,i_dtype,i_area,i_range]
+    i_attributes = [
+        attributes["levels"].index(level),
+        attributes["ranges"].index(rang),
+        attributes["area_types"].index(area),
+        attributes["damage_types"].index(dtype),
+        attributes["schools"].index(school)
+    ]
     labels = [f"level: {level}",
               f"school: {school}",
               f"damage type: {dtype}",
               f"range: {rang}",
-              f"area_type: {area}"]
-    N = 2*len(attributes)+1
+              f"area_type: {area}"]  # TODO make this a dict or remove labels
+    N = 2*len(i_attributes)+1  # TODO find out what N stands for
     
     if len(colors) == 0 and breakdown == True:
-        colors = [cmap(i/len(attributes)) for i in range(len(attributes))]
+        colors = [cmap(i/len(i_attributes)) for i in range(len(i_attributes))]
     if not os.path.isdir("Uniques/"):
         os.makedirs("Uniques/")
     if os.path.isfile(f'Uniques/{N}.npy'):
@@ -150,7 +160,7 @@ def draw_spell(level,rang,area,dtype,school,title = None,
         non_repeating = generate_unique_combinations(N)
         non_repeating = np.array(non_repeating)
         np.save(f"Uniques/{N}.npy",non_repeating)
-    input_array = np.array([non_repeating[i] for i in attributes])#note +1 s.t. 0th option is always open for empty input
+    input_array = np.array([non_repeating[i] for i in i_attributes])#note +1 s.t. 0th option is always open for empty input
     #print(input_array)
     draw_multiple_inputs(input_array,labels = labels,legend = legend,
                          base_fn = base_fn,base_kwargs = base_kwargs,
@@ -296,7 +306,8 @@ def draw_attribute(level = None,rang = None, area = None,
         plt.show()
     
 if __name__ == "__main__":
-    import argparse
+    attributes = load_json_data("attributes.json")
+
     parser = argparse.ArgumentParser()
     parser.add_argument("-level", help="necessary input: level of the spell")
     parser.add_argument("-range", help="necessary input: range of the spell")
@@ -310,25 +321,60 @@ if __name__ == "__main__":
     parser.add_argument("-ah", "--arg_help", help="Prints the available options for the chosen attributes", action=argparse.BooleanOptionalAction)
     args = parser.parse_args()
 
-    if args.arg_help:  # FIXME rewrite so it uses attributes.json
-        if args.range:
-            print("--------Range--------")
-            print("\n".join(load_attribute("Attributes/range.txt")))
+    if args.arg_help:
         if args.level:
             print("--------Level--------")
-            print("\n".join(load_attribute("Attributes/levels.txt")))
+            print("\n".join(attributes["levels"]))
+        if args.range:
+            print("--------Range--------")
+            print("\n".join(attributes["ranges"]))
         if args.area:
-            print("--------Area--------")
-            print("\n".join(load_attribute("Attributes/area_types.txt")))
+            print("--------Area Type--------")
+            print("\n".join(attributes["area_types"]))
         if args.dtype:
-            print("--------Damage Types--------")
-            print("\n".join(load_attribute("Attributes/damage_types.txt")))
+            print("--------Damage Type--------")
+            print("\n".join(attributes["damage_types"]))
         if args.school:
             print("--------School--------")
-            print("\n".join(load_attribute("Attributes/school.txt")))
+            print("\n".join(attributes["schools"]))
     else:
+        if args.level:
+            level = args.level
+        else:
+            level = "3"
+
+        if args.range:
+            rang = args.range
+        else:
+            rang = "150 feet"
+
+        if args.area:
+            area = args.area
+        else:
+            area = "sphere (30)"
+
+        if args.dtype:
+            dtype = args.dtype
+        else:
+            dtype = "fire"
+
+        if args.school:
+            school = args.school
+        else:
+            school = "evocation"
+
+        if args.title:
+            title = args.title
+        else:
+            title = None
+
+        if args.savename:
+            savename = args.savename
+        else:
+            savename = "output.png"
+
         if args.legend:
-            if args.legend == 1:
+            if args.legend == "0":
                 legend = False
             else:
                 legend = True
@@ -336,46 +382,15 @@ if __name__ == "__main__":
             legend = False
 
         if args.breakdown:
-            if args.breakdown == 1:
+            if args.breakdown == "0":
                 breakdown = False
             else:
                 breakdown = True
         else:
             breakdown= False
 
-        if not args.title:
-            title = None
-        if not args.savename:
-            savename = "output.png"
 
-        if not args.level:
-            level = "3"
-        else:
-            level = args.level
-        
-        if not args.range:
-            rang = "150 feet"
-        else:
-            rang = args.range
-        
-        if not args.area:
-            area = "sphere (30)"
-        else:
-            area = args.area
-        
-        if not args.dtype:
-            dtype = "fire"
-        else:
-            dtype = args.dtype
-
-        if not args.school:
-            school = "evocation"
-        else:
-            school = args.school
-
-        draw_spell(level,rang,area,dtype,school,title = title,legend = legend,
-                base_fn = bases.polygon,shape_fn = line_shapes.straight,
-                breakdown = breakdown,savename = savename)
+        draw_spell(level,rang,area,dtype,school,title, savename, legend, breakdown)
         plt.clf()
         
     
