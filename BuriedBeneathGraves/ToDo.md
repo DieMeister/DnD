@@ -224,6 +224,10 @@
 	- [ ] Name von Darius Schwester
 # Git
 - [ ] update README
+# Programs
+## SpellSymbols
+- [ ] write README
+- [ ] update License
 # Anarchie
 ## Quellen verstehen
 - [ ] [Reddit - Anarchy101](https://www.reddit.com/r/Anarchy101/)
