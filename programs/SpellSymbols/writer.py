@@ -89,14 +89,16 @@ def decode_shape(in_array,k=1,point_color = 'k',on_color = 'darkred',off_color =
             print(f'elem {elem} at index {i} is not valid, input being skipped')
     
 
-def draw_multiple_inputs(in_array,
-                         base_fn = bases.polygon,base_kwargs = [],
-                         shape_fn = line_shapes.straight,shape_kwargs = [],
-                         point_color = 'k',labels = [],legend = False,colors = [],
-                         legend_loc = "upper left"):
+def draw_multiple_inputs(in_array, colors, labels, legend):
+    point_color = "k"
+    base_fn = bases.polygon
+    base_kwargs = []
+    shape_fn = line_shapes.straight
+    shape_kwargs = []
+    legend_loc = "upper left"
     
     #draws multiple inputs on a single base
-    if isinstance(colors,list) and len(colors) == 0:
+    if isinstance(colors, list) and len(colors) == 0:  # TODO understand why it should be a string
         colors = [point_color]*in_array.shape[0]
     elif isinstance(colors,str):
         colors = [colors]*in_array.shape[0]
@@ -126,11 +128,7 @@ def load_attribute(fname):
 
 
 def draw_spell(level,rang,area,dtype,school,title, savename, legend, breakdown):
-    base_fn = bases.polygon
-    shape_fn = line_shapes.straight
-    base_kwargs = []
-    shape_kwargs = []
-    legend_loc = "upper left"
+    colors = []
 
     attributes = load_json_data("attributes.json")
 
@@ -156,15 +154,11 @@ def draw_spell(level,rang,area,dtype,school,title, savename, legend, breakdown):
     if os.path.isfile(f'Uniques/{N}.npy'):
         non_repeating = np.load(f'Uniques/{N}.npy')
     else:
-        non_repeating = generate_unique_combinations(N)
+        non_repeating = generate_unique_combinations(N)  # TODO do function
         non_repeating = np.array(non_repeating)
         np.save(f"Uniques/{N}.npy",non_repeating)
-    input_array = np.array([non_repeating[i] for i in i_attributes])#note +1 s.t. 0th option is always open for empty input
-    #print(input_array)
-    draw_multiple_inputs(input_array,labels = labels,legend = legend,
-                         base_fn = base_fn,base_kwargs = base_kwargs,
-                         shape_fn = shape_fn,shape_kwargs = shape_kwargs,
-                         colors = colors,legend_loc = legend_loc)
+    input_array = np.array([non_repeating[i] for i in i_attributes])  # note +1 s.t. 0th option is always open for empty input
+    draw_multiple_inputs(input_array, colors, labels, legend)
     
     plt.title(title,fontsize = "80")
     
@@ -389,7 +383,7 @@ if __name__ == "__main__":
             breakdown= False
 
 
-        draw_spell(level,rang,area,dtype,school,title, savename, legend, breakdown)
+        draw_spell(level, rang, area, dtype, school, title, savename, legend, breakdown)
         plt.clf()
         
     
