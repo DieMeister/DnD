@@ -130,7 +130,6 @@ def draw_spell(level,rang,area,dtype,school,title, savename, legend, breakdown):
     shape_fn = line_shapes.straight
     base_kwargs = []
     shape_kwargs = []
-    colors = []
     legend_loc = "upper left"
 
     attributes = load_json_data("attributes.json")
@@ -150,8 +149,8 @@ def draw_spell(level,rang,area,dtype,school,title, savename, legend, breakdown):
               f"area_type: {area}"]  # TODO make this a dict or remove labels
     N = 2*len(i_attributes)+1  # TODO find out what N stands for
     
-    if len(colors) == 0 and breakdown == True:
-        colors = [cmap(i/len(i_attributes)) for i in range(len(i_attributes))]
+    if breakdown:
+        colors = [cmap(i/len(i_attributes)) for i in range(len(i_attributes))]  # TODO understand expression
     if not os.path.isdir("Uniques/"):
         os.makedirs("Uniques/")
     if os.path.isfile(f'Uniques/{N}.npy'):
