@@ -1,5 +1,6 @@
 ._*
 __*
+*.aup3
 *.aup3-shm
 *.aup3-wal
 .idea
@@ -11,7 +12,6 @@ Templates/
 
 BuriedBeneathGraves/Audio/Samples
 BuriedBeneathGraves/Audio/Transcripts/*raw.mp3
-BuriedBeneathGraves/Audio/Transcripts/*.aup3
 
 BuriedBeneathGraves/character_sheet.json
 
