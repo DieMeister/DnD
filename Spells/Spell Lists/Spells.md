@@ -147,6 +147,71 @@
 | [[Wrathful Smite]]                                                    | Evocation                   | 1 Bonus Action        | Self                  | Concentration, up to 1 minute    | V          |
 | [[Zephyr Strike]]                                                     | Transmutation               | 1 Bonus Action        | Self                  | Concentration, up to 1 minute    | V          |
 |                                                                       |                             |                       |                       |                                  |            |
+# 2nd Level
+| Spell Name                                              | School                     | Casting Time          | Range    | Duration                        | Components |
+| ------------------------------------------------------- | -------------------------- | --------------------- | -------- | ------------------------------- | ---------- |
+| [[Agnazzar's Scorcher]]                                 | Evocation                  | 1 Action              | 30 feet  | Instantaneous                   | V, S, M    |
+| [Aid](../Level2/Aid.md)                                 | Abjuration                 | 1 Action              | 30 feet  | 8 hours                         | V, S, M    |
+| [[Air Bubble]]                                          | Conjuration                | 1 Action              | 60 feet  | 24 hours                        | S          |
+| [[Alter Self]]                                          | Transmutation              | 1 Action              | Self     | Concentration, up to 1 hour     | V, S       |
+| [Animal Messenger](../Level2/Animal%20Messenger.md)     | Enchantment                | 1 Action <sup>R</sup> | 30 feet  | 24 hours                        | V, S, M    |
+| [[Arcane Hacking (UA)]]                                 | Transmutation <sup>T</sup> | 1 Action              | Self     | Concentration, up to 1 hour     | V, S, M    |
+| [[Arcane Lock]]                                         | Abjuration                 | 1 Action              | Touch    | Until dispelled                 | V, S, M    |
+| [[Augury]]                                              | Divination                 | 1 Minute <sup>R</sup> | Self     | Instantaneous                   | V, S, M    |
+| [[Barkskin]]                                            | Transmutation              | 1 Action              | Touch    | Concentration, up to 1 hour     | V, S, M    |
+| [[Beast Sense]]                                         | Divination                 | 1 Action <sup>R</sup> | Touch    | Concentration, up to 1 hour     | S          |
+| [Blindness/Deafness](../Level2/Blindness-Deafness.md)   | Necromancy                 | 1 Action              | 30 feet  | 1 minute                        | V          |
+| [[Blur]]                                                | Illusion                   | 1 Action              | Self     | Concentration, up to 1 minute   | V          |
+| [Borrowed Knowledge](../Level2/Borrowed%20Knowledge.md) | Divination                 | 1 Action              | Self     | 1 hour                          | V, S, M    |
+| [[Branding Smite]]                                      | Evocation                  | 1 Bonus Action        | Self     | Concentration, up to 1 minute   | V          |
+| [Calm Emotions](../Level2/Calm%20Emotions.md)           | Enchantment                | 1 Action              | 60 feet  | Concentration, up to 1 minute   | V, S       |
+| [Cloud of Daggers](../Level2/Cloud%20of%20Daggers.md)   | Conjuration                | 1 Action              | 60 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Continual Flame]]                                     | Evocation                  | 1 Action              | Touch    | Until dispelled                 | V, S, M    |
+| [[Cordon of Arrows]]                                    | Transmutation              | 1 Action              | 5 feet   | 8 hours                         | V, S, M    |
+| [Crown of Madness](../Level2/Crown%20of%20Madness.md)   | Enchantment                | 1 Action              | 120 feet | Concentration, up to 1 minute   | V, S       |
+| [[Darkness]]                                            | Evocation                  | 1 Action              | 60 feet  | Concentration, up to 10 minutes | V, M       |
+| [[Darkvision]]                                          | Transmutation              | 1 Action              | Touch    | 8 hours                         | V, S, M    |
+| [Detect Thoughts](../Level2/Detect%20Thoughts.md)       | Divination                 | 1 Action              | Self     | Concentration, up to 1 minute   | V, S, M    |
+| [[Digital Phantom (UA)]]                                | Abjuration <sup>T</sup>    | 1 Action              | Self     | Concentration, up to 1 hour     | V, S, M    |
+| [[Dragon's Breath]]                                     | Transmutation              | 1 Bonus Action        | Touch    | Concentration, up to 1 minute   | V, S, M    |
+| [[Dust Devil]]                                          | Conjuration                | 1 Action              | 60 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Earthbind]]                                           | Transmutation              | 1 Action              | 300 feet | Concentration, up to 1 minute   | V          |
+| [Enhance Ability](../Level2/Enhance%20Ability.md)       | Transmutation              | 1 Action              | Touch    | Concentration, up to 1 hour     | V, S, M    |
+| [Enlarge/Reduce](../Level2/Enlarge-Reduce.md)           | Transmutation              | 1 Action              | 30 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [Enthrall](../Level2/Enthrall.md)                       | Enchantment                | 1 Action              | 60 feet  | 1 minute                        | V, S       |
+| [[Find Steed]]                                          | Conjuration                | 10 Minutes            | 30 feet  | Instantaneous                   | V, S       |
+| [[Find Traps]]                                          | Divination                 | 1 Action              | 120 feet | Instantaneous                   | V, S       |
+| [[Find Vehicle (UA)]]                                   | Conjuration <sup>T</sup>   | 10 Minutes            | 30 feet  | 8 hours                         | V, S       |
+| [[Flame Blade]]                                         | Evocation                  | 1 Bonus Action        | Self     | Concentration, up to 10 minutes | V, S, M    |
+| [[Flaming Sphere]]                                      | Conjuration                | 1 Action              | 60 feet  | Concentration, up to 1 minute   | V, S, M    |
+| [[Flock of Familiars]]                                  | Conjuration                | 1 Minute              | Touch    | Concentration, up to 1 hour     | V, S       |
+| [[Fortune's Favor]]                                     | Divination <sup>D</sup>    | 1 Minute              | 60 feet  | 1 hour                          | V, S, M    |
+
+| Spell Name                                                              | School        | Casting Time          | Range                | Duration                        | Components |
+| ----------------------------------------------------------------------- | ------------- | --------------------- | -------------------- | ------------------------------- | ---------- |
+| [Gift of Gab](../LEvel2/Gift%20of%20Gab.md)                             | Enchantment   | Reaction              | Self                 | Instantaneous                   | V, S, M    |
+| [Heat Metal](../Level2/Heat%20Metal.md)                                 | Transmutation | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
+| [Hold Person](../Level2/Hold%20Person.md)                               | Enchantment   | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
+| [Invisibility](../Level2/Invisibility.md)                               | Illusion      | 1 Action              | Touch                | Concentration, up to 1 hour     | V, S, M    |
+| [Kinetic Jaunt](../Level2/Kinetic%20Jaunt.md)                           | Transmutation | 1 Bonus Action        | Self                 | Concentration, up to 1 minute   | S          |
+| [Knock](../Level2/Knock.md)                                             | Transmutation | 1 Action              | 60 feet              | Instantaneous                   | V          |
+| [Lesser Restoration](../Level2/Lesser%20Restoration.md)                 | Abjuration    | 1 Action              | Touch                | Instantaneous                   | V, S       |
+| [Locate Animals or Plants](../Level2/Locate%20Animals%20or%20Plants.md) | Divination    | 1 Action <sup>R</sup> | Self                 | Instantaneous                   | V, S, M    |
+| [Locate Object](../Level2/Locate%20Object.md)                           | Divination    | 1 Action              | Self                 | Concentration, up to 10 minutes | V, S, M    |
+| [Magic Mouth](../Level2/Magic%20Mouth.md)                               | Illusion      | 1 Minute <sup>R</sup> | 30 feet              | Unit dispelled                  | V, S, M    |
+| [Mirror Image](../Level2/Mirror%20Image.md)                             | Illusion      | 1 Action              | Self                 | 1 minute                        | V, S       |
+| [Nathair's Mischief](../Level2/Nathair's%20Mischief.md)                 | Illusion      | 1 Action              | 60 ft                | Concentration, up to 1 minute   | S, M       |
+| [Phantasmal Force](../Level2/Phantasmal%20Force.md)                     | Illusion      | 1 Action              | 60 feet              | Concentration, up to 1 minute   | V, S, M    |
+| [Pyrotechnics](../Level2/Pyrotechnics.md)                               | Transmutation | 1 Action              | 60 feet              | Instantaneous                   | V, S       |
+| [See Invisibility](../Level2/See%20Invisibility.md)                     | Divination    | 1 Action              | Self                 | 1 hour                          | V, S, M    |
+| [Shatter](../Level2/Shatter.md)                                         | Evocation     | 1 Action              | 60 feet              | Instantaneous                   | V, S, M    |
+| [Silence](../Level2/Silence.md)                                         | Illusion      | 1 Action <sup>R</sup> | 120 feet             | Concentration, up to 10 minutes | V, S       |
+| [Skywrite](../Level2/Skywrite.md)                                       | Transmutation | 1 Action <sup>R</sup> | Sight                | Concentration, up to 1 day      | V, S       |
+| [Spray Of Cards](../Level2/Spray%20Of%20Cards.md)                       | Conjuration   | 1 Action              | Self (15-foot- cone) | Instantaneous                   | V, S, M    |
+| [Suggestion](../Level2/Suggestion.md)                                   | Enchantment   | 1 Action              | 30 feet              | Concentration, up to 8 hours    | V, M       |
+| [Warding Wind](../Level2/Warding%20Wind.md)                             | Evocation     | 1 Action              | Self                 | Concentration, up to 10 minutes | V          |
+| [Zone of Truth](../Level2/Zone%20of%20Truth.md)                         | Enchantment   | 1 Action              | 60 feet              | 10 minutes                      | V, S       |
+
 <sup>D</sup> - Dunamancy Spell  
 <sup>DG</sup> - Graviturgy Dunamancy Spell  
 <sup>DC</sup> - Chronurgy Dunamancy Spell  
