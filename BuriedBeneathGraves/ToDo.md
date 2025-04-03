@@ -29,7 +29,7 @@
 	- [x] summarize
 	- [ ] add links to summary
 - [ ] Session 6
-	- [ ] cut (00:24:19 / 03:33:43 - 11.38%)
+	- [ ] cut (00:51:07 / 03:09:13 - 27.01%)
 	- [ ] get Information
 	- [ ] summarize
 	- [ ] add links to summary
