@@ -323,10 +323,20 @@
 | [[Summon Lesser Demons]]            | Conjuration               | 1 Action              | 60 feet                          | Concentration, up to 1 hour     | V, S, M    |
 | [[Summon Shadowspawn]]              | Conjuration               | 1 Action              | 90 feet                          | Concentration, up to 1 hour     | V, S, M    |
 | [[Summon Warrior Spirit (UA)]]      | Conjuration               | 1 Action              | 90 feet                          | Concentration, up to 1 hour     | V, S, M    |
+| [[Thunder Step]]                    | Conjuration               | 1 Action              | 90 feet                          | Instantaneous                   | V          |
+| [[Tidal Wave]]                      | Conjuration               | 1 Action              | 120 feet                         | Instantaneous                   | V, S, M    |
+| [[Tiny Servant]]                    | Transmutation             | 1 Minute              | Touch                            | 8 hours                         | V, S       |
+| [[Tongues]]                         | Divination                | 1 Action              | Touch                            | 1 hour                          | V, M       |
+| [[Vampiric Touch]]                  | Necromancy                | 1 Action              | Self                             | Concentration, up to 1 minute   | V, S       |
+| [[Wall of Sand]]                    | Evocation                 | 1 Action              | 90 feet                          | Concentration, up to 10 minutes | V, S, M    |
+| [[Wall of Water]]                   | Evocation                 | 1 Action              | 60 feet                          | Concentration, up to 10 minutes | V, S, M    |
+| [[Water Breathing]]                 | Transmutation             | 1 Action <sup>R</sup> | 30 feet                          | 24 hours                        | V, S, M    |
+| [[Water Walk]]                      | Transmutation             | 1 Action <sup>R</sup> | 30 feet                          | 1 hour                          | V, S, M    |
+| [[Wind Wall]]                       | Evocation                 | 1 Action              | 120 feet                         | Concentration, up to 1 minute   | V, S ,M    |
 
-| Spell Name         | School      | Casting Time | Range   | Duration                      | Components |
-| ------------------ | ----------- | ------------ | ------- | ----------------------------- | ---------- |
-| [[Tongues]]        | Divination  | 1 Action     | Touch   | 1 hour                        | V, M       |
+| Spell Name  | School     | Casting Time | Range | Duration | Components |
+| ----------- | ---------- | ------------ | ----- | -------- | ---------- |
+
 <sup>D</sup> - Dunamancy Spell  
 <sup>DG</sup> - Graviturgy Dunamancy Spell  
 <sup>DC</sup> - Chronurgy Dunamancy Spell  
