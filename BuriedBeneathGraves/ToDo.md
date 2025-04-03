@@ -215,12 +215,14 @@
 ## config
 - [ ] create color for Processes in Graph View
 - [ ] create color for Character Sheets
+- [ ] create index file with information about the campaign
+	- [ ] decide if index is part of README
 ## Keywords
 - [ ] TODO
 	- [ ] Todesursache von Darius Mutter
 	- [ ] Aufenthalt Darius' in Karaxan
 - [x] FIXME
-- [x] NOTSURE
+- [ ] NOTSURE
 	- [ ] Name von Darius Schwester
 # Git
 - [ ] update README
