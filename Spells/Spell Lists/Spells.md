@@ -402,9 +402,8 @@
 | [[Widogast's Vault of Amber (HB)]] | Transmutation              | 1 minute <sup>R</sup> | Touch                 | Until dispelled                 | V, S. M    |
 | [[Widogast's Web of Fire (HB)]]    | Evocation                  | 1 Action              | 60 feet               | Instantaneous                   | V, S, M    |
 
-
-| Spell Name                    | School        | Casting Time | Range    | Duration                      | Components |
-| ----------------------------- | ------------- | ------------ | -------- | ----------------------------- | ---------- |
+| Spell Name | School | Casting Time | Range | Duration | Components |
+| ---------- | ------ | ------------ | ----- | -------- | ---------- |
 
 <sup>D</sup> - Dunamancy Spell  
 <sup>DG</sup> - Graviturgy Dunamancy Spell  

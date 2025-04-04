@@ -19,18 +19,18 @@
 	- [ ] summarize
 	- [ ] add links to summary
 - [ ] Session 4 - Auferstanden
-	- [x] cut (02:23:05 / 02:23:05 - 100%)
-	- [x] get Information (02:23:05 / 02:23:05 - 100%)
+	- [x] cut
+	- [x] get Information
 	- [x] summarize
 	- [ ] add links to summary
 - [ ]  Session 5 - Gebrochen und Geborgen
-	- [x] cut (03:24:07 / 03:24:07 - 100%)
-	- [x] get Information (03:24:07 / 03:24:07 - 100%)
+	- [x] cut
+	- [x] get Information
 	- [x] summarize
 	- [ ] add links to summary
 - [ ] Session 6
-	- [ ] cut (00:51:07 / 03:09:13 - 27.01%)
-	- [ ] get Information
+	- [x] cut
+	- [ ] get Information (00:00:00 / 02:46:40 - 00.00%)
 	- [ ] summarize
 	- [ ] add links to summary
 # DnD
@@ -56,6 +56,37 @@
 - [ ] add Backgrounds
 - [x] add Classes
 - [ ] add Spells
+	- [ ] Cantrips
+	- [ ] Level 1
+	- [ ] Level 2
+	- [ ] Level 3
+	- [ ] Level 4
+	- [ ] Level 5
+	- [ ] Level 6
+	- [ ] Level 7
+	- [ ] Level 8
+	- [ ] Level 9
+- [ ] add Spell Lists
+	- [ ] all Spells
+		- [x] Cantrips
+		- [x] Level 1
+		- [x] Level 2
+		- [x] Level 3
+		- [x] Level 4
+		- [ ] Level 5
+		- [ ] Level 6
+		- [ ] Level 7
+		- [ ] Level 8
+		- [ ] Level 9
+	- [ ] Artificer
+	- [x] Bard
+	- [ ] Cleric
+	- [ ] Druid
+	- [ ] Paladin
+	- [ ] Ranger
+	- [ ] Sorcerer
+	- [ ] Warlock
+	- [ ] Wizard
 - [x] add Races
 # Timeline
 - [ ] Inline Events strukturiert sammeln
