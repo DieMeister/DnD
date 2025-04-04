@@ -112,19 +112,19 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [[Tongues]]             | Divination    | 1 Action              | Touch                            | 1 hour                          | V, M       |
 # 4th Level
 
-| Spell Name                         | School        | Casting Time | Range    | Duration                      | Components |
-| ---------------------------------- | ------------- | ------------ | -------- | ----------------------------- | ---------- |
-| [[Charm Monster]]                  | Enchantment   | 1 Action     | 30 feet  | 1 hour                        | V, S       |
-| [[Compulsing]]                     | Enchantment   | 1 Action     | 30 feet  | Concentration, up to 1 minute | V, S       |
-| [[Confusion]]                      | Enchantment   | 1 Action     | 90 feet  | Concentration, up to 1 minute | V, S, M    |
-| [[Dimension Door]]                 | Conjuration   | 1 Action     | 500 feet | Instantaneous                 | V          |
-| [[Freedom of Movement]]            | Abjuration    | 1 Action     | Touch    | 1 hour                        | V, S, M    |
-| [[Greater Invisibility]]           | Illusion      | 1 Action     | Touch    | Concentration, up to 1 minute | V, S       |
-| [[Hallucinatory Terrain]]          | Illusion      | 10 Minutes   | 300 feet | 24 hours                      | V, S, M    |
-| [[Locate Creature]]                | Divination    | 1 Action     | Self     | Concentration, up to 1 hour   | V, S, M    |
-| [[Phantasmal Killer]]              | Illusion      | 1 Action     | 120 feet | Concentration, up to 1 minute | V, S       |
-| [[Polymorph]]                      | Transmutation | 1 Action     | 60 feet  | Concentration, up to 1 hour   | V, S, M    |
-| [[Raulothim's Psychic Lance]]      | Enchantment   | 1 Action     | 120 feet | Instantaneous                 | V          |
+| Spell Name                    | School        | Casting Time | Range    | Duration                      | Components |
+| ----------------------------- | ------------- | ------------ | -------- | ----------------------------- | ---------- |
+| [[Charm Monster]]             | Enchantment   | 1 Action     | 30 feet  | 1 hour                        | V, S       |
+| [[Compulsing]]                | Enchantment   | 1 Action     | 30 feet  | Concentration, up to 1 minute | V, S       |
+| [[Confusion]]                 | Enchantment   | 1 Action     | 90 feet  | Concentration, up to 1 minute | V, S, M    |
+| [[Dimension Door]]            | Conjuration   | 1 Action     | 500 feet | Instantaneous                 | V          |
+| [[Freedom of Movement]]       | Abjuration    | 1 Action     | Touch    | 1 hour                        | V, S, M    |
+| [[Greater Invisibility]]      | Illusion      | 1 Action     | Touch    | Concentration, up to 1 minute | V, S       |
+| [[Hallucinatory Terrain]]     | Illusion      | 10 Minutes   | 300 feet | 24 hours                      | V, S, M    |
+| [[Locate Creature]]           | Divination    | 1 Action     | Self     | Concentration, up to 1 hour   | V, S, M    |
+| [[Phantasmal Killer]]         | Illusion      | 1 Action     | 120 feet | Concentration, up to 1 minute | V, S       |
+| [[Polymorph]]                 | Transmutation | 1 Action     | 60 feet  | Concentration, up to 1 hour   | V, S, M    |
+| [[Raulothim's Psychic Lance]] | Enchantment   | 1 Action     | 120 feet | Instantaneous                 | V          |
 
 # 5th Level
 
