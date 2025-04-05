@@ -1,20 +1,21 @@
-[Darius's Character Sheet](../Darius.md)
+[Darius's](../Darius.md) Character Sheet
 # General Info
 
 | Hintergrund | Volk    | Klasse | Unterklasse         | Rüstungsklasse | Initiative | Bewegungsrate | Level |
 | ----------- | ------- | ------ | ------------------- | -------------- | ---------- | ------------- | ----- |
-| Scharlatan  | Firbolg | Barde  | College of Whispers | 11             | 0          | 9m            | 3     |
+| Scharlatan  | Firbolg | Barde  | College of Whispers | 11             | 0          | 30feet        | 3     |
 
 | Name                    | Maximal | Aktuell |
 | ----------------------- | ------- | ------- |
 | Trefferpunkte           | 33      | 33      |
 | Temporäre Trefferpunkte | /       | 0       |
 | Trefferwürfel           | 3w8     | 3w8     |
+| Bardische Inspiration   | 3       | 3       |
 | Inspiration             | /       | 0       |
 | Grad-1-Zauber           | 4       | 3       |
 | Grad-2-Zauber           | 2       | 2       |
 
-# Todesrettung 
+# Todesrettung
 
 | Erfolge | Fehlschläge |
 | ------- | ----------- |
@@ -112,7 +113,6 @@
 | Flasche Öl                                  | 2         | Diplomatenausrüstung |                |
 | Bolzen                                      | 20        | Kampf                |                |
 | [Siegelring](../../Items/Siegelring.md)     | 1         | Gegenstand           |                |
-| Flasche Abwas                               | 1         | Nahrung              |                |
 | Citrin                                      | 1         | Edelstein            | 50GM           |
 | Zircon                                      | 1         | Edelstein            | 50GM           |
 | unbekannter Trank                           | 1         | Trank                |                |
@@ -133,3 +133,4 @@
 | Springer                                    | 1         | Gegenstand           |                |
 | Mundharmonika                               | 1         | Instrument           |                |
 | Federfell eines Eulenbäres                  | 2x2 Meter | Gegenstand           |                |
+| Lehmskulptur von Darius                     | 1         | Gegenstand           |                |
