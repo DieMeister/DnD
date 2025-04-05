@@ -30,7 +30,7 @@
 	- [ ] add links to summary
 - [ ] Session 6
 	- [x] cut
-	- [ ] get Information (00:00:00 / 02:46:40 - 00.00%)
+	- [ ] get Information (01:08:22 / 02:46:39 - 41.02%)
 	- [ ] summarize
 	- [ ] add links to summary
 # DnD

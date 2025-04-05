@@ -643,3 +643,127 @@ Lieber Herr Stratis, Liebe Frau Stratis,
 leider ist Enya verhindert und kann erstmal nicht nach Uthlin zurückkehren, unter Umständen hat das mit den Ereignissen in Grashk zu tun.  
 Alles Gute  
 Terim
+# Session 6
+## Intro
+Eine Region, welche immer noch im Trauern liegt beginnt langsam mit dem Aufwachen. Ich bin immer noch hier, die Krisen und Probleme sind zu präsent um in Melancholie zu verweilen und Verstorbene zu betrauern. Ihr findet euch momentan auf einer leicht befestigten Pflasterstraße Richtung Norden wieder. Auf einem von unsichtbaren Wesen gezogenem Karren. Es ist Nacht und Kühl die Luft besitzt immer noch den geringsten Hauch von Meeressalz während die Wellengeräusche langsame leiser werden. Trotz des Wissens, dass diese Worte bei mir gefangen sind, so genieße ich ihre Äußerung dennoch. Die Stadt ist momentan vielleicht einige hundert Meter von euch entfernt, ihr kommt gerade die Klippe hinauf. Paradox Ihr sitzt auf Kisten und dem blanken Holzboden. 93 ist gerade dabei sich Bruch anzuschauen während Vinsa vom Kopf des Karrens zu euch spricht. Ihr habt einen Ringträgerermordet,  in seiner eigenen Bank.
+## Reise
+- **35.02.28nA kurz nach Mitternacht**
+- Wagen mit Tarp drüber
+- Vinsa streut goldenes Pulver überm Eingang
+	- Arcanes Schloss?
+- Diskussion über Kem's Hand
+	- Vinsa, Enya und Kem wollen Rechners Hand für Kem benutzen
+	- 93 und Darius sind dagegen
+- Vinsa und Kem sind sich schonmal begegnet
+- Kem hat Probleme sich zu verwandeln
+	- länger nicht mehr probiert
+- Retrek hat seine Crew verloren
+	- war einer der erfolgreichsten Schmuggler
+	- Kem war Teil der Crew
+	- sind aufgeflogen
+		- Flaggen wurden nicht rechtzeitig geändert
+- Konkurrenz beim Schmuggel hilft weniger Aufmerksamkeit auf sich zu lenken
+- **long rest**
+- 93 baut Haut mit Ringen auseinander
+	- 93 hat nur Infos von 4 und 7
+		- keine genauen Informationen
+	- sind auf Basis von Spalteisen
+		- fast alles aus Meluzan basiert auf Spalteisen
+	- Mekem
+		- Kinstein
+			- nicht real
+			- Spalteisen reelles Gegenstück dazu
+	- Ringe vermutlich aus Spalteisen
+	- Ringe verbrauchen Spalteisen der Hand
+- Enya fragt Kem über seine Hand aus
+	- Flaggen hängen nicht damit zusammen
+		- hatte schon davor keine Hand
+	- hat Hand abgehackt bekommen
+		- will nicht sagen wer ihm die Hand abgeschnitten hat
+			- nicht auf Iskra-Level
+			- keine Piraten
+		- war nicht auf dem Meer
+	- hatte noch nichts mit Schiffen zu tun
+	- Kem vermisst sein Hand manchmal
+- Vinsa fragt Darius über Kem aus
+	- Gestaltenwandler sind selten
+		- nicht bekannt wie viele es gibt
+		- eigentlich nie in tatsächlicher Form
+	- Darius hat noch keine klare Meinung
+- **38.02.28nA Mittag**
+- Enya ist schlecht mit Daten
+- weiterhin Pflasterstraße
+- Wetter schlägt um
+	- Gewitter
+- Darius erzählt bisschen über Camp Recep
+	- Enya weiß dass War Forged Meluzan entspringen
+	- Kem weiß "bisschen"
+	- 93 ist immer noch dabei die Ringe von der Hand zu entfernen
+	- wurde während Expansion gebaut
+	- wieder verlassen
+	- später von Kriegsmaschinen besiedelt
+	- Kriegsmaschinen benutzen nicht Anarchie als Wort
+		- einfach "unser Camp"
+	- 4 & 32 führen häufiger politische Diskussionen
+	- Darius hat sich mit den meisten War Forged angefreundet
+	- Akeldama macht Kriegsmaschinen zu schaffen
+		- Spalteisen sehr schwer zu beschaffen
+			- auch Pulver bringt was
+	- keine Informationen dürfen weitergegeben werden
+		- besonders an Meluzan oder Kiranit
+	- Camp ist auf Meluzan angewiesen für Spalteisen
+		- einzige andere Miene ist unter Kudora
+			- müssten sich Mekan gleichstellen um daher Spalteisen zu bekommen
+	- Cores der Verrückten sind "angebrochen"
+	- Camp braucht Unterstützung von Außen
+		- Verlust des Existenzrechts
+		- sind auf Kampf vorbereitet
+	- 6 ist verschwunden
+- Kem kommt aus Grashk
+	- zwischen Uthlin und Grashk gereist
+- Enya kommt aus Grashk, dann Uthlin
+	- Vater von Aditonschen Inseln geflohen
+- Kriegsmaschinen können nicht Teen trinken
+- 93 findet Leichenmarsch nicht besonders beängstigend
+	- war selbst da
+	- sieht keinen Zusammenhang zwischen Geisteszustand der War Forged
+		- betrifft nicht alle die dabei waren
+		- einer verspeist Kleintiere
+		- einer klammert sich an jede Form der Autorität
+	- hinterfragt Ablehnung von Autoritäten manchmal
+- Treffen auf einen Eulenbär
+	- weite Ebene
+		- vereinzelt Bäume
+		- paar 100 Kilometer entfernt Wald
+			- Weinberge
+	- aus Richtung des Walds kommt ein Eulenbär
+		- etwa 10 -15 km entfernt
+		- abgemagert
+		- kommt auf sie zu
+	- 93 hält Gewehr bereit
+	- Eulenbär sollten nicht in der Gegend sein
+		- kommen aus Scheriums Wald
+	- Enya weiß was Eulenbären sind
+	- Essen reicht nicht für alle
+	- Darius will den Eulenbär nicht töten
+	- Enya will den Eulenbär töten
+	- Eulenbär noch 30 Meter entfernt  TODO frag wie schnell Eulenbären sind
+	- Enya, Kem und 93 bereiten sich auf Kampf vor
+		- Darius bleibt im Wagen
+			- castet Aid auf Enya, Kem und 93
+		- Kem schießt mit seiner Muskete
+		- Enya kann sich teleportieren
+			- versteht selbst nicht was sie macht
+	- Enya wird ordentlich vom Eulenbär verletzt
+	- Eulenbär stirbt
+	- Darius heilt Enya
+		- Cure Wounds
+	- Enya kann sich nicht mehr teleportieren
+	- Kem, 93 und Darius schneiden Fleisch vom Eulenbär
+		- reicht für mindestens eine Woche
+		- Darius nimmt Stück vom Federfell mit
+	- 
+## Namen
+- 7
+	- Waffendrill
+	- Waffel
