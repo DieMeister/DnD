@@ -33,28 +33,35 @@
 	- [ ] get Information (01:08:22 / 02:46:39 - 41.02%)
 	- [ ] summarize
 	- [ ] add links to summary
+- [ ] Session 7
+	- [ ] cut
+	- [ ] get Information
+	- [ ] summarize
+	- [ ] add links to summary
 # DnD
-- [ ] World Building
-	- [ ] Darius
-		- [ ] clear ideology for Darius
-		- [ ] create NPC that is already convinced by Darius's ideology
-		- [ ] NPC mit grundlegend anderer Vorstellung als Darius, die aber zusammenarbeiten müssen, erstellen
-		- [ ] create NPC who's politically different but Darius respects
-		- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat (Camp Recep)
-			- [ ] Karaxan
-			- [ ] Camp Recep
-	- [ ] Namen ausdenken 
-		- [ ] Wochentage (mit Sky)
-		- [ ] Familienname von Darius
-		- [ ] Darius' Vater
-		- [ ] Darius' Mutter
-		- [ ] Darius' Schwester
-	- [ ] Brief an Terim, wie es mit Grashk weitergehen soll
+## BuriedBeneathGraves
+- [ ] Darius
+	- [ ] clear ideology for Darius
+	- [ ] create NPC that is already convinced by Darius's ideology
+	- [ ] NPC mit grundlegend anderer Vorstellung als Darius, die aber zusammenarbeiten müssen, erstellen
+	- [ ] create NPC who's politically different but Darius respects
+	- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat (Camp Recep)
+		- [ ] Karaxan
+		- [ ] Camp Recep
+- [ ] Namen ausdenken 
+	- [ ] Wochentage (mit Sky)
+	- [ ] Familienname von Darius
+	- [ ] Darius' Vater
+	- [ ] Darius' Mutter
+	- [ ] Darius' Schwester
+- [ ] Brief an Terim, wie es mit Grashk weitergehen soll
+## Roleplay
 - [ ] Zauber
 	- [ ] Gesten Überlegen
 	- [ ] Sprüche überlegen
+## DnD Wiki
 - [ ] add Backgrounds
-- [x] add Classes
+- [ ] add Classes
 - [ ] add Spells
 	- [ ] Cantrips
 	- [ ] Level 1
@@ -67,19 +74,9 @@
 	- [ ] Level 8
 	- [ ] Level 9
 - [ ] add Spell Lists
-	- [ ] all Spells
-		- [x] Cantrips
-		- [x] Level 1
-		- [x] Level 2
-		- [x] Level 3
-		- [x] Level 4
-		- [ ] Level 5
-		- [ ] Level 6
-		- [ ] Level 7
-		- [ ] Level 8
-		- [ ] Level 9
+	- [x] all Spells
 	- [ ] Artificer
-	- [x] Bard
+	- [ ] Bard
 	- [ ] Cleric
 	- [ ] Druid
 	- [ ] Paladin
@@ -87,64 +84,28 @@
 	- [ ] Sorcerer
 	- [ ] Warlock
 	- [ ] Wizard
-- [x] add Races
-# Timeline
+- [ ] add Races
+# Obsidian
+## Infos
+- [ ] Infos aus GoogleDoc herausarbeiten
+## Files
+- [x] update README
+## Plugins
+### Timeline
 - [ ] Inline Events strukturiert sammeln
 - [ ] Ereignisse herausarbeiten
-# Obsidian
-## Formatting
-- [ ] Infos von [Notes](./Notes.md) in entsprechende Dateien übertragen
-- [ ] Konzept für Links und Tags
+### Graph
+- [ ] redo colors
+### Code Editor
+- [ ] change background color of code files
+## Style
+- [x] Konzept machen
+	- [x] Konzept für Links und Tags
+- [x] decide if index is part of README
+## Maintenance
 - [ ] Pronomen von Warforged in Summary überprüfen
+- [ ] Infos von [Notes](./Notes.md) in entsprechende Dateien übertragen
 - [ ] Links auf Vollständigkeit überprüfen
-	- [ ] Believes
-		- [ ] [Esther](./Believes/Esther.md)
-		- [ ] [Siath](./BElieves/Siath.md)
-	- [ ] Creatures
-		- [ ] [Changeling](./Creatures/Changeling.md)
-		- [ ] [Warforged](./Creatures/Warforged.md)
-	- [ ] Events
-		- [ ] [Blutskrieg](./Events/Blutskrieg.md)
-		- [ ] [die Sintflut](./Events/die%20Sintflut.md)
-		- [ ] [Fest des Letzten Schiffs](./Events/Fest%20des%20Letzten%20Schiffs.md)
-	- [ ] Items
-		- [ ] [Darius's Sketch Book](./Items/Darius's%20Sketch%20Book.md)
-		- [ ] [Dolch](./Items/Dolch.md)
-		- [ ] [Kinstein](./Items/Kinstein.md)
-		- [ ] [Lederrüstung](./Items/Lederrüstung.md)
-		- [ ] [Siegelring](./Items/Siegelring.md)
-	- [ ] Locations
-		- [ ] [Camp Recep](./Locations/Camp%20Recep.md)
-		- [ ] [Grashk](./Locations/Grashk.md)
-		- [ ] [Kiranit](./Locations/Kiranit.md)
-		- [ ] [Sivyl](./Locations/Sivyl.md)
-		- [ ] [Uthlin](./Locations/Uthlin.md)
-		- [ ] [Verekir](./Locations/Verekir.md)
-	- [ ] NPCs
-		- [ ] [93](./NPCs/93%20-%20Eule.md)
-		- [ ] [Darius' Vater](./NPCs/Darius'%20Vater.md)
-		- [ ] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
-		- [ ] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
-		- [ ] [Enyas Vater](./NPCs/Enyas%20Vater.md)
-		- [ ] [Fabel](./NPCs/Fabel.md)
-		- [ ] [Terim](./NPCs/Terim.md)
-	- [ ] Party
-		- [ ] [Darius](./Party/Darius.md)
-		- [ ] [Enya](./Party/Enya.md)
-		- [ ] [Kem](./Party/Kem.md)
-	- [ ] Processes
-		- [ ] [Wiederbelebung](./Processes/Wiederbelebung.md)
-	- [ ] Ranks
-		- [ ] [Flutbeobachter](./Ranks/Flutbeobachter.md)
-	- [ ] Sessions
-		- [ ] [001 Gestohlenes Blut](./Sessions/001%20Gestohlenes%20Blut.md)
-		- [ ] [004 Auferstanden](./Sessions/004%20Auferstanden.md)
-	- [ ] [Introduction](./Introduction.md)
-	- [ ] [Names](./Names.md)
-	- [ ] [ToDo](./ToDo.md)
-	- [ ] Races
-		- [ ] [Firboig](../Races/Firbolg.md)
-- [ ] Tags in Links umwandeln
 	- [ ] Believes
 		- [ ] [Esther](./Believes/Esther.md)
 		- [ ] [Siath](./BElieves/Siath.md)
@@ -240,27 +201,19 @@
 	- [x] [ToDo](./ToDo.md)
 	- [x] Races
 		- [x] [Firboig](../Races/Firbolg.md)
-## Infos
-- [x] create start page with general infos
-- [ ] Infos aus GoogleDoc herausarbeiten
-## config
-- [ ] create color for Processes in Graph View
-- [ ] create color for Character Sheets
-- [ ] create index file with information about the campaign
-	- [ ] decide if index is part of README
-## Keywords
+
+# Inline ToDo
 - [ ] TODO
 	- [ ] Todesursache von Darius Mutter
 	- [ ] Aufenthalt Darius' in Karaxan
 - [x] FIXME
 - [ ] NOTSURE
 	- [ ] Name von Darius Schwester
-# Git
-- [ ] update README
 # Programs
 ## SpellSymbols
 - [ ] write README
 - [ ] update License
+- [ ] rewrite program
 # Anarchie
 ## Quellen verstehen
 - [ ] [Reddit - Anarchy101](https://www.reddit.com/r/Anarchy101/)
@@ -270,7 +223,7 @@
 - [ ] [Errico Malatesta - Anarchy](../../PoliticalIdeologies/Anarchy/errico-malatesta-anarchy.pdf)
 - [ ] [Anarcho, et al. - an Anarchist FAQ](https://www.anarchistfaq.org/afaq/index.html)
 - [x] [YouTube - MrWissen2go - Kann Anarchie funktionieren?](https://www.youtube.com/watch?v=Jt4RJJ3-PqQ)
-- [ ] [Spotify - Philosophie to go - Emma Goldman-Anarchie.](https://open.spotify.com/episode/5oMYIDKdMvTYLwa368Gzco?si=0ea827cc54c2441b)
+- [x] [Spotify - Philosophie to go - Emma Goldman-Anarchie.](https://open.spotify.com/episode/5oMYIDKdMvTYLwa368Gzco?si=0ea827cc54c2441b)
 - [ ] Locale
 	- [ ] [ANARCHY](../../PoliticalIdeologies/Anarchy/Locale/ANARCHY.pdf)
 	- [ ] [Anarchy and Anarchism - Towards a Theory of Complex International Systems](../../PoliticalIdeologies/Anarchy/Locale/Anarchy_and_Anarchism_Towards_a_Theory_o.pdf)

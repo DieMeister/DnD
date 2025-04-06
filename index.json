@@ -1,0 +1,25 @@
+[
+    "spells": {
+        "castingTime": [],
+        "school": [],
+        "level": [],
+        "range": [],
+        "components": [
+            "verbal",
+            "somatic",
+            "material"
+        ],
+        "duration": [],
+    },
+    "daytimes": [
+        "sunrise",
+        "morning",
+        "forenoon",
+        "noon",
+        "afternoon",
+        "evening",
+        "sunset",
+        "night",
+        "midnight"
+    ]
+]
