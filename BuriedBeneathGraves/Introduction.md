@@ -17,7 +17,7 @@ Die Erde ist unserer Wahrnehmung nach rund.
 Die Sonne geht im Norden auf, wandert dann über Westen und geht im Süden wieder unter, wobei ein Tag 28 Stunden hat.  
 Die Welt hat 2 Monde.
 ## Meluzanischer Kalender
-![Kalenderskizze](./Pictures/calendar.png)
+![Kalenderskizze](./Pictures/Calendar.png)
 Der meluzanische Kalender basiert auf dem Zusammenschluss der Adelsfamilien. Man spricht von Jahren nach Meluzan, was mit nM abgekürzt wird; das Jahr 420 nach Meluzan ist also 420nM.  
 Ein Jahr ist ein in sich abgeschlossener Kreislauf, jede der Unterteilungen geht exakt mit einem Jahr auf; ein Jahr besteht aus 5 Jahreszeichen, 10 Monaten, 71 Wochen oder 426 Tagen.
 ### Jahreszeiten
