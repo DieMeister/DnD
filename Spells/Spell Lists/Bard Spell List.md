@@ -197,7 +197,7 @@ This bard spell list includes [[optional spells]] available from Tasha's Cauldro
 | [[Power Word: Heal]] | Evocation     | 1 Action     | Touch    | Instantaneous               | V, S       |
 | [[Power Word: Kill]] | Enchantment   | 1 Action     | 60 feet  | Instantaneous               | V          |
 | [[Prismatic Wall]]   | Abjuration    | 1 Action     | 60 feet  | 10 minutes                  | V, S       |
-| [[Psychic Stream]]   | Enchantment   | 1 Action     | 90 feet  | Instantaneous               | S          |
+| [[Psychic Scream]]   | Enchantment   | 1 Action     | 90 feet  | Instantaneous               | S          |
 | [[True Polymorph]]   | Transmutation | 1 Action     | 30 feet  | Concentration, up to 1 hour | V, S, M    |
 
 <sup>R</sup> - Ritual Spell
