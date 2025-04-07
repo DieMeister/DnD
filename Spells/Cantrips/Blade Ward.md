@@ -1,3 +1,14 @@
+---
+tags:
+  - Spell/School/Abjuration
+  - Spell/Level/0
+  - Spell/CastingTime/Action
+  - Spell/Range/Self
+  - Spell/Components/Verbal
+  - Spell/Components/Somatic
+  - Spell/Duration/Round_1
+---
+
 Source: Player's Handbook  
 Abjuration cantrip  
 **Casting Time:** 1 action  

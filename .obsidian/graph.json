@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:BuriedBeneathGraves -file:\"Session 0\" -file:ToDo -file:Introduction -path:Sessions/Summaries -path:\"irl People\" -file:README -file:Notes -file:Ideas -file:Timeline -file:Names -path:Timelines",
+  "collapse-filter": false,
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7206285617538728,
+  "scale": 0.20569420187712395,
   "close": true
 }

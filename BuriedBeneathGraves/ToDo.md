@@ -88,8 +88,8 @@
 # Obsidian
 ## Infos
 - [ ] Infos aus GoogleDoc herausarbeiten
-## Files
-- [x] update README
+## Files & Folders
+- [ ] add Templates/ to git
 ## Plugins
 ### Timeline
 - [ ] Inline Events strukturiert sammeln
@@ -98,10 +98,6 @@
 - [ ] redo colors
 ### Code Editor
 - [ ] change background color of code files
-## Style
-- [x] Konzept machen
-	- [x] Konzept für Links und Tags
-- [x] decide if index is part of README
 ## Maintenance
 - [ ] Pronomen von Warforged in Summary überprüfen
 - [ ] Infos von [Notes](./Notes.md) in entsprechende Dateien übertragen

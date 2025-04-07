@@ -1,9 +1,9 @@
 # Cantrip
 | Spell Name                                          | School                     | Casting Time   | Range                 | Duration                      | Components |
 | --------------------------------------------------- | -------------------------- | -------------- | --------------------- | ----------------------------- | ---------- |
-| [[Acid Splash]]                                     | Conjuration                | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
+| [Acid Splash](../Cantrips/Acid%20Splash.md)         | Conjuration                | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
 | [Blade Ward](../Cantrips/Blade%20Ward.md)           | Abjuration                 | 1 Action       | Self                  | 1 round                       | V, S       |
-| [[Booming Blade]]                                   | Evocation                  | 1 Action       | Self (5-foot radius)  | 1 round                       | S, M       |
+| [Booming Blade](../Cantrips/Booming%20Blade.md)     | Evocation                  | 1 Action       | Self (5-foot radius)  | 1 round                       | S, M       |
 | [[Chill Touch]]                                     | Necromancy                 | 1 Action       | 120 feet              | 1 round                       | V, S       |
 | [[Control Flames]]                                  | Transmutation              | 1 Action       | 60 feet               | Instantaneous or 1 hour       | S          |
 | [[Create Bonfire]]                                  | Conjuration                | 1 Action       | 60 feet               | Concentration, up to 1 minute | V, S       |
