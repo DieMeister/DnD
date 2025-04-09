@@ -1,0 +1,283 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "y6MNgYtCFjI84VvP9j2xB",
+      "name": "BuriedBeneathGraves",
+      "value": "#fb00ff"
+    },
+    {
+      "id": "5PQDuO7EE9M_Kn1Z0rAy5",
+      "name": "Classes",
+      "value": "#0011ff"
+    },
+    {
+      "id": "w2_FirBrj88DWciy7Yz6X",
+      "name": "Races",
+      "value": "#00eeff"
+    },
+    {
+      "id": "kCCu8XFvHGpo-Ky7QQBfg",
+      "name": "Spells",
+      "value": "#ffbb00"
+    },
+    {
+      "id": "0Fx_gglOWu7rHpUAj3DXZ",
+      "name": "other",
+      "value": "#ff0000"
+    },
+    {
+      "id": "yXHmXjmSoWRMP9BEww7Jw",
+      "name": "1/10",
+      "value": "#ff008c"
+    },
+    {
+      "id": "kXyrqZhMqNEamuJ9-uFWQ",
+      "name": "2/10",
+      "value": "#e600ff"
+    },
+    {
+      "id": "VwIPvKwyuetK2maP3gwNj",
+      "name": "3/10",
+      "value": "#5900ff"
+    },
+    {
+      "id": "Aw9vILvd64MUi7ABniqok",
+      "name": "4/10",
+      "value": "#002fff"
+    },
+    {
+      "id": "XDGQL4g6H6TvB6z2SaYQ1",
+      "name": "5/10",
+      "value": "#00bbff"
+    },
+    {
+      "id": "oG3LYLcOvnKQj5iGrRvJL",
+      "name": "6/10",
+      "value": "#00ffb7"
+    },
+    {
+      "id": "axa9tPWRIMrQyjDTFieJt",
+      "name": "7/10",
+      "value": "#00ff2a"
+    },
+    {
+      "id": "RF9LkPYaau7vjYoYfWsY2",
+      "name": "8/10",
+      "value": "#5eff00"
+    },
+    {
+      "id": "9NIW5lFfFfaoi7S3PztMh",
+      "name": "9/10",
+      "value": "#eaff00"
+    },
+    {
+      "id": "ICy7oMR2cQqM2mYWklEji",
+      "name": "10/10",
+      "value": "#ff8800"
+    },
+    {
+      "id": "qNLaTwuux-rzC8Fb2kTVz",
+      "name": "1/3",
+      "value": "#8000ff"
+    },
+    {
+      "id": "k_u8GXVXTR1na9_CeSh7J",
+      "name": "2/3",
+      "value": "#00ffff"
+    },
+    {
+      "id": "SAtyrU0RYQu_Wzs9F0ohI",
+      "name": "3/3",
+      "value": "#80ff00"
+    },
+    {
+      "id": "tuPH1nMGepMKpz0G7lLFV",
+      "name": "default",
+      "value": "#c0caea"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "BuriedBeneathGraves",
+      "color": "y6MNgYtCFjI84VvP9j2xB"
+    },
+    {
+      "path": "Classes",
+      "color": "5PQDuO7EE9M_Kn1Z0rAy5"
+    },
+    {
+      "path": "Races",
+      "color": "w2_FirBrj88DWciy7Yz6X"
+    },
+    {
+      "path": "Spells",
+      "color": "kCCu8XFvHGpo-Ky7QQBfg"
+    },
+    {
+      "path": "index.json",
+      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+    },
+    {
+      "path": "README.md",
+      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+    },
+    {
+      "path": "Spells/Cantrips",
+      "color": "yXHmXjmSoWRMP9BEww7Jw"
+    },
+    {
+      "path": "Spells/Level1",
+      "color": "kXyrqZhMqNEamuJ9-uFWQ"
+    },
+    {
+      "path": "Spells/Level2",
+      "color": "VwIPvKwyuetK2maP3gwNj"
+    },
+    {
+      "path": "Spells/Level3",
+      "color": "Aw9vILvd64MUi7ABniqok"
+    },
+    {
+      "path": "Spells/Level4",
+      "color": "XDGQL4g6H6TvB6z2SaYQ1"
+    },
+    {
+      "path": "Spells/Level5",
+      "color": "oG3LYLcOvnKQj5iGrRvJL"
+    },
+    {
+      "path": "Spells/Level6",
+      "color": "axa9tPWRIMrQyjDTFieJt"
+    },
+    {
+      "path": "Spells/Level7",
+      "color": "RF9LkPYaau7vjYoYfWsY2"
+    },
+    {
+      "path": "Spells/Level8",
+      "color": "9NIW5lFfFfaoi7S3PztMh"
+    },
+    {
+      "path": "Spells/Level9",
+      "color": "ICy7oMR2cQqM2mYWklEji"
+    },
+    {
+      "path": "Spells/Spell Lists",
+      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+    },
+    {
+      "path": "BuriedBeneathGraves/Pictures",
+      "color": "tuPH1nMGepMKpz0G7lLFV"
+    },
+    {
+      "path": "BuriedBeneathGraves/Timelines",
+      "color": "tuPH1nMGepMKpz0G7lLFV"
+    },
+    {
+      "path": "BuriedBeneathGraves/character_sheet.json",
+      "color": "tuPH1nMGepMKpz0G7lLFV"
+    },
+    {
+      "path": "BuriedBeneathGraves/Introduction.md",
+      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+    },
+    {
+      "path": "BuriedBeneathGraves/Names.md",
+      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+    },
+    {
+      "path": "BuriedBeneathGraves/Notes.md",
+      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+    },
+    {
+      "path": "BuriedBeneathGraves/ToDo.md",
+      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+    },
+    {
+      "path": "BuriedBeneathGraves/Believes",
+      "color": "yXHmXjmSoWRMP9BEww7Jw"
+    },
+    {
+      "path": "BuriedBeneathGraves/Creatures",
+      "color": "kXyrqZhMqNEamuJ9-uFWQ"
+    },
+    {
+      "path": "BuriedBeneathGraves/Events",
+      "color": "VwIPvKwyuetK2maP3gwNj"
+    },
+    {
+      "path": "BuriedBeneathGraves/Items",
+      "color": "Aw9vILvd64MUi7ABniqok"
+    },
+    {
+      "path": "BuriedBeneathGraves/Locations",
+      "color": "XDGQL4g6H6TvB6z2SaYQ1"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs",
+      "color": "oG3LYLcOvnKQj5iGrRvJL"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party",
+      "color": "axa9tPWRIMrQyjDTFieJt"
+    },
+    {
+      "path": "BuriedBeneathGraves/Processes",
+      "color": "RF9LkPYaau7vjYoYfWsY2"
+    },
+    {
+      "path": "BuriedBeneathGraves/Ranks",
+      "color": "9NIW5lFfFfaoi7S3PztMh"
+    },
+    {
+      "path": "BuriedBeneathGraves/Sessions",
+      "color": "ICy7oMR2cQqM2mYWklEji"
+    },
+    {
+      "path": "BuriedBeneathGraves/Audio",
+      "color": "tuPH1nMGepMKpz0G7lLFV"
+    },
+    {
+      "path": "BuriedBeneathGraves/Audio/Transcripts/session_004_cut.mp3",
+      "color": "qNLaTwuux-rzC8Fb2kTVz"
+    },
+    {
+      "path": "BuriedBeneathGraves/Audio/Transcripts/session_005_cut.mp3",
+      "color": "k_u8GXVXTR1na9_CeSh7J"
+    },
+    {
+      "path": "BuriedBeneathGraves/Audio/Transcripts/session_006_cut.mp3",
+      "color": "SAtyrU0RYQu_Wzs9F0ohI"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/CharacterSheets",
+      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/Darius Työkalu.md",
+      "color": "qNLaTwuux-rzC8Fb2kTVz"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/Enya.md",
+      "color": "k_u8GXVXTR1na9_CeSh7J"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/Kem.md",
+      "color": "SAtyrU0RYQu_Wzs9F0ohI"
+    },
+    {
+      "path": "BuriedBeneathGraves/Sessions/001 Gestohlenes Blut.md",
+      "color": "qNLaTwuux-rzC8Fb2kTVz"
+    },
+    {
+      "path": "BuriedBeneathGraves/Sessions/004 Auferstanden.md",
+      "color": "k_u8GXVXTR1na9_CeSh7J"
+    },
+    {
+      "path": "BuriedBeneathGraves/Sessions/005 Gebrochen und Geborgen.md",
+      "color": "SAtyrU0RYQu_Wzs9F0ohI"
+    }
+  ]
+}

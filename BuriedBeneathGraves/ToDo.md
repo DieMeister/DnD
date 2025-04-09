@@ -51,10 +51,7 @@
 		- [ ] Camp Recep
 - [ ] Namen ausdenken 
 	- [ ] Wochentage (mit Sky)
-	- [x] Familienname von Darius
 	- [ ] Darius' Vater
-	- [x] Darius' Mutter
-	- [x] Darius' Schwester
 - [ ] Brief an Terim, wie es mit Grashk weitergehen soll
 ## Roleplay
 - [ ] Zauber
@@ -110,10 +107,8 @@
 	- [ ] Aufenthalt Darius' in Karaxan
 - [x] FIXME
 - [x] NOTSURE
-	- [x] Name von Darius Schwester
 # Programs
 ## SpellSymbols
-- [x] write README
 - [ ] update License
 - [ ] rewrite program
 # Anarchie
