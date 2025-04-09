@@ -4,7 +4,7 @@
 - Avyth
 - Cethem
 - [Changeling](./Creatures/Changeling.md)
-- [Darius](./Party/Darius.md)
+- [Darius Työkalu](./Party/Darius%20Työkalu.md)
 - [Enya](./Party/Enya.md)
 - [Esther](./Believes/Esther.md)
 - [Fabel](./NPCs/Fabel.md)
@@ -24,6 +24,7 @@
 - Klaasa
 - Koreth
 - Limek
+- Lorela Työkalu
 - Meavith
 - Meceth
 - Mekayttz
@@ -32,9 +33,11 @@
 - Nuriel
 - Prashtir
 - [Siath](./Believes/Siath.md)
+- [Siiri Työkalu](./NPCs/Siiri%20Työkalu.md)
 - Spur
 - Stav
 - [Terim](./NPCs/Terim.md)
+- Työkalu
 - Tzekkrah
 - [Sivyl](./Locations/Sivyl.md)
 - [Uthlin](./Locations/Uthlin.md)

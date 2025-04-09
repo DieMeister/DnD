@@ -1,4 +1,5 @@
 # Sessions
+- [ ] rewrite Session 1
 - [ ] Session 0
 	- [ ] cut
 	- [ ] get Information
@@ -50,10 +51,10 @@
 		- [ ] Camp Recep
 - [ ] Namen ausdenken 
 	- [ ] Wochentage (mit Sky)
-	- [ ] Familienname von Darius
+	- [x] Familienname von Darius
 	- [ ] Darius' Vater
-	- [ ] Darius' Mutter
-	- [ ] Darius' Schwester
+	- [x] Darius' Mutter
+	- [x] Darius' Schwester
 - [ ] Brief an Terim, wie es mit Grashk weitergehen soll
 ## Roleplay
 - [ ] Zauber
@@ -102,112 +103,17 @@
 - [ ] Pronomen von Warforged in Summary überprüfen
 - [ ] Infos von [Notes](./Notes.md) in entsprechende Dateien übertragen
 - [ ] Links auf Vollständigkeit überprüfen
-	- [ ] Believes
-		- [ ] [Esther](./Believes/Esther.md)
-		- [ ] [Siath](./BElieves/Siath.md)
-	- [ ] Creatures
-		- [ ] [Changeling](./Creatures/Changeling.md)
-		- [ ] [Warforged](./Creatures/Warforged.md)
-	- [ ] Events
-		- [ ] [Blutskrieg](./Events/Blutskrieg.md)
-		- [ ] [die Sintflut](./Events/die%20Sintflut.md)
-		- [ ] [Fest des Letzten Schiffs](./Events/Fest%20des%20Letzten%20Schiffs.md)
-	- [ ] Items
-		- [ ] [Darius's Sketch Book](./Items/Darius's%20Sketch%20Book.md)
-		- [ ] [Dolch](./Items/Dolch.md)
-		- [ ] [Kinstein](./Items/Kinstein.md)
-		- [ ] [Lederrüstung](./Items/Lederrüstung.md)
-		- [ ] [Siegelring](./Items/Siegelring.md)
-	- [ ] Locations
-		- [ ] [Camp Recep](./Locations/Camp%20Recep.md)
-		- [ ] [Grashk](./Locations/Grashk.md)
-		- [ ] [Kiranit](./Locations/Kiranit.md)
-		- [ ] [Sivyl](./Locations/Sivyl.md)
-		- [ ] [Uthlin](./Locations/Uthlin.md)
-		- [ ] [Verekir](./Locations/Verekir.md)
-	- [ ] NPCs
-		- [ ] [93](./NPCs/93%20-%20Eule.md)
-		- [ ] [Darius' Vater](./NPCs/Darius'%20Vater.md)
-		- [ ] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
-		- [ ] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
-		- [ ] [Enyas Vater](./NPCs/Enyas%20Vater.md)
-		- [ ] [Fabel](./NPCs/Fabel.md)
-		- [ ] [Terim](./NPCs/Terim.md)
-	- [ ] Party
-		- [ ] [Darius](./Party/Darius.md)
-		- [ ] [Enya](./Party/Enya.md)
-		- [ ] [Kem](./Party/Kem.md)
-	- [ ] Processes
-		- [ ] [Wiederbelebung](./Processes/Wiederbelebung.md)
-	- [ ] Ranks
-		- [ ] [Flutbeobachter](./Ranks/Flutbeobachter.md)
-	- [ ] Sessions
-		- [ ] [001 Gestohlenes Blut](./Sessions/001%20Gestohlenes%20Blut.md)
-		- [ ] [004 Auferstanden](./Sessions/004%20Auferstanden.md)
-	- [ ] [Introduction](./Introduction.md)
-	- [ ] [Names](./Names.md)
-	- [ ] [ToDo](./ToDo.md)
-	- [ ] Races
-		- [ ] [Firboig](../Races/Firbolg.md)
-- [ ] Links GitHub kompatibel machen (`[DisplayName](RelativeFilePath)`)
-	- [x] Believes
-		- [x] [Esther](./Believes/Esther.md)
-		- [x] [Siath](./BElieves/Siath.md)
-	- [x] Creatures
-		- [x] [Changeling](./Creatures/Changeling.md)
-		- [x] [Warforged](./Creatures/Warforged.md)
-	- [x] Events
-		- [x] [Blutskrieg](./Events/Blutskrieg.md)
-		- [x] [die Sintflut](./Events/die%20Sintflut.md)
-		- [x] [Fest des Letzten Schiffs](./Events/Fest%20des%20Letzten%20Schiffs.md)
-	- [x] Items
-		- [x] [Darius's Sketch Book](./Items/Darius's%20Sketch%20Book.md)
-		- [x] [Dolch](./Items/Dolch.md)
-		- [x] [Kinstein](./Items/Kinstein.md)
-		- [x] [Lederrüstung](./Items/Lederrüstung.md)
-		- [x] [Siegelring](./Items/Siegelring.md)
-	- [x] Locations
-		- [x] [Camp Recep](./Locations/Camp%20Recep.md)
-		- [x] [Grashk](./Locations/Grashk.md)
-		- [x] [Kiranit](./Locations/Kiranit.md)
-		- [x] [Sivyl](./Locations/Sivyl.md)
-		- [x] [Uthlin](./Locations/Uthlin.md)
-		- [x] [Verekir](./Locations/Verekir.md)
-	- [x] NPCs
-		- [x] [93](./NPCs/93%20-%20Eule.md)
-		- [x] [Darius' Vater](./NPCs/Darius'%20Vater.md)
-		- [x] [Elvian Vythe](./NPCs/Elvian%20Vythe.md)
-		- [x] [Enyas Mutter](./NPCs/Enyas%20Mutter.md)
-		- [x] [Enyas Vater](./NPCs/Enyas%20Vater.md)
-		- [x] [Fabel](./NPCs/Fabel.md)
-		- [x] [Terim](./NPCs/Terim.md)
-	- [x] Party
-		- [x] [Darius](./Party/Darius.md)
-		- [x] [Enya](./Party/Enya.md)
-		- [x] [Kem](./Party/Kem.md)
-	- [x] Processes
-		- [x] [Wiederbelebung](./Processes/Wiederbelebung.md)
-	- [x] Ranks
-		- [x] [Flutbeobachter](./Ranks/Flutbeobachter.md)
-	- [ ] Sessions
-		- [ ] [001 Gestohlenes Blut](./Sessions/001%20Gestohlenes%20Blut.md)
-		- [ ] [004 Auferstanden](./Sessions/004%20Auferstanden.md)
-	- [x] [Introduction](./Introduction.md)
-	- [x] [Names](./Names.md)
-	- [x] [ToDo](./ToDo.md)
-	- [x] Races
-		- [x] [Firboig](../Races/Firbolg.md)
-
+- [ ] Links in Session 4 GitHub kompatibel machen (`[DisplayName](RelativeFilePath)`)
 # Inline ToDo
 - [ ] TODO
 	- [ ] Todesursache von Darius Mutter
 	- [ ] Aufenthalt Darius' in Karaxan
 - [x] FIXME
-- [ ] NOTSURE
-	- [ ] Name von Darius Schwester
+- [x] NOTSURE
+	- [x] Name von Darius Schwester
 # Programs
 ## SpellSymbols
-- [ ] write README
+- [x] write README
 - [ ] update License
 - [ ] rewrite program
 # Anarchie

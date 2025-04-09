@@ -1,4 +1,4 @@
-Dieser Dolch ist im Besitz [Daruis'](../Party/Darius.md).
+Dieser Dolch ist im Besitz [Daruis'](../Party/Darius%20Työkalu.md).
 
 | Angriffsbonus | Schaden | Schadenstyp  | Reichweite | Merkmale          |
 | ------------- | ------- | ------------ | ---------- | ----------------- |

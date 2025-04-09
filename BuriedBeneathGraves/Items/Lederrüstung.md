@@ -1,4 +1,4 @@
-Diese Lederrüstung ist im Besitz [Darius'](../Party/Darius.md).
+Diese Lederrüstung ist im Besitz [Darius'](../Party/Darius%20Työkalu.md).
 
 | Rüstungsklasse | Merkmale |
 | -------------- | -------- |

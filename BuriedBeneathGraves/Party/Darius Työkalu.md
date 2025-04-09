@@ -3,30 +3,30 @@ references:
   - https://pin.it/6lQicUery
 ---
 Darius ist ein [Firbolg](../../Races/Firbolg.md) in seinen Zwanzigern. Er ist ein [Barde](../../Classes/Bard/Bard.md) mit der Subclass [College of Whispers](../../Classes/Bard/Colleges/College%20of%20Whispers.md).  
-Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [[Mutter]] starb allerdings früh an einer [[Krankheit]] und er wurde nur von seinem [[Vater]] und seiner 3 Jahre älteren [[Schwester]] aufgezogen, mit dem es aufgrund unterschiedlicher politischer Einstellungen immer wieder zu Meinungsverschiedenheiten kommt. Als Teenager radikalisiert er sich immer weiter, bis er sich schließlich komplett dem Aktivismus widmet. Auf seinen Reisen lernt er [Fabel](../NPCs/Fabel.md) kenn, ein Eichhörnchen.
+Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [Mutter](../NPCs/Siiri%20Työkalu.md) starb allerdings früh an einer [[Krankheit]] und er wurde nur von seinem [Vater](../NPCs/Vater%20Työkalu.md) und seiner 3 Jahre älteren [[Schwester]] aufgezogen, mit dem es aufgrund unterschiedlicher politischer Einstellungen immer wieder zu Meinungsverschiedenheiten kommt. Als Teenager radikalisiert er sich immer weiter, bis er sich schließlich komplett dem Aktivismus widmet. Auf seinen Reisen lernt er [Fabel](../NPCs/Fabel.md) kenn, ein Eichhörnchen.
 # Inhalt
-- [Inhalt](./Darius.md#Inhalt)
-- [Backstory](./Darius.md#Backstory)
-	- [Kindheit und Jugend](./Darius.md#Kindheit%20und%20Jugend)
-	- [politische Reise](./Darius.md#politische%20Reise)
-- [Aussehen](./Darius.md#Aussehen)
-	- [Kleidung](./Darius.md#Kleidung)
-- [Persönlichkeit](./Darius.md#Persönlichkeit)
-- [Kunst](./Darius.md#Kunst)
-- [Eigentum](./Darius.md#Eigentum)
-- [Ideologie](./Darius.md#Ideologie)
-	- [Utopie](./Darius.md#Utopie)
-		- [Grundsätzliches](./Darius.md#grundsätzliches)
-		- [Legislative](./Darius.md#Legislative)
-			- [Landesebene](./Darius.md#Landesebene)
-			- [weitere Ebenen](./Darius.md#weitere%20Ebenen)
-		- [Exekutive](./Darius.md#Exekutive)
-		- [Judikative](./Darius.md#Judikative)
-- [Ziele](./Darius.md#Ziele)
-	- [langfristig](./Darius.md#langfristig)
-	- [kurzfristig](./Darius.md#kurzfristig)
-- [Besitz](./Darius.md#Besitz)
-- [Zauber](./Darius.md#Zauber)
+- [Inhalt](Darius%20Työkalu.md#Inhalt)
+- [Backstory](Darius%20Työkalu.md#Backstory)
+	- [Kindheit und Jugend](Darius%20Työkalu.md#Kindheit%20und%20Jugend)
+	- [politische Reise](Darius%20Työkalu.md#politische%20Reise)
+- [Aussehen](Darius%20Työkalu.md#Aussehen)
+	- [Kleidung](Darius%20Työkalu.md#Kleidung)
+- [Persönlichkeit](Darius%20Työkalu.md#Persönlichkeit)
+- [Kunst](Darius%20Työkalu.md#Kunst)
+- [Eigentum](Darius%20Työkalu.md#Eigentum)
+- [Ideologie](Darius%20Työkalu.md#Ideologie)
+	- [Utopie](Darius%20Työkalu.md#Utopie)
+		- [Grundsätzliches](Darius%20Työkalu.md#grundsätzliches)
+		- [Legislative](Darius%20Työkalu.md#Legislative)
+			- [Landesebene](Darius%20Työkalu.md#Landesebene)
+			- [weitere Ebenen](Darius%20Työkalu.md#weitere%20Ebenen)
+		- [Exekutive](Darius%20Työkalu.md#Exekutive)
+		- [Judikative](Darius%20Työkalu.md#Judikative)
+- [Ziele](Darius%20Työkalu.md#Ziele)
+	- [langfristig](Darius%20Työkalu.md#langfristig)
+	- [kurzfristig](Darius%20Työkalu.md#kurzfristig)
+- [Besitz](Darius%20Työkalu.md#Besitz)
+- [Zauber](Darius%20Työkalu.md#Zauber)
 # Backstory
 ## Kindheit und Jugend
 <!--- %%tl-inline-event
@@ -48,9 +48,9 @@ tl-event-picture: none
 tl-event-body: Darius verbringt seine Kindheit und Jugend in Verekir
 %% --->
 Darius wird am 12.04.003nA in [Verekir](../Locations/Verekir.md) geboren. Trotz der laufenden  [[Expansion]] merkt Darius nur mittelbar, dass Krieg herrscht, da [Verekir](../Locations/Verekir.md) sich direkt unterwarf, sofern das Leben in der Stadt wie gehabt weitergehen kann.  
-Seine Mutter stirbt als Darius erst 4 Jahre alt ist am 13. Meavyth 007 nA an einer Überdosis. <!-- TODO Droge überlegen, an der Mutter gestorben ist -->
-Von da an werden er und seine 3 Jahre ältere Schwester [[Fiona]] %%NOTSURE Name könnte sich ändern%% nur von ihrem Vater [[Markus]] aufgezogen, haben aber eine ansonsten normale Kindheit.  
-Als Teenager beginnt Darius sich zunehmend politisch zu interessieren und engagieren, was in [Verekir](../Locations/Verekir.md) aber nur auf wenig Unterstützung trifft. Besonders sein Vater sieht der Entwicklung seines Sohnes skeptisch und es kommt häufiger zu Auseinandersetzungen zwischen beiden. 
+Seine [Mutter](../NPCs/Siiri%20Työkalu.md) stirbt als Darius erst 4 Jahre alt ist.  
+Von da an werden er und seine 3 Jahre ältere Schwester [[Lorela Työkalu]] nur von ihrem [Vater](../NPCs/Vater%20Työkalu.md) aufgezogen, haben aber eine ansonsten normale Kindheit.  
+Als Teenager beginnt Darius sich zunehmend politisch zu interessieren und engagieren, was in [Verekir](../Locations/Verekir.md) aber nur auf wenig Unterstützung trifft. Besonders sein [Vater](../NPCs/Vater%20Työkalu.md) sieht der Entwicklung seines Sohnes skeptisch und es kommt häufiger zu Auseinandersetzungen zwischen beiden. 
 Mit 22 verlässt Darius [Verekir](../Locations/Verekir.md) um sich ganz dem Aktivismus widmen zu können.
 ## politische Reise
 <!--- %%tl-inline-event
