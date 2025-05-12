@@ -1,6 +1,4 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
-# Creatures
-# Events
 # Items
 ## Amulette
 - Axtkopf ist eins
@@ -9,20 +7,13 @@
 - bekannte Amulette sicher aufbewahrt
 - erkennbar an Farbe
 - nicht möglich in ihrer Nähe zu sterben
-## Kuo-Toa Stab
-- leicht gräulich
-- Knochen
-- Oktopus mit Stein im Kopf oben dran
-- Stil des Axtkopfes
+
 ## Rechners Ring
 - kann Gegenstände "einsaugen"
 	- lila Licht scheint
 ## Siegelring
 - soll Existenz Grygur Sorthans beweisen
 - hat Darius in Verekir anfertigen lassen
-## Würfel
-- metallener, lilaner Schimmer
-- lässt sich nicht drehen
 # Locations
 ## Camp Recep
 - Zugang zu kreide
@@ -45,11 +36,7 @@
 - political contact & studies
 	- Gemeinsamkeiten mit kudora
 	- neutral bis positive Beziehungen
-## Gelände zwischen Grashk und Klippe
-- Untergrund wechselt zwischen Wiese, Stein und Wald
-- Sonne scheint früher als in Grashk
-## Hornsingerbar
-- Bar komplett zerstört
+
 ## Höhle
 - 1 Tagesmarsch von Grashk entfernt
 - Treppe führt hoch zu Podest
@@ -73,28 +60,8 @@
 - einziger ort an dem die dynastie interesse hat
 - Rätediktatur
 - Mekangesellschaft
-## Meer
-- tobende Flut
-- starke Strömung
-## Terims Haus
-- Enya raged und zerstört die Tür
-	- Tür fliegt aus den Angeln
-	- Tür flieht durch den halben Flur
-	- zerschmettert an der gegenüberliegenden Wand
-- Haus gehört Rechner
 # NPCs
-## 4
-- Warforged
-- report
-- "Status"
-- founding member von Camp Recep
-	- bücher aus ruzen geklaut
-		- war dort stationiert
-	- interessiert an mekan
-		- religion nicht übernehmen
-		- religion und verehrer verändern einander
-		- hyper focus
-		- clay
+
 ## 5
 - Warforged
 - Resource Collector
@@ -151,14 +118,7 @@
 - extrem organisiert
 - zuständig für einteilung der warforged in "schichten"
 - zuständig für zeitliche verteilung der auseinandersetzungen damit alle teilhaben können
-## 93
-- hat Darius im camp getroffen
-- besitzt:
-	- zerzausten Kaputzenumhang
-	- Dolch
-- kommt nicht aus Grashk
-- ist für die Sicherheit in der Gegend um Grashk verantwortlich
-- weiß von 3 Amuletten
+
 ## 177
 - Warforged
 - Soldat

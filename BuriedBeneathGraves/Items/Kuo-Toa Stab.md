@@ -1,0 +1,1 @@
+Der Kuo-Toa Stab ist ein leicht gräulicher Knochen mit der Gottheit der [Kuo-Toa](Kuo-Toa) oben dran. Er ist außerdem der Stil einer Axt. Der Stab ist momentan im Besitzt [Darius'](../Timelines/Party/Darius.md).

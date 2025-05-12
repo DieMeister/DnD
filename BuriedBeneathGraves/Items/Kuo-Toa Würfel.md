@@ -1,0 +1,1 @@
+Ein Würfel mit metall-lilanem Schimmer.

@@ -1,0 +1,1 @@
+Aufgrund [Terims](../NPCs/Terim.md) hoher Schulden gehört das Haus [[Rechner]]. Die Hintertür wurde von [Enya](../Party/Enya.md) zerstört. 
