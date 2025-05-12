@@ -1,13 +1,13 @@
 ---
-tags:
-  - Spell/School/Conjuration
-  - Spell/Level/0
-  - Spell/CastingTime/Action_1
-  - Spell/Range/Feet_60
-  - Spell/Components/Verbal
-  - Spell/Components/Somatic
-  - Spell/Duration/Instantaneous
-  - Spell/DamageType/Acid
+Spell School: Conjuration
+Spell Level: 0
+Spell Casting Time: 1 Action
+Spell Range: 60 feet
+Spell Components:
+  - Verbal
+  - Somatic
+Spell Duration: Instantaneous
+Spell Damage Type: Acid
 ---
 Source: Player's Handbook  
 Conjuration cantrip  

@@ -1,14 +1,14 @@
 ---
-tags:
-  - Spell/School/Evocation
-  - Spell/Level/0
-  - Spell/CastingTime/Action_1
-  - Spell/Range/Self
-  - Spell/AreaType/Radius_5ft
-  - Spell/Components/Somatic
-  - Spell/Components/Material
-  - Spell/Duration
-  - Spell/DamageType/Thunder
+Spell School: Evocation
+Spell Level: 0
+Spell Casting Time: 1 Action
+Spell Range: Self
+Spell Area Type: 5ft Radius
+Spell Components:
+  - Somatic
+  - Material
+Spell Duration: 1 Round
+Spell Damage Type: Thunder
 ---
 Source: Tasha's Cauldron of Everything  
 Evocation cantrip  

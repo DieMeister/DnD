@@ -1,12 +1,12 @@
 ---
-tags:
-  - Spell/School/Abjuration
-  - Spell/Level/0
-  - Spell/CastingTime/Action
-  - Spell/Range/Self
-  - Spell/Components/Verbal
-  - Spell/Components/Somatic
-  - Spell/Duration/Round_1
+Spell: Abjuration
+Spell Level: 0
+Spell Casting Time: 1 Action
+Spell Range: Self
+Spell Components:
+  - Verbal
+  - Somatic
+Spell Duration: 1 Round
 ---
 
 Source: Player's Handbook  

@@ -1,3 +1,17 @@
+---
+Spell School: Enchantment
+Spell Level: 0
+Spell Casting Time: 1 Action
+Spell Range: Self
+Spell Area Type: 
+Spell Components:
+  - Somatic
+  - Material
+Spell Duration:
+  - Concentration (1 Minute)
+Spell Damage Type:
+---
+
 Source: Player's Handbook  
 Enchantment cantrip  
 **Casting Time:** 1 action  

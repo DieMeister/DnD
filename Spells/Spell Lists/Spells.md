@@ -1,56 +1,56 @@
 # Cantrip
-| Spell Name                                          | School                     | Casting Time   | Range                 | Duration                      | Components |
-| --------------------------------------------------- | -------------------------- | -------------- | --------------------- | ----------------------------- | ---------- |
-| [Acid Splash](../Cantrips/Acid%20Splash.md)         | Conjuration                | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
-| [Blade Ward](../Cantrips/Blade%20Ward.md)           | Abjuration                 | 1 Action       | Self                  | 1 round                       | V, S       |
-| [Booming Blade](../Cantrips/Booming%20Blade.md)     | Evocation                  | 1 Action       | Self (5-foot radius)  | 1 round                       | S, M       |
-| [[Chill Touch]]                                     | Necromancy                 | 1 Action       | 120 feet              | 1 round                       | V, S       |
-| [[Control Flames]]                                  | Transmutation              | 1 Action       | 60 feet               | Instantaneous or 1 hour       | S          |
-| [[Create Bonfire]]                                  | Conjuration                | 1 Action       | 60 feet               | Concentration, up to 1 minute | V, S       |
-| [Dancing Lights](../Cantrips/Dancing%20Lights.md)   | Evocation                  | 1 Action       | 120 feet              | Concentration up to 1 minute  | V, S, M    |
-| [[Decompose (HB)]]                                  | Necromancy                 | 1 Action       | Touch                 | 1 minute                      | V, S       |
-| [[Druidcraft]]                                      | Transmutation              | 1 Action       | 30 feet               | Instantaneous                 | V, S       |
-| [[Eldritch Blast]]                                  | Evocation                  | 1 Action       | 120 feet              | Instantaneous                 | V, S       |
-| [[Encode Thoughts]]                                 | Enchantment                | 1 Action       | Self                  | 8 hours                       | S          |
-| [[Fire Bolt]]                                       | Evocation                  | 1 Action       | 120 feet              | Instantaneous                 | V, S       |
-| [Friends](../Cantrips/Friends.md)                   | Enchantment                | 1 Action       | Self                  | Concentration, up to 1 minute | S, M       |
-| [[Frostbite]]                                       | Evocation                  | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
-| [[Green-Flame Blade]]                               | Evocation                  | 1 Action       | Self (5-foot radius)  | Instantaneous                 | S, M       |
-| [[Guidance]]                                        | Divination                 | 1 Action       | Touch                 | Concentration up to 1 minute  | V, S       |
-| [[Gust]]                                            | Transmutation              | 1 Action       | 30 feet               | Instantaneous                 | V, S       |
-| [[Hand of Radiance (UA)]]                           | Evocation                  | 1 Action       | 5 feet                | Instantaneous                 | V, S       |
-| [[Infestation]]                                     | Conjuration                | 1 Action       | 30 feet               | Instantaneous                 | V, S, M    |
-| [Light](../Cantrips/Light.md)                       | Evocation                  | 1 Action       | Touch                 | 1 hour                        | V, M       |
-| [[Lightning Lure]]                                  | Evocation                  | 1 Action       | Self (15-foot radius) | Instantaneous                 | V          |
-| [Mage Hand](../Cantrips/Mage%20Hand.md)             | Conjuration                | 1 Action       | 30 feet               | 1 minute                      | V, S       |
-| [[Magic Stone]]                                     | Transmutation              | 1 Bonus Action | Touch                 | 1 minute                      | V, S       |
-| [Mending](../Cantrips/Mending.md)                   | Transmutation              | 1 Minute       | Touch                 | Instantaneous                 | V, S, M    |
-| [Message](../Cantrips/Message.md)                   | Transmutation              | 1 Action       | 120 feet              | 1 round                       | V, S, M    |
-| [[Mind Silver]]                                     | Enchantment                | 1 Action       | 60 feet               | 1 round                       | V          |
-| [Minor Illusion](../Cantrips/Minor%20Illusion.md)   | Illusion                   | 1 Action       | 30 feet               | 1 minute                      | S, M       |
-| [[Mold Earth]]                                      | Transmutation              | 1 Action       | 30 feet               | Instantaneous or 1 hour       | S          |
-| [[On/Off (UA)]]                                     | Transmutation <sup>T</sup> | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
-| [[Poison Spray]]                                    | Conjuration                | 1 Action       | 10 feet               | Instantaneous                 | V, S       |
-| [Prestidigitation](../Cantrips/Prestidigitation.md) | Transmutation              | 1 Action       | 10 feet               | Up to 1 hour                  | V, S       |
-| [[Primal Savagery]]                                 | Transmutation              | 1 Action       | Self                  | Instantaneous                 | S          |
-| [[Produce Flame]]                                   | Conjuration                | 1 Action       | Self                  | 10 minutes                    | V, S       |
-| [[Ray of Frost]]                                    | Evocation                  | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
-| [[Resistance]]                                      | Abjuration                 | 1 Action       | Touch                 | Concentration up to 1 minute  | V, S, M    |
-| [[Sacred Flame]]                                    | Evocation                  | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
-| [[Sapping Sting]]                                   | Necromancy <sup>D</sup>    | 1 Action       | 30 feet               | Instantaneous                 | V, S       |
-| [[Shape Water]]                                     | Transmutation              | 1 Action       | 30 feet               | Instantaneous or 1 hour       | S          |
-| [[Shillelagh]]                                      | Transmutation              | 1 Bonus Action | Touch                 | 1 minute                      | V, S, M    |
-| [[Shocking Grasp]]                                  | Evocation                  | 1 Action       | Touch                 | Instantaneous                 | V, S       |
-| [[Spare the Dying]]                                 | Necromancy                 | 1 Action       | Touch                 | Instantaneous                 | V, S       |
-| [[Sword Burst]]                                     | Conjuration                | 1 Action       | Self (5-foot radius)  | Instantaneous                 | V          |
-| [[Thaumaturgy]]                                     | Transmutation              | 1 Action       | 30 feet               | Up to 1 minute                | V          |
-| [[Thorn Whip]]                                      | Transmutation              | 1 Action       | 30 feet               | Instantaneous                 | V, S, M    |
-| [Thunderclap](../Cantrips/Thunderclap.md)           | Evocation                  | 1 Action       | Self (5-foot-radius)  | Instantaneous                 | S          |
-| [[Toll the Dead]]                                   | Necromancy                 | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
-| [True Strike](../Cantrips/True%20Strike.md)         | Divination                 | 1 Action       | 30 feet               | Concentration up to 1 round   | S          |
-| [Vicious Mockery](../Cantrips/Vicious%20Mockery.md) | Enchantment                | 1 Action       | 60 feet               | Instantaneous                 | V          |
-| [[Virtue (UA)]]                                     | Abjuration                 | 1 Action       | Touch                 | 1 round                       | V, S       |
-| [[Word of Radiance]]                                | Evocation                  | 1 Action       | 5 feet                | Instantaneous                 | V, M       |
+| Spell Name                                                          | School                     | Casting Time   | Range                 | Duration                      | Components |
+| ------------------------------------------------------------------- | -------------------------- | -------------- | --------------------- | ----------------------------- | ---------- |
+| [Acid Splash](../Cantrips/Acid%20Splash.md)                         | Conjuration                | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
+| [Blade Ward](../Cantrips/Blade%20Ward.md)                           | Abjuration                 | 1 Action       | Self                  | 1 round                       | V, S       |
+| [Booming Blade](../Cantrips/Booming%20Blade.md)                     | Evocation                  | 1 Action       | Self (5-foot radius)  | 1 round                       | S, M       |
+| [Chill Touch](../Cantrips/Chill%20Touch.md)                         | Necromancy                 | 1 Action       | 120 feet              | 1 round                       | V, S       |
+| [Control Flames](../Cantrips/Control%20Flames.md)                   | Transmutation              | 1 Action       | 60 feet               | Instantaneous or 1 hour       | S          |
+| [Create Bonfire](../Cantrips/Create%20Bonfire.md)                   | Conjuration                | 1 Action       | 60 feet               | Concentration, up to 1 minute | V, S       |
+| [Dancing Lights](../Cantrips/Dancing%20Lights.md)                   | Evocation                  | 1 Action       | 120 feet              | Concentration up to 1 minute  | V, S, M    |
+| [Decompose (HB)](../Cantrips/Decompose%20(HB).md)                   | Necromancy                 | 1 Action       | Touch                 | 1 minute                      | V, S       |
+| [Druidcraft](../Cantrips/Druidcraft.md)                             | Transmutation              | 1 Action       | 30 feet               | Instantaneous                 | V, S       |
+| [Eldritch Blast](../Cantrips/Eldritch%20Blast.md)                   | Evocation                  | 1 Action       | 120 feet              | Instantaneous                 | V, S       |
+| [Encode Thoughts](../Cantrips/Encode%20Thoughts.md)                 | Enchantment                | 1 Action       | Self                  | 8 hours                       | S          |
+| [Fire Bolt](../Cantrips/Fire%20Bolt.md)                             | Evocation                  | 1 Action       | 120 feet              | Instantaneous                 | V, S       |
+| [Friends](../Cantrips/Friends.md)                                   | Enchantment                | 1 Action       | Self                  | Concentration, up to 1 minute | S, M       |
+| [Frostbite](../Cantrips/Frostbite.md)                               | Evocation                  | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
+| [Green-Flame Blade](../Cantrips/Green-Flame%20Blade.md)             | Evocation                  | 1 Action       | Self (5-foot radius)  | Instantaneous                 | S, M       |
+| [Guidance](../Cantrips/Guidance.md)                                 | Divination                 | 1 Action       | Touch                 | Concentration up to 1 minute  | V, S       |
+| [Gust](../Cantrips/Gust.md)                                         | Transmutation              | 1 Action       | 30 feet               | Instantaneous                 | V, S       |
+| [Hand of Radiance (UA)](../Cantrips/Hand%20of%20Radiance%20(UA).md) | Evocation                  | 1 Action       | 5 feet                | Instantaneous                 | V, S       |
+| [[Infestation]]                                                     | Conjuration                | 1 Action       | 30 feet               | Instantaneous                 | V, S, M    |
+| [Light](../Cantrips/Light.md)                                       | Evocation                  | 1 Action       | Touch                 | 1 hour                        | V, M       |
+| [[Lightning Lure]]                                                  | Evocation                  | 1 Action       | Self (15-foot radius) | Instantaneous                 | V          |
+| [Mage Hand](../Cantrips/Mage%20Hand.md)                             | Conjuration                | 1 Action       | 30 feet               | 1 minute                      | V, S       |
+| [[Magic Stone]]                                                     | Transmutation              | 1 Bonus Action | Touch                 | 1 minute                      | V, S       |
+| [Mending](../Cantrips/Mending.md)                                   | Transmutation              | 1 Minute       | Touch                 | Instantaneous                 | V, S, M    |
+| [Message](../Cantrips/Message.md)                                   | Transmutation              | 1 Action       | 120 feet              | 1 round                       | V, S, M    |
+| [[Mind Silver]]                                                     | Enchantment                | 1 Action       | 60 feet               | 1 round                       | V          |
+| [Minor Illusion](../Cantrips/Minor%20Illusion.md)                   | Illusion                   | 1 Action       | 30 feet               | 1 minute                      | S, M       |
+| [[Mold Earth]]                                                      | Transmutation              | 1 Action       | 30 feet               | Instantaneous or 1 hour       | S          |
+| [[On/Off (UA)]]                                                     | Transmutation <sup>T</sup> | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
+| [[Poison Spray]]                                                    | Conjuration                | 1 Action       | 10 feet               | Instantaneous                 | V, S       |
+| [Prestidigitation](../Cantrips/Prestidigitation.md)                 | Transmutation              | 1 Action       | 10 feet               | Up to 1 hour                  | V, S       |
+| [[Primal Savagery]]                                                 | Transmutation              | 1 Action       | Self                  | Instantaneous                 | S          |
+| [[Produce Flame]]                                                   | Conjuration                | 1 Action       | Self                  | 10 minutes                    | V, S       |
+| [[Ray of Frost]]                                                    | Evocation                  | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
+| [[Resistance]]                                                      | Abjuration                 | 1 Action       | Touch                 | Concentration up to 1 minute  | V, S, M    |
+| [[Sacred Flame]]                                                    | Evocation                  | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
+| [[Sapping Sting]]                                                   | Necromancy <sup>D</sup>    | 1 Action       | 30 feet               | Instantaneous                 | V, S       |
+| [[Shape Water]]                                                     | Transmutation              | 1 Action       | 30 feet               | Instantaneous or 1 hour       | S          |
+| [[Shillelagh]]                                                      | Transmutation              | 1 Bonus Action | Touch                 | 1 minute                      | V, S, M    |
+| [[Shocking Grasp]]                                                  | Evocation                  | 1 Action       | Touch                 | Instantaneous                 | V, S       |
+| [[Spare the Dying]]                                                 | Necromancy                 | 1 Action       | Touch                 | Instantaneous                 | V, S       |
+| [[Sword Burst]]                                                     | Conjuration                | 1 Action       | Self (5-foot radius)  | Instantaneous                 | V          |
+| [[Thaumaturgy]]                                                     | Transmutation              | 1 Action       | 30 feet               | Up to 1 minute                | V          |
+| [[Thorn Whip]]                                                      | Transmutation              | 1 Action       | 30 feet               | Instantaneous                 | V, S, M    |
+| [Thunderclap](../Cantrips/Thunderclap.md)                           | Evocation                  | 1 Action       | Self (5-foot-radius)  | Instantaneous                 | S          |
+| [[Toll the Dead]]                                                   | Necromancy                 | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
+| [True Strike](../Cantrips/True%20Strike.md)                         | Divination                 | 1 Action       | 30 feet               | Concentration up to 1 round   | S          |
+| [Vicious Mockery](../Cantrips/Vicious%20Mockery.md)                 | Enchantment                | 1 Action       | 60 feet               | Instantaneous                 | V          |
+| [[Virtue (UA)]]                                                     | Abjuration                 | 1 Action       | Touch                 | 1 round                       | V, S       |
+| [[Word of Radiance]]                                                | Evocation                  | 1 Action       | 5 feet                | Instantaneous                 | V, M       |
 # 1st Level
 
 | Spell Name                                                            | School                      | Casting Time          | Range                 | Duration                         | Components |

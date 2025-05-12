@@ -1,3 +1,17 @@
+---
+Spell School: Evocation
+Spell Level: 0
+Spell Casting Time: 1 Action
+Spell Range: 120 feet
+Spell Area Type: 
+Spell Components:
+  - Verbal
+  - Somatic
+  - Material
+Spell Duration:
+  - Concentration (1 Minute)
+Spell Damage Type:
+---
 Source: Player's Handbook  
 Evocation cantrip  
 **Casting Time:** 1 action  
