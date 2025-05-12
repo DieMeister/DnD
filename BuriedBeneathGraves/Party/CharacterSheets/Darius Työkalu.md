@@ -7,19 +7,19 @@
 
 | Name                    | Maximal | Aktuell |
 | ----------------------- | ------- | ------- |
-| Trefferpunkte           | 33      | 33      |
+| Trefferpunkte           | 33      | 0       |
 | Temporäre Trefferpunkte | /       | 0       |
 | Trefferwürfel           | 3w8     | 3w8     |
-| Bardische Inspiration   | 3       | 3       |
+| Bardische Inspiration   | 3       | 0       |
 | Inspiration             | /       | 0       |
-| Grad-1-Zauber           | 4       | 3       |
-| Grad-2-Zauber           | 2       | 2       |
+| Grad-1-Zauber           | 4       | 2       |
+| Grad-2-Zauber           | 2       | 1       |
 
 # Todesrettung
 
 | Erfolge | Fehlschläge |
 | ------- | ----------- |
-| 0       | 0           |
+| 2       | 0           |
 
 # Fähigkeiten
 
@@ -134,3 +134,4 @@
 | Mundharmonika                               | 1         | Instrument           |                |
 | Federfell eines Eulenbäres                  | 2x2 Meter | Gegenstand           |                |
 | Lehmskulptur von Darius                     | 1         | Gegenstand           |                |
+| Artisan tools                               | 1         | Ausrüstung           |                |
