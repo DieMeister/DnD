@@ -3,17 +3,17 @@
 
 | Hintergrund | Volk    | Klasse | Unterklasse         | Rüstungsklasse | Initiative | Bewegungsrate | Level |
 | ----------- | ------- | ------ | ------------------- | -------------- | ---------- | ------------- | ----- |
-| Scharlatan  | Firbolg | Barde  | College of Whispers | 11             | 0          | 30feet        | 3     |
+| Scharlatan  | Firbolg | Barde  | College of Whispers | 11             | 0          | 30feet        | 4     |
 
 | Name                    | Maximal | Aktuell |
 | ----------------------- | ------- | ------- |
-| Trefferpunkte           | 33      | 0       |
+| Trefferpunkte           | 43      | 0       |
 | Temporäre Trefferpunkte | /       | 0       |
 | Trefferwürfel           | 3w8     | 3w8     |
 | Bardische Inspiration   | 3       | 0       |
 | Inspiration             | /       | 0       |
 | Grad-1-Zauber           | 4       | 2       |
-| Grad-2-Zauber           | 2       | 1       |
+| Grad-2-Zauber           | 3       | 1       |
 
 # Todesrettung
 
@@ -29,9 +29,9 @@
 
 | Fähigkeit            | Modifikator/Gesamtwert | Komponenten                                                                       |
 | -------------------- | ---------------------- | --------------------------------------------------------------------------------- |
-| **STÄRKE**           | -1                     | Ability Score (8)                                                                 |
-| Rettung              | 0                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
-| Athletik             | 0                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| **STÄRKE**           | 0                      | Ability Score (8)<br>Ability Score Improvement (+2)                               |
+| Rettung              | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| Athletik             | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
 | **GESCHICKLICHKEIT** | 0                      | Ability Score (10)                                                                |
 | Rettung              | 2                      | Übungsbonus (+2)                                                                  |
 | Akrobatik            | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
@@ -80,19 +80,22 @@
 
 ## Bekannte Zauber
 
-| Name                                                             | Typ     |
-| ---------------------------------------------------------------- | ------- |
-| [Disguise Self](../../../Spells/Level1/Disguise%20Self.md)       | Firboig |
-| [Detect Magic](../../../Spells/Level1/Detect%20Magic.md)         | Firboig |
-| [Message](../../../Spells/Cantrips/Message.md)                   | Cantrip |
-| [Vicious Mockery](../../../Spells/Cantrips/Vicious%20Mockery.md) | Cantrip |
-| Vertraute finden                                                 | Level 1 |
-| [Cure Wounds](../../../Spells/Level1/Cure%20Wounds.md)           | Level 1 |
-| [Identify](../../../Spells/Level1/Identify.md)                   | Level 1 |
-| [Unseen Servant](../../../Spells/Level1/Unseen%20Servant.md)     | Level 1 |
-| [Feather Fall](../../../Spells/Level1/Feather%20Fall.md)         | Level 1 |
-| [Gift of Gab](../../../Spells/Level2/Gift%20of%20Gab.md)         | Level 2 |
-| [Aid](../../../Spells/Level2/Aid.md)                             | Level 2 |
+| Name                                                               | Typ     |
+| ------------------------------------------------------------------ | ------- |
+| [Disguise Self](../../../Spells/Level1/Disguise%20Self.md)         | Firboig |
+| [Detect Magic](../../../Spells/Level1/Detect%20Magic.md)           | Firboig |
+| [Message](../../../Spells/Cantrips/Message.md)                     | Cantrip |
+| [Vicious Mockery](../../../Spells/Cantrips/Vicious%20Mockery.md)   | Cantrip |
+| [Dancing Lights](../../../Spells/Cantrips/Dancing%20Lights.md)     | Cantrip |
+| Vertraute finden                                                   | Level 1 |
+| [Cure Wounds](../../../Spells/Level1/Cure%20Wounds.md)             | Level 1 |
+| [Identify](../../../Spells/Level1/Identify.md)                     | Level 1 |
+| [Unseen Servant](../../../Spells/Level1/Unseen%20Servant.md)       | Level 1 |
+| [Feather Fall](../../../Spells/Level1/Feather%20Fall.md)           | Level 1 |
+| [Gift of Gab](../../../Spells/Level2/Gift%20of%20Gab.md)           | Level 2 |
+| [Aid](../../../Spells/Level2/Aid.md)                               | Level 2 |
+| [Blindness/Deafness](../../../Spells/Level2/Blindness-Deafness.md) | Level 2 |
+
 # Besitz
 | Name                                        | Anzahl    | Typ                  | Wert pro Stück |
 | ------------------------------------------- | --------- | -------------------- | -------------- |
