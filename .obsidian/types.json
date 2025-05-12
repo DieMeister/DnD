@@ -6,6 +6,9 @@
     "Authors": "multitext",
     "Sources": "multitext",
     "anwesend": "multitext",
-    "references": "multitext"
+    "references": "multitext",
+    "Spell Components": "multitext",
+    "Spell Level": "number",
+    "Spell Duration": "multitext"
   }
 }

@@ -253,7 +253,7 @@
     },
     {
       "path": "BuriedBeneathGraves/Party/CharacterSheets",
-      "color": "0Fx_gglOWu7rHpUAj3DXZ"
+      "color": "qNLaTwuux-rzC8Fb2kTVz"
     },
     {
       "path": "BuriedBeneathGraves/Party/Darius Työkalu.md",
@@ -278,6 +278,10 @@
     {
       "path": "BuriedBeneathGraves/Sessions/005 Gebrochen und Geborgen.md",
       "color": "SAtyrU0RYQu_Wzs9F0ohI"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/CharacterSheets/Darius Työkalu.md",
+      "color": "qNLaTwuux-rzC8Fb2kTVz"
     }
   ]
 }
