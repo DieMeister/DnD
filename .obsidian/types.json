@@ -9,6 +9,7 @@
     "references": "multitext",
     "Spell Components": "multitext",
     "Spell Level": "number",
-    "Spell Duration": "multitext"
+    "Spell Duration": "multitext",
+    "Spell Source": "multitext"
   }
 }

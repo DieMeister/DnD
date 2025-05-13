@@ -9,14 +9,11 @@ Spell Components:
   - Somatic
 Spell Duration:
   - Instantaneous
-Spell Damage Type:
+Spell Damage Type: 
+Spell Source:
+  - Player's Handbook
 ---
-Source: Player's Handbook  
-Transmutation cantrip  
-**Casting Time:** 1 action  
-**Range:** 30 feet  
-**Components:** V, S  
-**Duration:** Instantaneous  
+
 Whispering to the spirits of nature, you create one of the following effects within range:
 - You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. the effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
 - You instantly make a flower blossom, a seed pod open, or leaf bud bloom.

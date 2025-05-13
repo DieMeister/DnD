@@ -7,7 +7,7 @@
 
 | Name                    | Maximal | Aktuell |
 | ----------------------- | ------- | ------- |
-| Trefferpunkte           | 43      | 0       |
+| Trefferpunkte           | 47      | 0       |
 | Temporäre Trefferpunkte | /       | 0       |
 | Trefferwürfel           | 3w8     | 3w8     |
 | Bardische Inspiration   | 3       | 0       |
@@ -86,7 +86,7 @@
 | [Detect Magic](../../../Spells/Level1/Detect%20Magic.md)           | Firboig |
 | [Message](../../../Spells/Cantrips/Message.md)                     | Cantrip |
 | [Vicious Mockery](../../../Spells/Cantrips/Vicious%20Mockery.md)   | Cantrip |
-| [Dancing Lights](../../../Spells/Cantrips/Dancing%20Lights.md)     | Cantrip |
+| [Light](../../../Spells/Cantrips/Light.md)                         | Cantrip |
 | Vertraute finden                                                   | Level 1 |
 | [Cure Wounds](../../../Spells/Level1/Cure%20Wounds.md)             | Level 1 |
 | [Identify](../../../Spells/Level1/Identify.md)                     | Level 1 |

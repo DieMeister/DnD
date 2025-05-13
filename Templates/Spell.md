@@ -6,14 +6,11 @@ Spell Range:
 Spell Area Type: 
 Spell Components: 
 Spell Duration: 
-Spell Damage Type:
+Spell Damage Type: 
+Spell Source:
 ---
-Source: 
 
-**Casting Time:** 
-**Range:** 
-**Components:** 
-**Duration:** 
+**Material Component:** 
 
 **At Higher Levels.** 
 **Spell Lists.** 

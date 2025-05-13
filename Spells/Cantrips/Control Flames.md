@@ -4,18 +4,15 @@ Spell Casting Time: 1 Action
 Spell Range: 60 feet
 Spell Duration:
   - Instantaneous
-  - 1 hour
+  - 1 Hour
 Spell Components:
   - Somatic
 Spell Level: 0
 Spell Area Type: 5ft Cube
+Spell Source:
+  - Xanathar's Guide to Everything
 ---
-Source: Xanathar's Guide to Everything  
-Transmutation cantrip  
-**Casting Time:** 1 action  
-**Range:** 60 feet  
-**Components:** S  
-**Duration:** Instantaneous or 1 hour  
+
 You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
 - You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
 - You instantaneously extinguish the flames within the cube.

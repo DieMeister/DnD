@@ -35,7 +35,7 @@
 	- [ ] summarize
 	- [ ] add links to summary
 - [ ] Session 7
-	- [ ] cut (2:40:44 / 3:36:50 - 74.13%)
+	- [ ] cut (2:40:44 / 3:36:50 - 74.13%) 
 	- [ ] get Information
 	- [ ] summarize
 	- [ ] add links to summary
@@ -66,7 +66,7 @@
 - [ ] add Backgrounds
 - [ ] add Classes
 - [ ] add Spells
-	- [ ] Cantrips
+	- [x] Cantrips
 	- [ ] Level 1
 	- [ ] Level 2
 	- [ ] Level 3
@@ -92,8 +92,7 @@
 ## Infos
 - [ ] Infos aus GoogleDoc herausarbeiten
 - [ ] Bookmarks übertragen
-## Files & Folders
-- [ ] add Templates/ to git
+
 ## Plugins
 ### Timeline
 - [ ] Inline Events strukturiert sammeln
