@@ -91,6 +91,7 @@
 # Obsidian
 ## Infos
 - [ ] Infos aus GoogleDoc herausarbeiten
+- [ ] Bookmarks übertragen
 ## Files & Folders
 - [ ] add Templates/ to git
 ## Plugins
@@ -117,21 +118,7 @@
 - [ ] update License
 - [ ] rewrite program
 # Anarchie
-## Quellen verstehen
-- [ ] [Reddit - Anarchy101](https://www.reddit.com/r/Anarchy101/)
-- [ ] [Ruth Kinna - Anarchism: a Beginner's Guide](../../PoliticalIdeologies/Anarchy/Anarchism%20-%20A%20Beginners%20Guide%20-%20Kinna,%20Ruth.pdf)
-- [ ] [Peter Gelderloos - Anarchy Works](../../PoliticalIdeologies/Anarchy/peter-gelderloos-anarchy-works.pdf)
-- [ ] [Colin Ward - Anarchy in Action](../../PoliticalIdeologies/Anarchy/Ward_-_Anarchy_in_Action_3.pdf)
-- [ ] [Errico Malatesta - Anarchy](../../PoliticalIdeologies/Anarchy/errico-malatesta-anarchy.pdf)
-- [ ] [Anarcho, et al. - an Anarchist FAQ](https://www.anarchistfaq.org/afaq/index.html)
-- [x] [YouTube - MrWissen2go - Kann Anarchie funktionieren?](https://www.youtube.com/watch?v=Jt4RJJ3-PqQ)
-- [x] [Spotify - Philosophie to go - Emma Goldman-Anarchie.](https://open.spotify.com/episode/5oMYIDKdMvTYLwa368Gzco?si=0ea827cc54c2441b)
-- [ ] Locale
-	- [ ] [ANARCHY](../../PoliticalIdeologies/Anarchy/Locale/ANARCHY.pdf)
-	- [ ] [Anarchy and Anarchism - Towards a Theory of Complex International Systems](../../PoliticalIdeologies/Anarchy/Locale/Anarchy_and_Anarchism_Towards_a_Theory_o.pdf)
-	- [ ] [Anarchy is What Translators Make of It? Translating Theory and Translation Theories](../../PoliticalIdeologies/Anarchy/Locale/Anarchy_is_What_Translators_Make_of_It_T.pdf)
-	- [ ] [Authority & Anarchy An Existentialist deconstruction of Capitalism, the state and historical agricultural cooperative theory](../../PoliticalIdeologies/Anarchy/Locale/Authority_and_Anarchy_An_Existentialist.pdf)
-## Fragen
+
 - [ ] wie schützt sich das System vor Feinden des Systems
 - [ ] Was passiert, wenn es zu keinem Kompromiss kommt
 - [ ] ab wann ist man mündiger Teil der Gesellschaft

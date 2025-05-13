@@ -97,7 +97,7 @@ def draw_multiple_inputs(in_array, colors, labels, legend):
     shape_kwargs = []
     legend_loc = "upper left"
     
-    #draws multiple inputs on a single base
+    # draws multiple inputs on a single base
     if isinstance(colors, list) and len(colors) == 0:  # TODO understand why it should be a string
         colors = [point_color]*in_array.shape[0]
     elif isinstance(colors,str):
@@ -127,7 +127,7 @@ def load_attribute(fname):
     return(data)
 
 
-def draw_spell(level,rang,area,dtype,school,title, savename, legend, breakdown):
+def draw_spell(level, rang, area, dtype, school, title, savename, legend, breakdown):
     colors = []
 
     attributes = load_json_data("attributes.json")
