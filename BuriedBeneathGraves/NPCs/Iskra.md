@@ -1,0 +1,1 @@
+Iskras Aufenthaltsort ist nicht bekannt, es ist aber unwahrscheinlich, dass er noch in [Grashk](../Locations/Grashk.md) ist nachdem er Falschinformationen über die Geschehnisse in der [Kuo-Toa Höhle](Kuo-Toa%20Höhle) verbreitet hat. 

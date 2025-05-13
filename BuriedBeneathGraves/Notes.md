@@ -1,4 +1,13 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
+## Iskras Version der Geschehnisse
+- Iskra meinte sie seien tot
+- sie hätten sich geopfert damit Iskra den Fluch brechen kann
+	- Iskra hätte Schutz gebraucht um Ritual durchzuführen
+- Iskra hat roten Kristall gezeigt, in dem Fluch sein soll
+	- Fluch ist nicht gebrochen sondern nur gefangen
+# Vereinigungen
+## Trupp Rabe
+- Kundschaftertrupp von 6
 # Items
 ## Amulette
 - Axtkopf ist eins
@@ -62,111 +71,11 @@
 - Mekangesellschaft
 # NPCs
 
-## 5
-- Warforged
-- Resource Collector
-- Teil von Camp Recep
-	- hat die founding members zusammengeführt
-	- Grundidee eines unabhängigen camps
-- war in Ruzen stationiert
-	- teil von Aufräumtrupp nach der Wiedereinnahme
-## 6
-- Warforged
-- Envoy
-- Teil von Camp Recep
-- verschwunden
-	- vielleicht tot
-- camp als ort zum niederlassen rausgesucht
-	- kannte ort von scouting mission
-		- gegnerische stellungen im osten auskundschaften
-		- trupp hieß Rabe
-## 7
-- Warforged
-- Scout
-- Teil von Camp Recep
-- teil von trupp rabe
-- startet warforged studies und wissenschaften generell
-	- hat mit dem auseinanderbauen von waffen begonnen
-## 32
-- Warforged
-- envoy
-- "Schlüssel"
-- teil von Camp Recep
-- überzeugter (hard core) anarchist
-- politisch interessiert
-- gegen Mekan
-	- weitere Form der Selbstunterdrückung
-	- "no gods no masters"
-- begeistert von encryption
-	- entwickelt neue verschlüsselungen
-	- führte entschlüsselte nachrichten ein
-- bringt warforged lesen & schreiben bei
-## 79
-- Warforged
-- Siege
-- Teil von Camp Recep
-- gute Verteidigungsplanung
-- mit 80 gekommen
-	- sind befreundet
-## 80
-- Warforged
-- Soldat
-- Teil von Camp Recep
-- mit 79 gekommen
-	- sind befreundet
-- hat nach dem Krieg schreiben gelernt
-- extrem organisiert
-- zuständig für einteilung der warforged in "schichten"
-- zuständig für zeitliche verteilung der auseinandersetzungen damit alle teilhaben können
-
-## 177
-- Warforged
-- Soldat
-- "Bursche"
-- Teil von Camp Recep
-- nicht komplett überzeugter anarchist
-- nicht reparierbarer schaden
-	- angewiesen auf war forged studies
-	- kann nicht schießen
-- kein fokus auf politik
-- weapon enthusiast
-- hilft bei organisation von Schießwettbewerben
-- post traumatische Belastungsstörung
-- Kudora und Mekan fan
-- oft in Lehmkursen
-## 212
-- Warforged
-- report
-- "Stützig"
-- Teil von Camp Recep
-- autoritär
-	- will selbst Führung des camps übernehmen
-## Grygur Sorthan
-- von Darius ausgedacht
-## Iskra
-- Aufenthaltsort unklar
-	- nicht mehr in Grashk
-### seine Geschichte
-- Iskra meinte sie seien tot
-- sie hätten sich geopfert damit Iskra den Fluch brechen kann
-	- Iskra hätte Schutz gebraucht um Ritual durchzuführen
-- Iskra hat roten Kristall gezeigt, in dem Fluch sein soll
-	- Fluch ist nicht gebrochen sondern nur gefangen
-## Jadzia
-- tot
-- Leiche nicht auffindbar
-- hat immer vor Terim gewarnt
-## Kazkrah
-- tot
-## Kuo-Toa Priester
-- auf Podest in Höhle gestorben
 ## Nuriel
 - Nuriel hat Schwierigkeiten beim Sprechen
 - Zusammenhang zu Axtkopf und Zeichen in Kirche?
 - Sieht aus, als sie Opfer des Leichenmarsch
-## Prashtir
-- Prashtir sitzt auf dem Brunnen vor der Kirche
-	- schaut ins Lehre
+
 ## Terim
 - Terim ist hoch verschuldet
 - Darius überzeugt Terim als Flutbeobachter/Bürgermeister zurückzutreten
@@ -175,13 +84,9 @@
 	- Terim sehr eingeschüchtert von Kem
 	- Terim soll möglichst bald seine Fehlinformationen revidieren und zurücktreten
 - Terim bei rede über Flut extrem unsicher
-## Zuza
-- nicht auffindbar
+
 # Party
 ## Darius 
-- sieht Warforged als Lebewesen
-- hat Grygur Sorthan ausgedacht
-	- ergänzt Informationen je nachdem was die Situation gerade erfordert
 - Eigentümer des Siegelrings
 - Briefverkehr zu Terim 
 # Processes
@@ -224,10 +129,6 @@
 - *Addie*
 - *Zitrone*
 # Session 5
-- beginnt am Wasserplatz
-- Überlegung wo man schlafen kann
-- Enya erfährt was passiert ist
-	- Zuza und Jadzia sind  tot bzw nicht auffindbar
 ## Arrek
 - Arrek kommt vorbei und bietet ihnen an, in seinem Lager zu schlafen
 	- Arrek ist 1,20 - 1,30m

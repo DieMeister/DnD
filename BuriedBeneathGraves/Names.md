@@ -6,7 +6,7 @@
 - [Changeling](./Creatures/Changeling.md)
 - [Darius Työkalu](./Party/Darius%20Työkalu.md)
 - [Enya](./Party/Enya.md)
-- [Esther](./Believes/Esther.md)
+- [Esther](Assemblies/Believes/Esther.md)
 - [Fabel](./NPCs/Fabel.md)
 - Fryderyk (Ryk)
 - [Grashk](./Locations/Grashk.md)
@@ -23,16 +23,18 @@
 - [Kinstein](./Items/Kinstein.md)
 - Klaasa
 - Koreth
+- Kudora
 - Limek
 - Lorela Työkalu
 - Meavith
 - Meceth
+- Mekan
 - Mekayttz
 - Mestav
 - Moreth
 - Nuriel
 - Prashtir
-- [Siath](./Believes/Siath.md)
+- [Siath](Assemblies/Believes/Siath.md)
 - [Siiri Työkalu](./NPCs/Siiri%20Työkalu.md)
 - Spur
 - Stav

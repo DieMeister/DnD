@@ -1,0 +1,1 @@
+Der Kuo-Toa Priester ist in der [Kuo-Toa Höhle](Kuo-Toa%20Höhle) gestorben.

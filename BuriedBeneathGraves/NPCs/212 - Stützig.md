@@ -1,0 +1,1 @@
+212 ist ein [Report](../Creatures/Warforged.md#Report). Es möchte die Führung von [Camp Recep](../Locations/Camp%20Recep.md) übernehmen und autoritär leiten.

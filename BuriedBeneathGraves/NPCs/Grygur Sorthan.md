@@ -1,0 +1,1 @@
+Grygur Sorthan ist eine von [Darius](../Party/Darius%20Työkalu.md) ausgedachte Person. Je nach Situation hat er eine andere Stellung.
