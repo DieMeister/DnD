@@ -8,70 +8,84 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Believes",
+      "query": "path:\"Spells/Spell Lists\"  ",
       "color": {
         "a": 1,
-        "rgb": 65535
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:Creatures",
+      "query": "path:Spells/Level1  ",
       "color": {
         "a": 1,
-        "rgb": 6941791
+        "rgb": 16740897
       }
     },
     {
-      "query": "path:Events",
+      "query": "path:Spells/Level2  ",
       "color": {
         "a": 1,
-        "rgb": 16767232
+        "rgb": 15785226
       }
     },
     {
-      "query": "path:Items",
+      "query": "path:Spells/Level3  ",
       "color": {
         "a": 1,
-        "rgb": 2117632
+        "rgb": 5435402
       }
     },
     {
-      "query": "path:Locations",
+      "query": "path:Spells/Level4  ",
       "color": {
         "a": 1,
-        "rgb": 16752640
+        "rgb": 716894
       }
     },
     {
-      "query": "path:NPCs",
+      "query": "path:Spells/Level5  ",
       "color": {
         "a": 1,
-        "rgb": 255
+        "rgb": 717009
       }
     },
     {
-      "query": "path:Party",
+      "query": "path:Spells/Level6  ",
       "color": {
         "a": 1,
-        "rgb": 8388863
+        "rgb": 693488
       }
     },
     {
-      "query": "path:Ranks",
+      "query": "path:Spells/Level7  ",
       "color": {
         "a": 1,
-        "rgb": 28159
+        "rgb": 659952
       }
     },
     {
-      "query": "path:Sessions",
+      "query": "path:Spells/Level8  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 8915696
+      }
+    },
+    {
+      "query": "path:Spells/Level9  ",
+      "color": {
+        "a": 1,
+        "rgb": 15207152
+      }
+    },
+    {
+      "query": "path:Spells/Cantrips  ",
+      "color": {
+        "a": 1,
+        "rgb": 15731298
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
@@ -81,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.20569420187712395,
+  "scale": 0.22658483117746506,
   "close": true
 }
