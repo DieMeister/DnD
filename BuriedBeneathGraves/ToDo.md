@@ -35,8 +35,13 @@
 	- [ ] summarize
 	- [ ] add links to summary
 - [ ] Session 7
-	- [ ] cut
+	- [ ] cut (2:40:44 / 3:36:50 - 74.13%)
 	- [ ] get Information
+	- [ ] summarize
+	- [ ] add links to summary
+- [ ] Session 8
+	- [ ] cut
+	- [ ] get information
 	- [ ] summarize
 	- [ ] add links to summary
 # DnD

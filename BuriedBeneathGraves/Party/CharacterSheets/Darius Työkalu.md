@@ -29,7 +29,7 @@
 
 | Fähigkeit            | Modifikator/Gesamtwert | Komponenten                                                                       |
 | -------------------- | ---------------------- | --------------------------------------------------------------------------------- |
-| **STÄRKE**           | 0                      | Ability Score (8)<br>Ability Score Improvement (+2)                               |
+| **STÄRKE**           | -1                     | Ability Score (8)                                                                 |
 | Rettung              | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
 | Athletik             | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
 | **GESCHICKLICHKEIT** | 0                      | Ability Score (10)                                                                |
@@ -37,8 +37,8 @@
 | Akrobatik            | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
 | Fingerfertigkeit     | 2                      | Übungsbonus (+2)                                                                  |
 | Heimlichleit         | 1                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
-| **KONSTITUTION**     | 3                      | Ability Score (16)                                                                |
-| Rettung              | 4                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
+| **KONSTITUTION**     | 4                      | Ability Score (16)<br>Ability Score Improvement (+2)                              |
+| Rettung              | 5                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
 | **INTELLIGENZ**      | 1                      | Ability Score (13)                                                                |
 | Rettung              | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
 | Arkane Kunde         | 2                      | [Jack of All Trades](../../../Classes/Bard/Bard.md#Jack%20of%20All%20Trades) (+1) |
@@ -100,7 +100,7 @@
 | Name                                        | Anzahl    | Typ                  | Wert pro Stück |
 | ------------------------------------------- | --------- | -------------------- | -------------- |
 | Goldmünzen                                  | 41        | Währung              | 1GM            |
-| [Dolch](../../../Items/Dolch.md)               | 1         | Kampf                |                |
+| [Dolch](../../../Items/Dolch.md)            | 1         | Kampf                |                |
 | [Lederrüstung](../../Items/Lederrüstung.md) | 1         | Ausrüstung           |                |
 | Verkleidungsausrüstung                      | 1         | Ausrüstung           |                |
 | Truhe                                       | 1         | Diplomatenausrüstung |                |
@@ -119,7 +119,6 @@
 | Citrin                                      | 1         | Edelstein            | 50GM           |
 | Zircon                                      | 1         | Edelstein            | 50GM           |
 | unbekannter Trank                           | 1         | Trank                |                |
-| Seil                                        | 1         | Ausrüstung           |                |
 | 5 Pfund Silberbarren                        | 1         | Metall               |                |
 | Kuo-Toa-Würfel                              | 1         | Gegenstand           |                |
 | Kuo-Toa-Stab                                | 1         | Gegenstand           |                |
