@@ -10,6 +10,7 @@
     "Spell Components": "multitext",
     "Spell Level": "number",
     "Spell Duration": "multitext",
-    "Spell Source": "multitext"
+    "Spell Source": "multitext",
+    "Spell Ritual": "checkbox"
   }
 }

@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: Cold
 Spell Source:
   - Xanathar's Guide to Everything
+Spell Ritual: false
 ---
 
 You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it ahs disadvantage on the next weapon attack roll it makes before the end of its next turn.  

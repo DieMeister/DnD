@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: Necrotic
 Spell Source:
   - Xanathar's Guide to Everything
+Spell Ritual: false
 ---
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. if the target is missing any of its hit points, it instead takes 1d12 necrotic damage.  

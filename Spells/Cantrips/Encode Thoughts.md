@@ -11,6 +11,7 @@ Spell Duration:
 Spell Damage Type: 
 Spell Source:
   - Guildmaser's Guide to Ravnica
+Spell Ritual: false
 ---
 
 You pull a memory, an idea, or a message from your mind and transform it into a tangible string of glowing energy called a thought strand, which persists for the duration or until you cast the spell again. the thought strand appears in an unoccupied space within 5 feet of you as a tiny, weightless, semisolid object that can be held and carried like a ribbon. it is otherwise stationary.  

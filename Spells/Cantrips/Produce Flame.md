@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: 
 Spell Source:
   - Player's Handbook
+Spell Ritual: false
 ---
 
 A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. the flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.  

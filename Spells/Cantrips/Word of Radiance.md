@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: Radiant
 Spell Source:
   - Xanathar's Guide to Everything
+Spell Ritual: false
 ---
 
 **Material Component:** a holy symbol  

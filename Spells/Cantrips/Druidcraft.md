@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: 
 Spell Source:
   - Player's Handbook
+Spell Ritual: false
 ---
 
 Whispering to the spirits of nature, you create one of the following effects within range:

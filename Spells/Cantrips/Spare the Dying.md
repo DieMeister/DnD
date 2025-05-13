@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: 
 Spell Source:
   - Player's Handbook
+Spell Ritual: false
 ---
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructions.  

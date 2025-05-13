@@ -13,6 +13,7 @@ Spell Duration:
 Spell Damage Type: 
 Spell Source:
   - Player's Handbook
+Spell Ritual: false
 ---
 
 **Material Component:** mistletoe, a shamrock leaf, and a club or quarterstaff  

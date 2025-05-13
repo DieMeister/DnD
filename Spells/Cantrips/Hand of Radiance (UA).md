@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: Radiant
 Spell Source:
   - Unearthed Arcana 36 - Starter Spells
+Spell Ritual: false
 ---
 
 You raise your hand, and burning radiance erupts from it. Each creature of your choice that you can see within 5 feet of you must succeed on a Constitution saving throw or take 1d6 radiant damage.  

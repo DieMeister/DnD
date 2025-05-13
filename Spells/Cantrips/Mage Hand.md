@@ -11,6 +11,8 @@ Spell Duration:
   - 1 Minute
 Spell Damage Type: 
 Spell Source:
+  - Player's Handbook
+Spell Ritual: false
 ---
 
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.  

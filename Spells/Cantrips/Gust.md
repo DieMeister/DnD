@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: 
 Spell Source:
   - Xanathar's Guide to Everything
+Spell Ritual: false
 ---
 
 You seize the air and compel it to one of the following effects at a point you can see within range:

@@ -11,6 +11,7 @@ Spell Duration:
 Spell Damage Type: Force
 Spell Source:
   - Tasha's Cauldron of Everything
+Spell Ritual: false
 ---
 
 You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity saving throw or take 1d6 force damage.  

@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: Poison
 Spell Source:
   - Player's Handbook
+Spell Ritual: false
 ---
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.  

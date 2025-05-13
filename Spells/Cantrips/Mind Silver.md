@@ -11,6 +11,7 @@ Spell Duration:
 Spell Damage Type: Psychic
 Spell Source:
   - Tasha's Cauldron of Everything
+Spell Ritual: false
 ---
 
 You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. the target must succeed on an Intelligence saving throw or take 1d6 psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.  

@@ -13,6 +13,7 @@ Spell Duration:
 Spell Damage Type: 
 Spell Source:
   - Player's Handbook
+Spell Ritual: false
 ---
 **Material Component:** a short piece of copper wire  
 You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.  

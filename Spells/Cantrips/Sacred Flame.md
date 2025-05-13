@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: Radiant
 Spell Source:
   - Player's Handbook
+Spell Ritual: false
 ---
 
 Flame-like radiance descends on a creature that you can see within range. the target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.  

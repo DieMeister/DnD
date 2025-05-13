@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: Thunder
 Spell Source:
   - Tasha's Cauldron of Everything
+Spell Ritual: false
 ---
 **Material Component:** a melee weapon worth at least 1 sp  
 You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack's normal effects and then becomes sheathed in booming energy until the start of your next turn. If the target willingly moves 5 feet or more before then, the target takes 1d8 thunder damage, and the spell ends.  

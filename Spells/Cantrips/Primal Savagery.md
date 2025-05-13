@@ -10,6 +10,7 @@ Spell Duration:
   - Instantaneous
 Spell Damage Type: 
 Spell Source: Xanathar's Guide to Everything
+Spell Ritual: false
 ---
 
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 acid damage. After you make the attack, your teeth or fingernails return to normal.  

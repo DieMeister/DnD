@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: Necrotic
 Spell Source:
   - Explorer's Guide to Wildemount
+Spell Ritual: false
 ---
 
 You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take 1d4 necrotic damage and fall prone.  

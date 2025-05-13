@@ -12,6 +12,7 @@ Spell Duration:
 Spell Damage Type: 
 Spell Source:
   - Xanathar's Guide to Everything
+Spell Ritual: false
 ---
 
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:

@@ -11,6 +11,7 @@ Spell Level: 0
 Spell Area Type: 5ft Cube
 Spell Source:
   - Xanathar's Guide to Everything
+Spell Ritual: false
 ---
 
 You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
