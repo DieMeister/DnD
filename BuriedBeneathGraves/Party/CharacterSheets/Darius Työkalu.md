@@ -87,7 +87,7 @@
 | [Message](../../../Spells/Cantrips/Message.md)                     | Cantrip |
 | [Vicious Mockery](../../../Spells/Cantrips/Vicious%20Mockery.md)   | Cantrip |
 | [Light](../../../Spells/Cantrips/Light.md)                         | Cantrip |
-| Vertraute finden                                                   | Level 1 |
+| [Find Familiar](../../../Spells/Level1/Find%20Familiar.md)         | Level 1 |
 | [Cure Wounds](../../../Spells/Level1/Cure%20Wounds.md)             | Level 1 |
 | [Identify](../../../Spells/Level1/Identify.md)                     | Level 1 |
 | [Unseen Servant](../../../Spells/Level1/Unseen%20Servant.md)       | Level 1 |

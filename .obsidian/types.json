@@ -11,6 +11,7 @@
     "Spell Level": "number",
     "Spell Duration": "multitext",
     "Spell Source": "multitext",
-    "Spell Ritual": "checkbox"
+    "Spell Ritual": "checkbox",
+    "Spell Damage Type": "multitext"
   }
 }

@@ -67,7 +67,7 @@
 - [ ] add Classes
 - [ ] add Spells
 	- [x] Cantrips
-	- [ ] Level 1
+	- [ ] Level 1 (45/90 - 50% )
 	- [ ] Level 2
 	- [ ] Level 3
 	- [ ] Level 4
