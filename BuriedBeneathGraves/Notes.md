@@ -5,9 +5,7 @@
 	- Iskra hätte Schutz gebraucht um Ritual durchzuführen
 - Iskra hat roten Kristall gezeigt, in dem Fluch sein soll
 	- Fluch ist nicht gebrochen sondern nur gefangen
-# Vereinigungen
-## Trupp Rabe
-- Kundschaftertrupp von 6
+
 # Items
 ## Amulette
 - Axtkopf ist eins
@@ -68,7 +66,6 @@
 ## Kudora
 - einziger ort an dem die dynastie interesse hat
 - Rätediktatur
-- Mekangesellschaft
 # NPCs
 
 ## Nuriel

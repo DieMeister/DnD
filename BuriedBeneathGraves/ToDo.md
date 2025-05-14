@@ -95,7 +95,7 @@
 
 ## Plugins
 ### Timeline
-- [ ] Inline Events strukturiert sammeln
+- [x] Inline Events strukturiert sammeln
 - [ ] Ereignisse herausarbeiten
 ### Graph
 - [ ] redo colors

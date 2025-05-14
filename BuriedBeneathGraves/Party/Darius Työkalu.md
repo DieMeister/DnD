@@ -29,105 +29,19 @@ Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [Mu
 - [Zauber](Darius%20Työkalu.md#Zauber)
 # Backstory
 ## Kindheit und Jugend
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Geburt Darius
-tl-event-start: 003-04-12
-tl-timelines: [all, Darius]
-tl-event-picture: none
-tl-event-body: Darius wird geboren.
-%% -->
 
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Darius in Verekir
-tl-event-start: 003-04-12
-tl-event-end: 026-01-08
-tl-timelines: [all, Darius]
-tl-event-picture: none
-tl-event-body: Darius verbringt seine Kindheit und Jugend in Verekir
-%% --->
 Darius wird am 12.04.003nA in [Verekir](../Locations/Verekir.md) geboren. Trotz der laufenden  [[Expansion]] merkt Darius nur mittelbar, dass Krieg herrscht, da [Verekir](../Locations/Verekir.md) sich direkt unterwarf, sofern das Leben in der Stadt wie gehabt weitergehen kann.  
 Seine [Mutter](../NPCs/Siiri%20Työkalu.md) stirbt als Darius erst 4 Jahre alt ist.  
 Von da an werden er und seine 3 Jahre ältere Schwester [[Lorela Työkalu]] nur von ihrem [Vater](../NPCs/Vater%20Työkalu.md) aufgezogen, haben aber eine ansonsten normale Kindheit.  
 Als Teenager beginnt Darius sich zunehmend politisch zu interessieren und engagieren, was in [Verekir](../Locations/Verekir.md) aber nur auf wenig Unterstützung trifft. Besonders sein [Vater](../NPCs/Vater%20Työkalu.md) sieht der Entwicklung seines Sohnes skeptisch und es kommt häufiger zu Auseinandersetzungen zwischen beiden. 
 Mit 22 verlässt Darius [Verekir](../Locations/Verekir.md) um sich ganz dem Aktivismus widmen zu können.
 ## politische Reise
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Darius' Reise
-tl-event-start: 026-01-08
-tl-event-end: 999-99-99
-tl-timelines: [all, Darius]
-tl-event-picture: none
-tl-event-body: Darius reist herum, um andere von seiner Vorstellung einer Gesellschaft nach dem Krieg zu verbreiten.
-%% --->
 
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Darius' Reise nach Karaxan
-tl-event-start: 026-01-08
-tl-event-end: 026-01-42
-tl-timelines: [all, Darius]
-tl-event-picture: none
-%% --->
-Am 08. Mekayttz 026nA verlässt Darius [Verekir](../Locations/Verekir.md) und macht sich auf den Weg nach [[Karaxan]], wo er etwa 6 Wochen später ankommt.
-<!-- %%tl-event-body-end%% -->
-
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Darius in Karaxan
-tl-event-start: 026-01-42
-tl-event-end: 026-02-33
-tl-timelines: [all, Darius]
-tl-event-picture: none
-tl-event-body:
-%% --->
-TODO Was hat Darius in Karaxan gemacht
-<!-- %%tl-event-body-end%% -->
-
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Darius' Reise nach Camp Recep
-tl-event-start: 026-02-33
-tl-event-end: 026-03-07
-tl-timelines: [all, Darius]
-tl-event-picture: none
-tl-event-body: Auf seinem Weg nach Grashk entdeckt Darius Camp Recep, weil er eine Abkürzung nehmen wollte. 
-%% --->
-Eigentlich wollte Darius nach seinem Aufenthalt in [Karaxan](../Locations/Karaxan.md) weiter nach [Grashk](../Location/Grashk.md). Um schneller zu folgt er nicht der Straße nach Westen, sondern kürz direkt nach Süd-Westen ab. Dabei trifft er am 07.03.026nA auf [Camp Recep](../Locations/Camp%20Recep), wo er erstmal bleibt und seine Reise nach [Grashk](../Locations/Grashk.md) auf unbestimmte Zeit verschiebt.
-
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Darius in Camp Recep
-tl-event-start: 026-03-07
-tl-event-end: 026-05-00
-tl-timelines: [all, Darius]
-tl-event-picture: none
-tl-event-body:
-%% --->
-Während seiner Zeit in [Camp Recep](../Locations/Camp%20Recep.md) lernt Darius viel über [Warforged](../Creatures/Warforged.md) und [[Anarchie]]. Mit den meisten [Warforged](../Creatures/Warforged.md) versteht er sich gut und es entstehen viele neue Freundschaften.
-
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Darius' zweiter Aufenthalt in Camp Recep
-tl-event-start: 027-02-00
-tl-event-end: 027-08-00
-tl-timelines: [all, Darius]
-tl-event-picture: none
-tl-event-body: 
-%% --->
-
-<!--- %%tl-inline-event
-tl-render: true
-tl-event-title: Darius bekommt Nummer in Camp Recep
-tl-event-start: 027-06-00
-tl-event-end: none
-tl-timelines: [all, Darius, Camp Recep]
-tl-event-picture: none
-%% --->
+Am 08. Mekayttz 026nA verlässt Darius [Verekir](../Locations/Verekir.md) und macht sich auf den Weg nach [[Karaxan]], wo er etwa 6 Wochen später ankommt. TODO Was hat Darius in Karaxan gemacht  
+Eigentlich wollte Darius nach seinem Aufenthalt in [Karaxan](../Locations/Karaxan.md) weiter nach [Grashk](../Location/Grashk.md). Um schneller zu folgt er nicht der Straße nach Westen, sondern kürz direkt nach Süd-Westen ab. Dabei trifft er am 07.03.026nA auf [Camp Recep](../Locations/Camp%20Recep), wo er erstmal bleibt und seine Reise nach [Grashk](../Locations/Grashk.md) auf unbestimmte Zeit verschiebt.  
+Während seiner Zeit in [Camp Recep](../Locations/Camp%20Recep.md) lernt Darius viel über [Warforged](../Creatures/Warforged.md) und [[Anarchie]]. Mit den meisten [Warforged](../Creatures/Warforged.md) versteht er sich gut und es entstehen viele neue Freundschaften.  
 Auch wenn Darius nicht für immer im Camp bleiben möchte, wird er trotzdem mit einer Nummer geehrt und als Freund des Camps anerkannt.
-<!-- %%tl-event-body-end%% -->
+
 # Aussehen
 Darius ist ein [Firbolg](../../Races/Firbolg.md) durchschnittlicher Statur mit einer Stupsnase und Kuhohren, Hörner hat er keine. Er hat mittellange, curly Haare, welche ab etwa der Hälfte vom natürlichen Braun in ein gefärbtes Orange übergehen. Er hat zwei kleine Zöpfe, die ihm bis über die Schultern reichen.  
 Darius trägt als Piercings SnakeBites, AngelFangs und ein Eyebrow [[Piercing]]; Tattoos hat er keine.

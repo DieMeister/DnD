@@ -1,4 +1,3 @@
 ```aat-vertical
 all
 ```
-
