@@ -12,6 +12,7 @@
     "Spell Duration": "multitext",
     "Spell Source": "multitext",
     "Spell Ritual": "checkbox",
-    "Spell Damage Type": "multitext"
+    "Spell Damage Type": "multitext",
+    "tl-event-start": "text"
   }
 }

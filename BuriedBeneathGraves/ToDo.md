@@ -51,7 +51,7 @@
 	- [ ] create NPC that is already convinced by Darius's ideology
 	- [ ] NPC mit grundlegend anderer Vorstellung als Darius, die aber zusammenarbeiten müssen, erstellen
 	- [ ] create NPC who's politically different but Darius respects
-	- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat (Camp Recep)
+	- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat
 		- [ ] Karaxan
 		- [ ] Camp Recep
 - [ ] Namen ausdenken 
@@ -95,7 +95,6 @@
 
 ## Plugins
 ### Timeline
-- [x] Inline Events strukturiert sammeln
 - [ ] Ereignisse herausarbeiten
 ### Graph
 - [ ] redo colors

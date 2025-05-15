@@ -1,10 +1,4 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
-## Iskras Version der Geschehnisse
-- Iskra meinte sie seien tot
-- sie hätten sich geopfert damit Iskra den Fluch brechen kann
-	- Iskra hätte Schutz gebraucht um Ritual durchzuführen
-- Iskra hat roten Kristall gezeigt, in dem Fluch sein soll
-	- Fluch ist nicht gebrochen sondern nur gefangen
 
 # Items
 ## Amulette
@@ -15,9 +9,6 @@
 - erkennbar an Farbe
 - nicht möglich in ihrer Nähe zu sterben
 
-## Rechners Ring
-- kann Gegenstände "einsaugen"
-	- lila Licht scheint
 ## Siegelring
 - soll Existenz Grygur Sorthans beweisen
 - hat Darius in Verekir anfertigen lassen
@@ -55,8 +46,7 @@
 - Loch in Decke
 - Wasser füllt komplette Höhle aus
 	- Gegenstände aus Loch werden versenkt
-## Iriels Laden
-- bei Flutwelle zerstört
+
 ## Kirche
 - Zeichen mit neuem Blut nachgemalt und mit Klinge in Stein
 - Darius holt Schaufel aus Kirche
@@ -82,11 +72,6 @@
 	- Terim soll möglichst bald seine Fehlinformationen revidieren und zurücktreten
 - Terim bei rede über Flut extrem unsicher
 
-# Party
-## Darius 
-- Eigentümer des Siegelrings
-- Briefverkehr zu Terim 
-# Processes
 # Daten
 34 bank überfall
 33 sintflut - wiederbelebung
