@@ -201,6 +201,66 @@
       "id": "_b3ePxtmnRZjQ8xqNYGLR",
       "name": "8/8",
       "value": "#ff0000"
+    },
+    {
+      "id": "FDQpBh_l-xbSCfKvGj93Q",
+      "name": "1/12",
+      "value": "#ff8000"
+    },
+    {
+      "id": "ZWUZkiEraYAC7OasIm56b",
+      "name": "2/12",
+      "value": "#ffff00"
+    },
+    {
+      "id": "e8ZThoqWbYOagBcNAMqbS",
+      "name": "3/12",
+      "value": "#80ff00"
+    },
+    {
+      "id": "aOBN_Tr9u0FXWC0gPqsJ8",
+      "name": "4/12",
+      "value": "#00ff00"
+    },
+    {
+      "id": "2JMM4GhCCycXnjOrDCxbV",
+      "name": "5/12",
+      "value": "#00ff80"
+    },
+    {
+      "id": "oHheTo3QMQDFRm2bVoy3r",
+      "name": "6/12",
+      "value": "#00ffff"
+    },
+    {
+      "id": "cI06l4NAm1nV1vALS-366",
+      "name": "7/12",
+      "value": "#0080ff"
+    },
+    {
+      "id": "44sDpTrB7_L4GSNEYpYTU",
+      "name": "8/12",
+      "value": "#0000ff"
+    },
+    {
+      "id": "oY8rniwHtYF8gxUEOUc7a",
+      "name": "9/12",
+      "value": "#8000ff"
+    },
+    {
+      "id": "CUmjPSurOtW0tce45yE2s",
+      "name": "10/12",
+      "value": "#ff00ff"
+    },
+    {
+      "id": "S7DEM4HRe4J3IatovFW8d",
+      "name": "11/12",
+      "value": "#ff0080"
+    },
+    {
+      "id": "klFU8WASshdaKwgkwNge8",
+      "name": "12/12",
+      "value": "#ff0000"
     }
   ],
   "fileColors": [
@@ -278,7 +338,7 @@
     },
     {
       "path": "BuriedBeneathGraves/Timelines",
-      "color": "tuPH1nMGepMKpz0G7lLFV"
+      "color": "klFU8WASshdaKwgkwNge8"
     },
     {
       "path": "BuriedBeneathGraves/character_sheet.json",
@@ -293,7 +353,7 @@
       "color": "S9qkK0KgF7k0PmllzZxdD"
     },
     {
-      "path": "BuriedBeneathGraves/Party/Enya.md",
+      "path": "BuriedBeneathGraves/Party/Enya Stratis.md",
       "color": "XV2kcIdxprpTGudmYUAox"
     },
     {
@@ -310,43 +370,43 @@
     },
     {
       "path": "BuriedBeneathGraves/Assemblies",
-      "color": "2buhLpQPm9CekgtANAxd8"
+      "color": "FDQpBh_l-xbSCfKvGj93Q"
     },
     {
       "path": "BuriedBeneathGraves/Creatures",
-      "color": "rxmqYXhzR80iAtq9dMNmC"
+      "color": "ZWUZkiEraYAC7OasIm56b"
     },
     {
       "path": "BuriedBeneathGraves/Events",
-      "color": "65oZKmceWe2pSmtU_KPib"
+      "color": "aOBN_Tr9u0FXWC0gPqsJ8"
     },
     {
       "path": "BuriedBeneathGraves/Items",
-      "color": "yQhC8AmxenJ2CkeyOGHQ_"
+      "color": "2JMM4GhCCycXnjOrDCxbV"
     },
     {
       "path": "BuriedBeneathGraves/Locations",
-      "color": "xoB0o7jWMBWA92OwE9n1a"
+      "color": "oHheTo3QMQDFRm2bVoy3r"
     },
     {
       "path": "BuriedBeneathGraves/NPCs",
-      "color": "fZ6Ql_Hf4dHny5qtuCDvo"
+      "color": "cI06l4NAm1nV1vALS-366"
     },
     {
       "path": "BuriedBeneathGraves/Party",
-      "color": "NDtywaemFA-wSdfqbOtjx"
+      "color": "44sDpTrB7_L4GSNEYpYTU"
     },
     {
       "path": "BuriedBeneathGraves/Processes",
-      "color": "98cFNKfePS4Nyzs9fRR60"
+      "color": "oY8rniwHtYF8gxUEOUc7a"
     },
     {
       "path": "BuriedBeneathGraves/Ranks",
-      "color": "SR3ssPmXGG5-hGaCdj7g1"
+      "color": "CUmjPSurOtW0tce45yE2s"
     },
     {
       "path": "BuriedBeneathGraves/Sessions",
-      "color": "n5zEnOfGYQjufyL4-PZFN"
+      "color": "S7DEM4HRe4J3IatovFW8d"
     },
     {
       "path": "BuriedBeneathGraves/NPCs/4 - Status.md",
@@ -389,11 +449,11 @@
       "color": "0jecJjbNMpPpSHzgCFqTu"
     },
     {
-      "path": "BuriedBeneathGraves/NPCs/Enyas Mutter.md",
+      "path": "BuriedBeneathGraves/NPCs/Mutter Stratis.md",
       "color": "XV2kcIdxprpTGudmYUAox"
     },
     {
-      "path": "BuriedBeneathGraves/NPCs/Enyas Vater.md",
+      "path": "BuriedBeneathGraves/NPCs/Karolos Stratis.md",
       "color": "XV2kcIdxprpTGudmYUAox"
     },
     {
@@ -409,7 +469,7 @@
       "color": "S9qkK0KgF7k0PmllzZxdD"
     },
     {
-      "path": "BuriedBeneathGraves/NPCs/Vater Työkalu.md",
+      "path": "BuriedBeneathGraves/NPCs/Enrique Työkalu.md",
       "color": "S9qkK0KgF7k0PmllzZxdD"
     },
     {
@@ -435,6 +495,14 @@
     {
       "path": "BuriedBeneathGraves/Audio/Transcripts/session_006_cut.mp3",
       "color": "Ql32qIGgeH3Xj-zO7S7E_"
+    },
+    {
+      "path": "BuriedBeneathGraves/Documents",
+      "color": "e8ZThoqWbYOagBcNAMqbS"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Rechner.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
     }
   ]
 }

@@ -1,0 +1,15 @@
+---
+Autor:
+  - Darius
+  - Kem
+  - Enya
+Empfänger:
+  - Karolos Stratis
+  - Mutter Stratis
+Datum: 34.02.028nA
+---
+
+Lieber Herr Stratis, Liebe Frau Stratis,  
+leider ist Enya verhindert und kann erstmal nicht nach Uthlin zurückkehren, unter Umständen hat das mit den Ereignissen in Grashk zu tun.  
+Alles Gute  
+Terim

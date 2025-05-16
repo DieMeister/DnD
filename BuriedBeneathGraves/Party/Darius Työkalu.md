@@ -3,7 +3,7 @@ references:
   - https://pin.it/6lQicUery
 ---
 Darius ist ein [Firbolg](../../Races/Firbolg.md) in seinen Zwanzigern. Er ist ein [Barde](../../Classes/Bard/Bard.md) mit der Subclass [College of Whispers](../../Classes/Bard/Colleges/College%20of%20Whispers.md).  
-Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [Mutter](../NPCs/Siiri%20Työkalu.md) starb allerdings früh an einer [[Krankheit]] und er wurde nur von seinem [Vater](../NPCs/Vater%20Työkalu.md) und seiner 3 Jahre älteren [[Schwester]] aufgezogen, mit dem es aufgrund unterschiedlicher politischer Einstellungen immer wieder zu Meinungsverschiedenheiten kommt. Als Teenager radikalisiert er sich immer weiter, bis er sich schließlich komplett dem Aktivismus widmet. Auf seinen Reisen lernt er [Fabel](../NPCs/Fabel.md) kenn, ein Eichhörnchen.
+Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [Mutter](../NPCs/Siiri%20Työkalu.md) starb allerdings früh an einer [[Krankheit]] und er wurde nur von seinem [Vater](../NPCs/Enrique%20Työkalu.md) und seiner 3 Jahre älteren [[Schwester]] aufgezogen, mit dem es aufgrund unterschiedlicher politischer Einstellungen immer wieder zu Meinungsverschiedenheiten kommt. Als Teenager radikalisiert er sich immer weiter, bis er sich schließlich komplett dem Aktivismus widmet. Auf seinen Reisen lernt er [Fabel](../NPCs/Fabel.md) kenn, ein Eichhörnchen.
 # Inhalt
 - [Inhalt](Darius%20Työkalu.md#Inhalt)
 - [Backstory](Darius%20Työkalu.md#Backstory)
@@ -32,13 +32,13 @@ Er ist in [Verekir](../Locations/Verekir.md) geboren und aufgewachsen, seine [Mu
 
 Darius wird am 12.04.003nA in [Verekir](../Locations/Verekir.md) geboren. Trotz der laufenden  [[Expansion]] merkt Darius nur mittelbar, dass Krieg herrscht, da [Verekir](../Locations/Verekir.md) sich direkt unterwarf, sofern das Leben in der Stadt wie gehabt weitergehen kann.  
 Seine [Mutter](../NPCs/Siiri%20Työkalu.md) stirbt als Darius erst 4 Jahre alt ist.  
-Von da an werden er und seine 3 Jahre ältere Schwester [[Lorela Työkalu]] nur von ihrem [Vater](../NPCs/Vater%20Työkalu.md) aufgezogen, haben aber eine ansonsten normale Kindheit.  
-Als Teenager beginnt Darius sich zunehmend politisch zu interessieren und engagieren, was in [Verekir](../Locations/Verekir.md) aber nur auf wenig Unterstützung trifft. Besonders sein [Vater](../NPCs/Vater%20Työkalu.md) sieht der Entwicklung seines Sohnes skeptisch und es kommt häufiger zu Auseinandersetzungen zwischen beiden. 
+Von da an werden er und seine 3 Jahre ältere Schwester [[Lorela Työkalu]] nur von ihrem [Vater](../NPCs/Enrique%20Työkalu.md) aufgezogen, haben aber eine ansonsten normale Kindheit.  
+Als Teenager beginnt Darius sich zunehmend politisch zu interessieren und engagieren, was in [Verekir](../Locations/Verekir.md) aber nur auf wenig Unterstützung trifft. Besonders sein [Vater](../NPCs/Enrique%20Työkalu.md) sieht der Entwicklung seines Sohnes skeptisch und es kommt häufiger zu Auseinandersetzungen zwischen beiden. 
 Mit 22 verlässt Darius [Verekir](../Locations/Verekir.md) um sich ganz dem Aktivismus widmen zu können.
 ## politische Reise
 
 Am 08. Mekayttz 026nA verlässt Darius [Verekir](../Locations/Verekir.md) und macht sich auf den Weg nach [[Karaxan]], wo er etwa 6 Wochen später ankommt. TODO Was hat Darius in Karaxan gemacht  
-Eigentlich wollte Darius nach seinem Aufenthalt in [Karaxan](../Locations/Karaxan.md) weiter nach [Grashk](../Location/Grashk.md). Um schneller zu folgt er nicht der Straße nach Westen, sondern kürz direkt nach Süd-Westen ab. Dabei trifft er am 07.03.026nA auf [Camp Recep](../Locations/Camp%20Recep), wo er erstmal bleibt und seine Reise nach [Grashk](../Locations/Grashk.md) auf unbestimmte Zeit verschiebt.  
+Eigentlich wollte Darius nach seinem Aufenthalt in [Karaxan](../Locations/Karaxan.md) weiter nach [Grashk](../Locations/Grashk.md). Um schneller zu folgt er nicht der Straße nach Westen, sondern kürz direkt nach Süd-Westen ab. Dabei trifft er am 07.03.026nA auf [Camp Recep](../Locations/Camp%20Recep), wo er erstmal bleibt und seine Reise nach [Grashk](../Locations/Grashk.md) auf unbestimmte Zeit verschiebt.  
 Während seiner Zeit in [Camp Recep](../Locations/Camp%20Recep.md) lernt Darius viel über [Warforged](../Creatures/Warforged.md) und [[Anarchie]]. Mit den meisten [Warforged](../Creatures/Warforged.md) versteht er sich gut und es entstehen viele neue Freundschaften.  
 Auch wenn Darius nicht für immer im Camp bleiben möchte, wird er trotzdem mit einer Nummer geehrt und als Freund des Camps anerkannt.
 

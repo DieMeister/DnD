@@ -1,1 +1,1 @@
-Darius benutzt diesen Siegelring entweder als Zeichen von sich selbst, oder eines von ihm ausgedachten Grafen.
+Mithilfe dieses Rings soll die Person [Grygur Sorthans](../NPCs/Grygur%20Sorthan.md) belegt werden. [Darius](../Party/Darius%20Työkalu.md) hat den Ring in [Verekir](../Locations/Verekir.md) anfertigen lassen.

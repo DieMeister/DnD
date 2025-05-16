@@ -1,0 +1,2 @@
+Rechner ist ein etwa 2 Meter großer [Warforged](../Creatures/Warforged.md). Obwohl er ein [Report](../Creatures/Warforged.md#Report) ist hat er nur zwei Arme und zwei Armschäfte. Sein linker Arm hängt tiefer als der rechte Arm.  
+Rechner wird am 34.02.028nA von [Kem](../Party/Kem.md) erschossen.

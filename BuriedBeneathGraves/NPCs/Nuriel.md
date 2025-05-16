@@ -1,0 +1,1 @@
+Nach der [Sintflut](../Events/die%20Sintflut.md) hat Nuriel Schwierigkeiten beim Sprechen. Es wird ein Zusammenhang mit dem [Axtkopf](../Items/Axtkopf.md) und dem Zeichen in der [Kirche](../Locations/Kirche.md) vermutet.

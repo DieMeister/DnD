@@ -13,6 +13,8 @@
     "Spell Source": "multitext",
     "Spell Ritual": "checkbox",
     "Spell Damage Type": "multitext",
-    "tl-event-start": "text"
+    "tl-event-start": "text",
+    "Autor": "multitext",
+    "Empfänger": "multitext"
   }
 }

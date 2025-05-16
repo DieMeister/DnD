@@ -1,0 +1,1 @@
+Ryk ist nach der [Sintflut](../Events/die%20Sintflut.md) sehr aufgewühlt und emotional. Er hat viele ihm wichtige Personen verloren.

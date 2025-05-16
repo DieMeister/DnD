@@ -5,7 +5,7 @@
 - Cethem
 - [Changeling](./Creatures/Changeling.md)
 - [Darius Työkalu](./Party/Darius%20Työkalu.md)
-- [Enya](./Party/Enya.md)
+- [Enya Stratis](Party/Enya%20Stratis.md)
 - [Esther](Assemblies/Believes/Esther.md)
 - [Fabel](./NPCs/Fabel.md)
 - Fryderyk (Ryk)

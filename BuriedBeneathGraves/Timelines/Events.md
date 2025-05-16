@@ -167,5 +167,15 @@ tl-event-start: 028-02-33
 tl-event-end: none
 tl-timelines: [all, Grashk]
 tl-event-picture: none
-tl-event-body: Bei der Sintflut werden Teile [Grashks](../Locations/Grashk.md) komplett oder teilweise Zerstört. Besonders der [Trockenhafen](Trockenhafen) wird hard getroffen und viele Bewohner sterbem.
+tl-event-body: Bei der Sintflut werden Teile [Grashks](../Locations/Grashk.md) komplett oder teilweise Zerstört. Besonders der [Trockenhafen](Trockenhafen) wird hard getroffen und viele Bewohner sterben.
+%% --->
+
+<!--- %%tl-inline-event
+tl-render: true
+tl-event-title: Zuza stirbt
+tl-event-start: 028-02-34
+tl-event-end: none
+tl-timelines: [all, Zuza]
+tl-event-picture: none
+tl-event-body: 
 %% --->

@@ -1,7 +1,9 @@
 Warforged sind während und für den [Blutskrieg](../Events/Blutskrieg.md) entwickelt worden. Sie sehen sich untereinander als gleichwertig an und haben kein Konkurrenzdenken.  
 Der [[Core]] ist das Herzstück eines Warforged.  
 Die meisten Warforged sind Analphabeten, da ihre Bildung ausschließlich auf Kriegsführung ausgelegt war.  
-Warforged sind keine Maschinen, was bedeutet, dass sie Gefühle und Trauma haben können.
+Viele der Warforged entwickeln nach [Akeldama](../Events/Akeldama.md) Traumata und werden verrückt. Das Phänomen wird von den Warforged zwar erforscht aber es kam bisher zu keinen größeren Erkenntnissen.  
+Warforged haben eine ausgezeichnete Nachtsicht.
+
 # Inhalt
 - [Inhalt](./Warforged.md#Inhalt)
 - [Klassen](./Warforged.md#Klassen)

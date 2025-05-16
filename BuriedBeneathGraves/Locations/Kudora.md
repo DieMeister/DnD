@@ -1,0 +1,1 @@
+Kudora ist als Rätediktatur strukturiert. Sie ist der einzige Ort, an dem die Dynastie tatsächlich Interesse hat.

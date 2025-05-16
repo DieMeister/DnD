@@ -1,1 +1,1 @@
-Zuza ist nach der [Sintflut](../Events/die%20Sintflut.md) nicht auffindbar.
+Zuza war nach der [Sintflut](../Events/die%20Sintflut.md) zunächst nicht auffindbar. Als sie gefunden wird ist sie stark verletzt und [Ryks](Fryderyk.md) Bemühungen sie zu retten scheitern. Sie stirbt am 34.02.028nA im Schoß von [Enya Stratis](../Party/Enya%20Stratis.md).
