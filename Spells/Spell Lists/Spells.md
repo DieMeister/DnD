@@ -101,8 +101,8 @@
 | [Grease](../Level1/Grease.md)                                             | Conjuration                 | 1 Action              | 60 feet               | 1 minute                         | V, S, M    |
 | [Guiding Bolt](../Level1/Guiding%20Bolt.md)                               | Evocation                   | 1 Action              | 120 feet              | 1 round                          | V, S       |
 | [Guiding Hand (UA)](../Level1/Guiding%20Hand%20(UA).md)                   | Divination                  | 1 Minute <sup>R</sup> | 5 feet                | Concentration, up to 8 hours     | V, S       |
-| [[Hail of Thorns]]                                                        | Conjuration                 | 1 Bonus Action        | Self                  | Concentration, up to 1 minute    | V          |
-| [[Healing Elixir (UA)]]                                                   | Conjuration                 | 1 Minute              | Self                  | 24 hours                         | V, S, M    |
+| [Hail of Thorns](../Level1/Hail%20of%20Thorns.md)                         | Conjuration                 | 1 Bonus Action        | Self                  | Concentration, up to 1 minute    | V          |
+| [Healing Elixir (UA)](../Level1/Healing%20Elixir%20(UA).md)               | Conjuration                 | 1 Minute              | Self                  | 24 hours                         | V, S, M    |
 | [Healing Word](../Level1/Healing%20Word.md)                               | Evocation                   | 1 Bonus Action        | 60 feet               | Instantaneous                    | V          |
 | [[Hellish Rebuke]]                                                        | Evocation                   | 1 Reaction            | 60 feet               | Instantaneous                    | V, S       |
 | [Heroism](../Level1/Heroism.md)                                           | Enchantment                 | 1 Action              | Touch                 | Concentration, up to 1 minute    | V, S       |
