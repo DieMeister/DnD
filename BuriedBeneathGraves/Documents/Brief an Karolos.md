@@ -1,11 +1,11 @@
 ---
 Autor:
-  - Darius
-  - Kem
-  - Enya
+  - "[[../Party/Darius Työkalu|Darius Työkalu]]"
+  - "[[../Party/Kem|Kem]]"
+  - "[[../Party/Enya Stratis|Enya Stratis]]"
 Empfänger:
-  - Karolos Stratis
-  - Mutter Stratis
+  - "[[../NPCs/Karolos Stratis|Karolos Stratis]]"
+  - "[[../NPCs/Mutter Stratis|Mutter Stratis]]"
 Datum: 34.02.028nA
 ---
 
