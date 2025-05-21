@@ -140,7 +140,7 @@ Eine Region, welche immer noch im Trauern liegt beginnt langsam mit dem Aufwache
 	- Essen reicht nicht für alle
 	- Darius will den Eulenbär nicht töten
 	- Enya will den Eulenbär töten
-	- Eulenbär noch 30 Meter entfernt  TODO frag wie schnell Eulenbären sind
+	- Eulenbär noch 30 Meter entfernt 
 	- Enya, Kem und 93 bereiten sich auf Kampf vor
 		- Darius bleibt im Wagen
 			- castet Aid auf Enya, Kem und 93

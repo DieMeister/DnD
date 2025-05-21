@@ -35,12 +35,12 @@
 	- [ ] summarize
 	- [ ] add links to summary
 - [ ] Session 7
-	- [ ] cut (2:40:44 / 3:36:50 - 74.13%) 
-	- [ ] get Information
+	- [x] cut
+	- [ ] get Information 
 	- [ ] summarize
 	- [ ] add links to summary
 - [ ] Session 8
-	- [ ] cut
+	- [ ] cut (00:41:15 / 04:19:29 - 15.9%)
 	- [ ] get information
 	- [ ] summarize
 	- [ ] add links to summary
@@ -67,7 +67,7 @@
 - [ ] add Classes
 - [ ] add Spells
 	- [x] Cantrips
-	- [ ] Level 1 (45/90 - 50% )
+	- [ ] Level 1 (48/90 - 53% )
 	- [ ] Level 2
 	- [ ] Level 3
 	- [ ] Level 4
@@ -115,10 +115,3 @@
 ## SpellSymbols
 - [ ] update License
 - [ ] rewrite program
-# Anarchie
-
-- [ ] wie schützt sich das System vor Feinden des Systems
-- [ ] Was passiert, wenn es zu keinem Kompromiss kommt
-- [ ] ab wann ist man mündiger Teil der Gesellschaft
-	- [ ] sind Kinder von Geburt an gleichberechtigt
-	- [ ] können alle einfach Teil der Gruppe werden
