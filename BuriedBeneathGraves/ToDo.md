@@ -48,15 +48,13 @@
 ## BuriedBeneathGraves
 - [ ] Darius
 	- [ ] clear ideology for Darius
-	- [ ] create NPC that is already convinced by Darius's ideology
-	- [ ] NPC mit grundlegend anderer Vorstellung als Darius, die aber zusammenarbeiten müssen, erstellen
-	- [ ] create NPC who's politically different but Darius respects
+	- [x] create NPC that is already convinced by Darius's ideology
 	- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat
 		- [ ] Karaxan
 		- [ ] Camp Recep
 - [ ] Namen ausdenken 
 	- [ ] Wochentage (mit Sky)
-	- [ ] Darius' Vater
+	- [x] Darius' Vater
 - [ ] Brief an Terim, wie es mit Grashk weitergehen soll
 ## Roleplay
 - [ ] Zauber

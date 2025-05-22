@@ -1,0 +1,1 @@
+Alkalie ist ein angeblich verfluchtes Weingut in [Verekir](Verekir.md). Bis zum Tod [Ipomeas](../NPCs/Ipomea.md) wurde es als Community Center für Punks, Arme, Kranke, und wer sonst immer sich dort aufhalten wollte. Jetzt steht das Weingut leer und nur [Thayssa](../Party/Thayssa.md) lebt dort.

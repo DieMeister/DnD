@@ -353,10 +353,6 @@
       "color": "S9qkK0KgF7k0PmllzZxdD"
     },
     {
-      "path": "BuriedBeneathGraves/Party/Enya Stratis.md",
-      "color": "XV2kcIdxprpTGudmYUAox"
-    },
-    {
       "path": "BuriedBeneathGraves/Party/Kem.md",
       "color": "ytZnXCrYdLv8HyMY7DmgO"
     },
@@ -449,7 +445,7 @@
       "color": "0jecJjbNMpPpSHzgCFqTu"
     },
     {
-      "path": "BuriedBeneathGraves/NPCs/Mutter Stratis.md",
+      "path": "BuriedBeneathGraves/NPCs/Klaasa Stratis.md",
       "color": "XV2kcIdxprpTGudmYUAox"
     },
     {
@@ -507,6 +503,10 @@
     {
       "path": "BuriedBeneathGraves/NPCs/Lorela Työkalu.md",
       "color": "S9qkK0KgF7k0PmllzZxdD"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/Thayssa.md",
+      "color": "XV2kcIdxprpTGudmYUAox"
     }
   ]
 }

@@ -5,7 +5,7 @@ Autor:
   - "[[../Party/Enya Stratis|Enya Stratis]]"
 Empfänger:
   - "[[../NPCs/Karolos Stratis|Karolos Stratis]]"
-  - "[[../NPCs/Mutter Stratis|Mutter Stratis]]"
+  - "[[../NPCs/Klaasa Stratis|Klaasa Stratis]]"
 Datum: 34.02.028nA
 ---
 

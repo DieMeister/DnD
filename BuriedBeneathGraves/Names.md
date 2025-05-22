@@ -1,4 +1,5 @@
 - [Akeldama](./Events/Akeldama.md)
+- [Alkalie](Locations/Alkalie.md)
 - Arcyziat
 - Arrek
 - [Artiniqua](Items/Artiniqua.md)
@@ -12,6 +13,7 @@
 - Fryderyk (Ryk)
 - [Grashk](./Locations/Grashk.md)
 - Hülle
+- [Ipomea](NPCs/Ipomea.md)
 - Iskra
 - Izka Arcyziat
 - Jadzia
@@ -40,6 +42,7 @@
 - [Siiri Työkalu](./NPCs/Siiri%20Työkalu.md)
 - Spur
 - Stav
+- [Thayssa](Party/Thayssa.md)
 - [Terim](./NPCs/Terim.md)
 - Työkalu
 - Tzekkrah

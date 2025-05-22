@@ -1,4 +1,33 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
+# Verekir
+
+- Reb-Geschichte = Reb-Gleichnis
+	- Caiviran macht unfruchtbaren Boden fruchtbar
+	- Caiviran sticht Stab in Boden
+		- auf dem Berg Präedize
+		- Weinrebe wächst aus dem Boden
+			- jetzt Tempel um Weinrebe
+		- Weingüter werden gegründet
+		- kurz darauf Weingüter zerstört
+			- unklar warum
+- 4 Klassen
+	- Politiker
+	- Künstler
+	- Winzer
+	- Arbeiter
+	- Zaunreiter
+		- leben außerhalb
+		- besetzen 1-2 Berge
+- Hügel
+	- werden durch Brücken verbunden
+- Party geschehen
+	- viele Clubs und Bars
+	- Klassen voneinander getrennt
+- oben auf Bergen leben reichere
+	- je niedriger die Schicht desto tiefer am Berg
+	- Brücken sind oben und mitte-oben angebracht
+- Weingüter etwas außerhalb
+
 # Darius Ideologie
 - hinrichtung wenn existenz zerstört
 	- nur vom staat weil objektiv und kann als einziger schuld der existenzzerstörung auf sich laden
