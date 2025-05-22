@@ -1,5 +1,11 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
-
+# Darius Ideologie
+- hinrichtung wenn existenz zerstört
+	- nur vom staat weil objektiv und kann als einziger schuld der existenzzerstörung auf sich laden
+- staat soll rahmen schaffen, sich aber im detail raushalten
+- straftaten aufgrund von armut etc sind nie strafbar
+- Autoritäten verlieren ihre Legitimität wenn sie gegen Gesetzte verstoßen
+	- es ist eines jeden Pflicht sich gegen solche Herrscher zu stellen
 # Daten
 34 bank überfall
 33 sintflut - wiederbelebung
@@ -31,8 +37,6 @@
 - *Jasmine*
 - *Waschbär*
 - *Nora*
-- *Henry*
-- *Enrique*
 - *Addie*
 - *Zitrone*
 

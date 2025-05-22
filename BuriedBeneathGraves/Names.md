@@ -1,6 +1,7 @@
 - [Akeldama](./Events/Akeldama.md)
 - Arcyziat
 - Arrek
+- [Artiniqua](Items/Artiniqua.md)
 - Avyth
 - Cethem
 - [Changeling](./Creatures/Changeling.md)
@@ -33,6 +34,7 @@
 - Mestav
 - Moreth
 - Nuriel
+- [Phillippa](NPCs/Phillippa.md)
 - Prashtir
 - [Siath](Assemblies/Believes/Siath.md)
 - [Siiri Työkalu](./NPCs/Siiri%20Työkalu.md)

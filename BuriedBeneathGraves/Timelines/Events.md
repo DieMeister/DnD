@@ -4,12 +4,32 @@ tl-render: false
 
 <!--- %%tl-inline-event
 tl-render: true
-tl-event-title: Geburt Darius
+tl-event-title: Geburt Lorela Työkalu
+tl-event-start: 000-02-08
+tl-event-end: none
+tl-timelines: [all]
+tl-event-picture: none
+tl-event-body:
+%% --->
+
+<!--- %%tl-inline-event
+tl-render: true
+tl-event-title: Geburt Darius Työkalu
 tl-event-start: 003-04-12
 tl-timelines: [all, Darius]
 tl-event-picture: none
-tl-event-body: Darius wird geboren.
-%% -->
+tl-event-body:
+%% --->
+
+<!--- %%tl-inline-event
+tl-render: true
+tl-event-title: Tod Siiri Työkalu
+tl-event-start: 007-09-13
+tl-event-end: none
+tl-timelines: [all]
+tl-event-picture: none
+tl-event-body:
+%% --->
 
 <!--- %%tl-inline-event
 tl-render: true
