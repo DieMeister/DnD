@@ -40,7 +40,7 @@
 	- [ ] summarize
 	- [ ] add links to summary
 - [ ] Session 8
-	- [ ] cut (00:41:15 / 04:19:29 - 15.9%)
+	- [ ] cut (01:18:49 / 04:16:11 - 30.77%)
 	- [ ] get information
 	- [ ] summarize
 	- [ ] add links to summary
