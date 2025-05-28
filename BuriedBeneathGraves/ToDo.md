@@ -40,7 +40,7 @@
 	- [ ] summarize
 	- [ ] add links to summary
 - [ ] Session 8
-	- [ ] cut (01:18:49 / 04:16:11 - 30.77%)
+	- [ ] cut (02:00:15 / 04:10:35 - 47.99%)
 	- [ ] get information
 	- [ ] summarize
 	- [ ] add links to summary
@@ -48,13 +48,11 @@
 ## BuriedBeneathGraves
 - [ ] Darius
 	- [ ] clear ideology for Darius
-	- [x] create NPC that is already convinced by Darius's ideology
 	- [ ] ausarbeiten was Darius nach Zeit in Verekir gemacht hat
 		- [ ] Karaxan
 		- [ ] Camp Recep
 - [ ] Namen ausdenken 
 	- [ ] Wochentage (mit Sky)
-	- [x] Darius' Vater
 - [ ] Brief an Terim, wie es mit Grashk weitergehen soll
 ## Roleplay
 - [ ] Zauber
