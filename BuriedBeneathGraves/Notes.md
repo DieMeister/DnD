@@ -1,4 +1,5 @@
 - 1 seite vom hexagon = 1 woche auf befestigter straße
+- Todesritus = Wiederbelebung
 # Verekir
 
 - Reb-Geschichte = Reb-Gleichnis
@@ -10,8 +11,22 @@
 		- Weingüter werden gegründet
 		- kurz darauf Weingüter zerstört
 			- unklar warum
-- 4 Klassen
-	- Politiker
+- Klassen
+	- Gomorrah
+		- sehr alt
+			- sieht nicht so aus
+		- lebt im Tempel
+		- Machthaberin Verekirs
+		- Luxus & Kunst > Extase
+		- Museum, Akademie & Theater werden subventioniert
+		- mächtig
+			- könnte es mit Vythe aufnehmen
+	- Herrscher
+		- Herrschaft sehr intransparent
+		- stehen quasi über Gesetzten
+		- verschiedene Gruppen
+			- stellen je einen Tänzer für Akephalos
+				- Ritual des Tanzes
 	- Künstler
 	- Winzer
 	- Arbeiter
@@ -27,6 +42,57 @@
 	- je niedriger die Schicht desto tiefer am Berg
 	- Brücken sind oben und mitte-oben angebracht
 - Weingüter etwas außerhalb
+- ein großes Theater
+	- mehrere kleinere, nicht staatlich
+- Rayna
+	- "Königin"
+	- Personenkult um sich
+	- Tänzerin
+
+# Caiviran
+- Person und Religion
+- Körper ist Gefängnis und Geschenk
+	- obwohl Gefängnis Möglichkeit zu existieren
+- jedes Lebewesen ist egoistisch
+	- grundlegende Selbstüberschätzung
+- eigene Existenz ist unwichtig
+	- Gesellschaft und Verstand führen zu Selbstüberschätzung und Unterdrückung der eigenen Triebe
+- Aufgabe von Geist und Körper
+	- komplette Hingabe den "tierischen" Trieben
+	- Zustand von Extase als Erleuchtung
+		- wird erreicht durch
+			- Drogen
+			- Sex
+- Extase führt zu reinem Zustand des Selbst
+	- Bei erreichen des Zustands Kannibalismus durch andere Anhänger
+		- Laut Erzählung trinkt Sodom Wein gemischt mit Caivirans Blut
+			- Caiviran nicht tot, hat nur geblutet
+			- erlangt Zustand der Extase
+			- wird aufgegessen in Höhle des Sodom
+				- Sodom stirbt vor Caiviran
+- Maenads
+	- Prostituierte auch Poeten
+- Diota
+	- 
+# Siath
+- Existenz in 3 Bereiche
+	- Vegetativ
+		- Pflanzlich & Mechanisch
+			- Wachstum
+			- Ernährung
+			- Bedürfnisse
+	- Polis
+		- Gemeinschaft
+		- Leben
+	- Seele
+		- Vernuft
+		- Beobachten
+		- Wahrheit
+	- kein Bereich kann ohne die anderen Leben
+- Ziel
+	- Abiosis
+		- Abwerfung der Polis & Vegetion
+		- nur noch Seele
 
 # Darius Ideologie
 - hinrichtung wenn existenz zerstört
@@ -35,6 +101,7 @@
 - straftaten aufgrund von armut etc sind nie strafbar
 - Autoritäten verlieren ihre Legitimität wenn sie gegen Gesetzte verstoßen
 	- es ist eines jeden Pflicht sich gegen solche Herrscher zu stellen
+
 # Daten
 34 bank überfall
 33 sintflut - wiederbelebung
