@@ -100,7 +100,6 @@
 | Name                                        | Anzahl    | Typ                  | Wert pro Stück |
 | ------------------------------------------- | --------- | -------------------- | -------------- |
 | Goldmünzen                                  | 41        | Währung              | 1GM            |
-| [Dolch](../../../Items/Dolch.md)            | 1         | Kampf                |                |
 | [Lederrüstung](../../Items/Lederrüstung.md) | 1         | Ausrüstung           |                |
 | Verkleidungsausrüstung                      | 1         | Ausrüstung           |                |
 | Truhe                                       | 1         | Diplomatenausrüstung |                |

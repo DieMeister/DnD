@@ -392,4 +392,203 @@ Eine Region, welche immer noch im Trauern liegt, beginnt langsam mit dem Aufwach
 - Hülles Fokus auf Enya lässt nach
 - Kem umarmt Enya
 - Enya stinkt aus dem Mund und hat Blut drumherum
-	- wegen gegessener Ratter
+	- wegen gegessener Ratte
+## Versammlung
+- Versammlung im Zentrum des Camps
+	- überschaubare Menge hat sich versammelt
+	- darunter unter anderem
+		- Eule
+		- Lehm
+- Darius, Status, Waffendrill & Schlüssel reden
+	- Darius möchte die abschließende später treffen und erstmal aus Sicherheitsgründen das Camp verlassen
+		- wird von Kante hochgehoben um gesehen zu werden
+	- Status möchte nach Kudora
+		- Rätedemokratie nach dem Glaube Mekans
+		- weiß nichts wirklich über Mekan
+	- Waffendrill möchte im Camp bleiben
+		- gibt Waffen (und Hand) an Kante bevor es redet
+		- Ressourcen aus Kiranit holen
+		- Wegweiser würde auch hierbleiben
+	- Schlüssel möchte nach Grashk
+		- Stadt braucht auch Hilfe
+		- wahrscheinlich willkommen
+## Elvian Vythe
+- Enya & Kem sehen überm Camp eine Gestallt schweben
+- beide gehen zum Camp um zu warnen
+	- Hülle folgt ihnen
+- Warforged diskutieren die Möglichkeiten
+- Darius möchte gehen
+- Schlüssel möchte nicht als einziges nach Grasghk gehen
+- kleiner Streit zwischen Darius und Waffendrill
+- Status holt verbundene Schriften um Kudora zu schreiben
+- Eule unterbricht sie
+	- Wegweiser ist da
+		- Revolver in einer Hand
+		- trägt einen Umhang
+- Wegweiser spricht abwertend übers Camp
+	- hat weiteren Warforged den Standort verraten
+	- gemacht um zu gehorchen
+	- ist Deal mit Meluzan eingegangen weil Camp den Bach runter geht
+		- höhere Stellung
+		- Religiöse Freiheit
+		- Camp wird aufgelöst
+		- Symbol Meluzans muss auf jede Wand
+- Elvian Vythe ist "als Zeichen des Friedens" alleine da
+	- spricht sehr überheblich
+	- hat ein Buch in seiner Hand
+		- hat ein Auge außen
+	- Gründungsmitglieder müssen wegen Hochverrat sterben
+- Kem, Darius & Enya werden des Mords eines Ringträger, Körperverletzung, Rufmord und Terroristischen Anschlags in Grashk beschuldigt
+- Kem war Spion
+	- Elvian weiß davon
+- Elvian schwebt 2-3 Meter überm Boden
+- Kem bekommt seine Hand von Waffendrill
+	- Waffendrill hat seine Finger an Kems Hand gemacht sodass er 5 Finger hat
+- Waffendrill hat die Ringe
+- Waffendrill gesteht, dass Darius und Schlüssel vermutlich recht haben
+- Schlüssel will möglichst viele Warforged aus der Gefahrenzone bringen
+- Status betet an Elvian
+- Darius
+	- nimmt sicht eine Muskete und verfehlt schrecklich
+	- Enya bekommt bardische Inspiration
+- Elvian
+	- murmelt etwas
+	- Kem kann nicht mehr unterscheiden wer Freund und Feind ist
+		- so habe es sich angefühlt, als Evian erfuhr, dass Kem ein Spion war
+	- zeigt auf Enya
+	- fliegt in Enyas Richtung
+	- Druckwelle gegen Enyas Brust
+	- in Hand sammeln sich Blitze
+		- richten sich auf Enya
+- Wegweiser
+	- schießt mit Revolver auf Waffendrill
+	- sticht mit Armklinge zu
+- Kem
+	- verfehlt Kante
+	- versteckt sich
+- Enya
+	- raged
+	- schießt Energie aus ihrer Brust auf Elvian
+	- greift Wegweiser mit Schwert an
+- Darius
+	- läuft Enya hinterher
+	- Cure Wounds auf Enya
+	- bardische Inspiration für Enya
+- Eule 
+	- trifft Elvian
+- Elvian
+	- Blitz trifft Hülle
+		- Hülle wird gegen Wand geschleudert
+		- tot
+	- wird unsichtbar
+		- schließt Buch
+- Waffendrill und Wegweiser kämpfen
+- Kante
+	- geht zu Kem und fragt ob alles okay ist
+	- hebt Kem hoch
+- Kem
+	- kann wieder Feinde von Freunden unterscheiden
+	- sieht fliegenden Warforged Core
+		- zerstört Core
+- Wegweiser
+	- verfehlt komplett
+- Enya
+	- schneidet Beine von Wegweiser ab
+	- Waffendrill tötet Wegweiser
+- Darius
+	- Cure Wounds Lvl 2 auf Enya
+	- bardische Inspiration für Enya
+	- stellt sich hinter Fässer
+- Elvian
+	- wieder sichtbar
+	- 5 Meter über Erde
+	- greift Kem & Enya an
+	- hält Core in der Hand
+		- wird immer heller
+- Kem
+	- trifft Hand
+		- Elvian kann Buch nicht mehr halten
+- Enya
+	- greift Elvian an
+	- wirft Wegweisers Leiche nach Elvian
+		- Elvian auf dem Boden
+- Eule
+	- trifft Elvian
+	- versucht Orb aus Hand zu schlagen
+		- Buch blockt Angriff
+- Schlüssel schließt sich Kampf an
+	- hat Warforged "in Sicherheit" gebracht
+- Kante hält weiterhin Kem
+- Darius
+	- verfehlt mit seiner Armbrust
+- Elvian
+	- streckt Core Richtung Eule
+	- Eule zielt auf Waffendrill
+		- Enya wirft sich dazwischen
+	- fliegt hoch
+		- Enya greift an
+	- Druckwelle gegen Kante
+		- Kante fliegt nach hinten
+		- tot
+		- Kem kann sich am Zelt halten
+			- geht zu Kante
+	- Core in Hand
+- Kem
+	- schießt auf Elvian
+- Enya
+	- Energiestrahl auf Eule
+		- Eule ist geblendet
+	- Enya wirft Wegweisers Beine nach Elvian
+		- fällt zu Boden
+		- prone
+- Schlüssel
+	- kommt in ihre Richtung
+- Eule
+	- verfehlt komplett
+- Waffendrill
+	- wirft sich auf Elvian
+	- will Orb entreißen
+- Darius
+	- geht zu Elvian
+	- zerstört Core
+	- bindet Hand am Boden fest
+- Elvian
+	- nicht mehr am Boden
+	- greift Darius an
+		- Psychisch
+		- Kopfschmerzen
+	- wirft Darius' Dolch auf Enya
+		- Enya geht down
+	- Blitze formen sich in Hand
+		- zeigt auf Kem
+- Kem
+	- greift Elvian an
+	- geht in Deckung
+- Enya
+	- raged
+- Eule
+	- trifft Darius
+	- geht down
+- Schlüssel
+	- verfehlen
+- Waffendrill
+	- verfehlt
+	- rennt zu Kem
+	- zieht sich Ringe an
+	- fragt Kem wo sie hinwollen
+		- Verekir
+	- Kem soll zu den anderen
+	- schlägt Ring gegen eigenen Oberschenkel
+		- Spalteisen des eigenen Körpers löst sich auf
+- Elvian
+	- droht ihnen sie zu finden
+	- greift Kem an
+- Kem
+	- schießt auf Elvian
+- Enya
+	- will Elvian angreifen
+	- bricht zusammen
+	- tot
+- Waffendrill löst sich komplett auf
+- Darius, Kem & Enya werden teleportiert
+	- Gefühl des Fallens
