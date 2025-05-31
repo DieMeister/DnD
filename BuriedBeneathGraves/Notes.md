@@ -260,3 +260,136 @@ Eine Region, welche immer noch im Trauern liegt beginnt langsam mit dem Aufwache
 - 7
 	- Waffendrill
 	- Waffel
+
+# Session 8
+Eine Region, welche immer noch im Trauern liegt, beginnt langsam mit dem Aufwachen. Ich erlebe momentan einen Einblick in das, was Poeten und Philosophen verzweifelt versuchen zu beschreiben. Die Krisen und Probleme sind zu präsent um in Melancholie zu verweilen oder Verstorbene zu betrauern. Ihr findet euch vor dem Camp wieder, die Vorfahren der Arcyziat streiten um die Wirklichkeit dieser Realität. Fügung verschwindet gerade in der Dunkelheit der Nacht, während ihr seht, wie Hülles Zentrum langsam erlischt. Eine dünne Wolke aus Spalteisen bahnt sich ihren Weg ins Camp hinein, während Einig besorgt an Hülle Rüttelt. Abiosis. "Hülle, alles wird Gut, wir sind für dich da". Hülle antwortet nicht, es starrt mit abwesendem Blick in die Lehre. Der Blick schneidet sich mit deinem, Enya.  
+## Außerhalb des Camps
+- Darius steht etwas entfernt
+- Einig Rüttelt an Hülle
+- Hülle schaut mit leerem Blick Enya an
+	- folgt ihr mit deinem Blick
+- niemand weiß was genau passiert ist
+- Darius geht zu Enya, Kem, Einig und Hülle
+	- weiß auch nicht, was man machen sollte
+- Einig will Hülle zu Waffendrill bringen
+- Unklarheit über die Ansteckbarkeit Hülles Zustand
+- Darius möchte Hülle nicht ins Camp bringen
+- Enya und Kem gehen Waffendrill holen
+## auf dem Weg ins Camp
+- Enya tötet  eine Ratte
+	- beißt Kopf ab
+	- bindet Schleife aus Darm
+	- spielt mit Überresten der Ratte
+	- ähnliches Verhalten zu Spur
+## in Waffendrills Zelt
+- Waffendrill arbeitet an seiner Hand
+- etwas entfernt läuft Schlüssel rum
+- Kem erklärt Situation
+- Waffendrill nicht begeistert dass Enya da ist
+	- wegen Ansteckung
+- im Zelt sind noch andere verletzte Warforged
+- Bruch beginnt zu zittern
+	- hält sich an Dingen fest
+- Warforged dass Kleintiere isst beginnt zu zittern
+	- beißt in der Luft rum
+- von Draußen schreit ein Warforged und rennt durchs Camp
+- Schlüssel steht im Zelteingang und fragt was los ist
+- Waffendrill fordert Schlüssel auf, Enya und Kem wegzubegleiten
+- Waffendrills Fuß wird von Bruch ergriffen
+	- Schlüssel probiert Waffendrill zu helfen
+- Kem bringt Enya raus
+- draußen ist ein Warforged mit gebrochenem Zentrum
+	- schreit
+	- rennt weg von Enya und Kem
+- Enya fühlt kurz, als sähe sie die Sicht einer anderen Person
+	- sprintet, teilweise auf allen Vieren
+	- Nacht
+	- Gestrüpp
+	- sagt "leise, seid ruhig, ich muss zurück" vor sicht hin
+- kommen bei Darius an
+## Rand vom Camp
+- Hülle starrt Enya an
+- Darius geht mit Enya ein paar Schritte weg
+	- Enya speilt noch immer mit Ratte
+	- fragt wie es Enya geht
+		- Verlangen fühlen sich fremd an
+		- Enya kann's nicht beschreiben
+		- begann zeitgleich damit, dass Hülle sie anschaut
+- Staubfahne kommt aus dem Camp
+- Darius bittet Enya, die Ratter wegzulegen
+	- Enya isst die Ratte
+- Enya wird als Sicherheitsrisiko eingestuft
+- Hülle geht langsam auf Enya zu
+	- Enya ist beleidigt / aufgebracht
+- Kems Arm ist im Camp
+- gehen gemeinsam Richtung Wald
+	- Hülle folgt ihnen
+- Einig geht zum Camp
+- schreiender Warforged kommt aus dem Camp gerannt
+	- hat Dolch von Schlüssel geklaut
+	- Schlüssel kommt hinterhergerannt
+		- möchte Dolch wiederhaben
+	- schreit "Hilfe"
+	- ersticht sich selbst
+	- Schlüssel nimmt Dolch mit
+- Schlüssel kommt zu Enya, Darius, Kem und Hülle
+	- Darius will, dass er Abstand hält
+	- Schlüssel will nicht ins Camp zurück
+- Warforged, die nach Akeldama verrückt geworden sind bringen sich um
+- die wenigen bekannten Informationen werden ausgetauscht
+- Enya versucht Schlüssels Dolch zu bekommen
+	- scheitert
+	- Darius schiebt Enya weiter
+- Schlüssel will nach Grashk
+	- Darius kann sie ankündigen
+- Enya will wieder nach dem Messer greifen
+	- Darius hält Enya an den Handgelenken fest
+- viele Warforged wollen sich mit Kudora zusammenschließen
+	- bringt laut Schlüssel nichts, weil die auch nicht mehr über Warforged wissen
+	- Status will das
+- Waffendrill will Kiranit einnehmen
+- Schlüssel will nach Grashk
+- Schlüssel will ins Camp
+- Darius will nicht zurück ins Camp
+- Darius fesselt Enya mit seinem Seil
+	- Enya will sich weiterhin selbst umbringen
+- Darius nimmt Enya jeglichen spitzen Gegenstände ab
+- Darius und Schlüssel gehen ins Camp
+	- Enyas Schwert bleibt bei Kem
+## im Camp
+- 1-2 weitere Warforged haben sich selbst umgebracht
+- Waffendrill und Status streiten lautstark neben Waffendrills Zelt
+	- Waffendrill fehlt die linke Hand
+	- Waffendrill will nach Kudora
+		- kann angeblich unterstützen
+		- schließen sich Gilde an oder gründen eigene um Relevanz zu bekommen
+	- Status ist nicht überzeugt
+		- Minderheit in der Demokratie
+- Darius möchte das Camp so schnell wie möglich räumen
+	- egal was danach passiert
+- Kudora kurz davor "Haustier" der Dynastie zu werden
+	- laut Schlüssel
+	- alle die nicht kommen werden als unzurechnungsfähig eingestuft
+- Alm kommt mit Besitzrechten des Camps
+	- beansprucht das Camp und die Warforged für sich
+- Waffendrill holt Zeug aus seinem Zelt
+	- auch Kems Hand
+- Vollversammlung wird einberufen
+	- Einig schreit laut sodass es alle hören
+## vorm Camp
+- Enya bittet Kem sie zu töten
+- Kem macht nichts
+- Enya verbrennt das Seil
+- Kem holt Ratte aus seinem Hut
+	- hat keinen Effekt auf Enya
+- Enya schubst Kem zu r Seite um an ihre Waffe zu kommen
+- Enya will sich selbst erstechen
+	- Nuriels Stimme hält Enya davon ab
+		- nur in Enyas Kopf
+	- Verlangen hört auf
+	- Enya lässt Schwert sinken
+	- Kem schiebt Schwert weg
+- Hülles Fokus auf Enya lässt nach
+- Kem umarmt Enya
+- Enya stinkt aus dem Mund und hat Blut drumherum
+	- wegen gegessener Ratter
