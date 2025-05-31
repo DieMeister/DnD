@@ -137,3 +137,4 @@
 | Federfell eines Eulenbäres                  | 2x2 Meter | Gegenstand           |                |
 | Lehmskulptur von Darius                     | 1         | Gegenstand           |                |
 | Artisan tools                               | 1         | Ausrüstung           |                |
+| Muskete                                     |           | Kampf                |                |
