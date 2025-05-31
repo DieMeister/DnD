@@ -382,7 +382,7 @@ Eine Region, welche immer noch im Trauern liegt, beginnt langsam mit dem Aufwach
 - Enya verbrennt das Seil
 - Kem holt Ratte aus seinem Hut
 	- hat keinen Effekt auf Enya
-- Enya schubst Kem zu r Seite um an ihre Waffe zu kommen
+- Enya schubst Kem zur Seite um an ihre Waffe zu kommen
 - Enya will sich selbst erstechen
 	- Nuriels Stimme hält Enya davon ab
 		- nur in Enyas Kopf
