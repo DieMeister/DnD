@@ -13,7 +13,8 @@ Spell Duration:
   - 8 Hours
 Spell Damage Type: 
 Spell Ritual: false
+Spell Lists:
+  - "[[../Spell Lists/Wizard Spell List|Wizard (Dunamancy)]]"
 ---
 
-You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.  
-**Spell Lists.** [Wizard (Dunamancy)](Wizard)
+You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.

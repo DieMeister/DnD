@@ -16,4 +16,4 @@ you fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 | 3   | Each creature in the cube must succeed on a Wisdom saving throw or begin giggling until the start of your next turn. A giggling creature is incapacitated and uses all its movement to move in a random direction. |
 | 4   | Drops of molasses appear and hover in the cube, turning it into difficult terrain until the start of your next turn.                                                                                               |
 
-**Spell Lists.** [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [[Sorcerer]], [[Wizard]]
+**Spell Lists.** [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [Sorcerer](../Spell%20Lists/Sorcerer%20Spell%20List.md), [Wizard](../Spell%20Lists/Wizard%20Spell%20List.md)

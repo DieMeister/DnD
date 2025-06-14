@@ -9,4 +9,4 @@ Each time a creature targets you with an attack during the spell's duration, rol
 If you have three duplicates, you must roll a 6 or higher to change the attack's target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.  
 A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.  
 A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.  
-**Spell Lists.** [Bard (Optional)](../Spell%20Lists/Bard%20Spell%20List.md), [[Sorcerer]], [[Warlock]], [[Wizard]]
+**Spell Lists.** [Bard (Optional)](../Spell%20Lists/Bard%20Spell%20List.md), [Sorcerer](../Spell%20Lists/Sorcerer%20Spell%20List.md), [Warlock](../Spell%20Lists/Warlock%20Spell%20List.md), [Wizard](../Spell%20Lists/Wizard%20Spell%20List.md)

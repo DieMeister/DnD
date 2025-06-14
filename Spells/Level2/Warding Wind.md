@@ -12,4 +12,4 @@ The wind has the following effects:
 - The attack rolls of ranged weapon attacks have disadvantage if they pass in or out the wind.
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.  
 
-**Spell Lists.** [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [[Druid]], [[Sorcerer]], [[Wizard]]
+**Spell Lists.** [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [Druid](../Spell%20Lists/Druid%20Spell%20List.md), [Sorcerer](../Spell%20Lists/Sorcerer%20Spell%20List.md), [Wizard](../Spell%20Lists/Wizard%20Spell%20List.md)

@@ -9,12 +9,18 @@ Spell Components:
   - Somatic
 Spell Duration:
   - Instantaneous
-Spell Damage Type: Poison
+Spell Damage Type:
+  - Poison
 Spell Source:
   - Player's Handbook
 Spell Ritual: false
+Spell Lists:
+  - "[[../Spell Lists/Artificer Spell List|Artificer]]"
+  - "[[../Spell Lists/Druid Spell List|Druid]]"
+  - "[[../Spell Lists/Sorcerer Spell List|Sorcerer]]"
+  - "[[../Spell Lists/Warlock Spell List|Warlock]]"
+  - "[[../Spell Lists/Wizard Spell List|Wizard]]"
 ---
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.  
-**At Higher Levels.** This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).  
-**Spell Lists.** [Artificer](Artificer), [Druid](Druid), [Sorcerer](Sorcerer), [Warlock](Warlock), [Wizard](Wizard)
+**At Higher Levels.** This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).

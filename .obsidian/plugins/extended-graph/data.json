@@ -6,7 +6,11 @@
       "unselected": [],
       "noneType": "none",
       "showOnGraph": true,
-      "enableByDefault": true
+      "enableByDefault": true,
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      }
     },
     "link": {
       "colormap": "rainbow",
@@ -14,7 +18,11 @@
       "unselected": [],
       "noneType": "none",
       "showOnGraph": true,
-      "enableByDefault": true
+      "enableByDefault": true,
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      }
     },
     "folder": {
       "colormap": "winter",
@@ -22,13 +30,16 @@
       "unselected": [],
       "noneType": ".",
       "showOnGraph": true,
-      "enableByDefault": false
+      "enableByDefault": false,
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      }
     }
   },
   "additionalProperties": {},
   "backupGraphOptions": {
     "collapse-filter": true,
-    "search": "path:BuriedBeneathGraves -file:\"Session 0\" -file:ToDo -file:Introduction -path:Sessions/Summaries -path:\"irl People\" -file:README -file:Notes -file:Ideas -file:Timeline -file:Names -path:Timelines",
     "showTags": true,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -36,70 +47,84 @@
     "collapse-color-groups": true,
     "colorGroups": [
       {
-        "query": "path:Believes",
+        "query": "path:\"Spells/Spell Lists\"  ",
         "color": {
           "a": 1,
-          "rgb": 65535
+          "rgb": 14701138
         }
       },
       {
-        "query": "path:Creatures",
+        "query": "path:Spells/Level1  ",
         "color": {
           "a": 1,
-          "rgb": 6941791
+          "rgb": 16740897
         }
       },
       {
-        "query": "path:Events",
+        "query": "path:Spells/Level2  ",
         "color": {
           "a": 1,
-          "rgb": 16767232
+          "rgb": 15785226
         }
       },
       {
-        "query": "path:Items",
+        "query": "path:Spells/Level3  ",
         "color": {
           "a": 1,
-          "rgb": 2117632
+          "rgb": 5435402
         }
       },
       {
-        "query": "path:Locations",
+        "query": "path:Spells/Level4  ",
         "color": {
           "a": 1,
-          "rgb": 16752640
+          "rgb": 716894
         }
       },
       {
-        "query": "path:NPCs",
+        "query": "path:Spells/Level5  ",
         "color": {
           "a": 1,
-          "rgb": 255
+          "rgb": 717009
         }
       },
       {
-        "query": "path:Party",
+        "query": "path:Spells/Level6  ",
         "color": {
           "a": 1,
-          "rgb": 8388863
+          "rgb": 693488
         }
       },
       {
-        "query": "path:Ranks",
+        "query": "path:Spells/Level7  ",
         "color": {
           "a": 1,
-          "rgb": 28159
+          "rgb": 659952
         }
       },
       {
-        "query": "path:Sessions",
+        "query": "path:Spells/Level8  ",
         "color": {
           "a": 1,
-          "rgb": 16711680
+          "rgb": 8915696
+        }
+      },
+      {
+        "query": "path:Spells/Level9  ",
+        "color": {
+          "a": 1,
+          "rgb": 15207152
+        }
+      },
+      {
+        "query": "path:Spells/Cantrips  ",
+        "color": {
+          "a": 1,
+          "rgb": 15731298
         }
       }
     ],
-    "collapse-display": false,
+    "collapse-display": true,
     "showArrow": false,
     "textFadeMultiplier": -2,
     "nodeSizeMultiplier": 1,
@@ -109,7 +134,7 @@
     "repelStrength": 10,
     "linkStrength": 1,
     "linkDistance": 250,
-    "scale": 0.3176680582062907,
+    "scale": 0.3176680582062909,
     "close": true
   },
   "states": [
@@ -144,11 +169,9 @@
     }
   ],
   "startingStateID": "default-vault",
-  "imageProperty": "image",
   "borderFactor": 0.06,
   "allowExternalImages": false,
   "allowExternalLocalImages": false,
-  "nodesSizeProperty": "",
   "nodesSizeFunction": "default",
   "nodesColorColormap": "YlOrRd",
   "nodesColorFunction": "default",
@@ -165,19 +188,17 @@
       "properties": false,
       "property-key": true,
       "links": false,
-      "curvedLinks": false,
       "folders": false,
       "imagesFromProperty": false,
       "imagesFromEmbeds": false,
       "imagesForAttachments": false,
       "focus": true,
       "shapes": false,
-      "source": false,
-      "target": false,
       "elements-stats": true,
       "names": false,
       "icons": false,
-      "arrows": false
+      "arrows": false,
+      "linksSameColorAsNode": false
     },
     "localgraph": {
       "auto-enabled": false,
@@ -185,19 +206,17 @@
       "properties": false,
       "property-key": true,
       "links": true,
-      "curvedLinks": false,
       "folders": false,
       "imagesFromProperty": true,
       "imagesFromEmbeds": false,
       "imagesForAttachments": false,
       "focus": false,
       "shapes": true,
-      "source": false,
-      "target": false,
       "elements-stats": true,
       "names": false,
       "icons": false,
-      "arrows": false
+      "arrows": false,
+      "linksSameColorAsNode": false
     }
   },
   "shapeQueries": {
@@ -288,19 +307,67 @@
   "numberOfCharacters": null,
   "showOnlyFileName": false,
   "noExtension": false,
-  "usePropertyForName": null,
   "addBackgroundToName": false,
   "nameVerticalOffset": 0,
-  "iconProperty": "",
   "usePluginForIcon": true,
   "usePluginForIconColor": true,
   "useParentIcon": false,
   "collapseState": true,
   "collapseLegend": true,
-  "linksSameColorAsNode": false,
   "excludedSourcesFolder": [],
   "excludedTargetsFolder": [],
-  "opaqueArrows": false,
   "dynamicVerticalOffset": false,
-  "useInterfaceFont": true
+  "curvedLinks": false,
+  "disableSource": false,
+  "disableTarget": false,
+  "iconProperties": [
+    ""
+  ],
+  "nodesSizeProperties": [
+    ""
+  ],
+  "imageProperties": [
+    "image"
+  ],
+  "usePropertiesForName": [],
+  "openInNewTab": false,
+  "invertNodeStats": false,
+  "revertAction": false,
+  "enableCSS": false,
+  "cssSnippetFilename": "",
+  "spreadArcs": false,
+  "weightArcs": false,
+  "animateDotsOnLinks": false,
+  "animationSpeedForDots": 1,
+  "allowMultipleLinkTypes": false,
+  "outlineLinks": false,
+  "folderShowFullPath": true,
+  "opaqueArrowsButKeepFading": false,
+  "alwaysOpaqueArrows": false,
+  "arrowScale": 1,
+  "arrowFixedSize": false,
+  "arrowColorBool": false,
+  "arrowColor": "",
+  "showNamesWhenNeighborHighlighted": false,
+  "horizontalLegend": false,
+  "useRadialMenu": false,
+  "resetAfterChanges": false,
+  "collapsedSettings": {
+    "automation": true,
+    "tags": true,
+    "properties": true,
+    "links": true,
+    "arrows": true,
+    "folders": true,
+    "images": true,
+    "icons": true,
+    "focus": true,
+    "shapes": true,
+    "elements-stats": true,
+    "names": true,
+    "zoom": true,
+    "display": true,
+    "performances": true,
+    "beta": true
+  }
 }

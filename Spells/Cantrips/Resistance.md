@@ -14,8 +14,11 @@ Spell Damage Type:
 Spell Source:
   - Player's Handbook
 Spell Ritual: false
+Spell Lists:
+  - "[[../Spell Lists/Artificer Spell List|Artificer]]"
+  - "[[../Spell Lists/Cleric Spell List|Cleric]]"
+  - "[[../Spell Lists/Druid Spell List|Druid]]"
 ---
 
 **Material Component:** a miniature cloak  
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. the spell ends then.  
-**Spell Lists.** [Artificer](Artificer), [Cleric](Cleric), [Druid](Druid)
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. the spell ends then.

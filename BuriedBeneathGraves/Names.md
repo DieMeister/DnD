@@ -4,9 +4,11 @@
 - Arrek
 - [Artiniqua](Items/Artiniqua.md)
 - Avyth
+- Caiviran
 - Cethem
 - [Changeling](./Creatures/Changeling.md)
 - [Darius Työkalu](./Party/Darius%20Työkalu.md)
+- [Elvian Vythe](NPCs/Elvian%20Vythe.md)
 - [Enya Stratis](Party/Enya%20Stratis.md)
 - [Esther](Assemblies/Believes/Esther.md)
 - [Fabel](./NPCs/Fabel.md)

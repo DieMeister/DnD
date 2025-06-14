@@ -261,6 +261,16 @@
       "id": "klFU8WASshdaKwgkwNge8",
       "name": "12/12",
       "value": "#ff0000"
+    },
+    {
+      "id": "CqmPVjZhSlVLhPPRT2jE3",
+      "name": "1/2",
+      "value": "#00fff7"
+    },
+    {
+      "id": "OHex_5WLfQbrVWdyWce7E",
+      "name": "2/2",
+      "value": "#ff0000"
     }
   ],
   "fileColors": [
@@ -507,6 +517,14 @@
     {
       "path": "BuriedBeneathGraves/Party/Thayssa.md",
       "color": "XV2kcIdxprpTGudmYUAox"
+    },
+    {
+      "path": "BuriedBeneathGraves/Assemblies/Believes",
+      "color": "CqmPVjZhSlVLhPPRT2jE3"
+    },
+    {
+      "path": "BuriedBeneathGraves/Assemblies/Trupp Rabe.md",
+      "color": "OHex_5WLfQbrVWdyWce7E"
     }
   ]
 }

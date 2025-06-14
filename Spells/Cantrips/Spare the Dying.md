@@ -13,7 +13,9 @@ Spell Damage Type:
 Spell Source:
   - Player's Handbook
 Spell Ritual: false
+Spell Lists:
+  - "[[../Spell Lists/Artificer Spell List|Artificer]]"
+  - "[[../Spell Lists/Cleric Spell List|Cleric]]"
 ---
 
-You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructions.  
-**Spell Lists.** [Artificer](Artificer), [Cleric](Cleric)
+You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructions.

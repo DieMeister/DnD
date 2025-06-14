@@ -18,7 +18,7 @@
     },
     {
       "keyword": "NOTSURE",
-      "color": "#1e1e1e",
+      "color": "#000000",
       "backgroundColor": "#ffb54d",
       "fontModifiers": [],
       "showColor": true,

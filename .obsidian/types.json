@@ -15,6 +15,7 @@
     "Spell Damage Type": "multitext",
     "tl-event-start": "text",
     "Autor": "multitext",
-    "Empfänger": "multitext"
+    "Empfänger": "multitext",
+    "Spell Lists": "multitext"
   }
 }

@@ -42,6 +42,11 @@
 - [ ] Session 8
 	- [x] cut
 	- [x] get information
+	- [x] summarize
+	- [ ] add links to summary
+- [ ] Session 9
+	- [ ] cut (00:11:45 / 02:33:39 - 7.65%)
+	- [ ] get information
 	- [ ] summarize
 	- [ ] add links to summary
 # DnD
@@ -63,7 +68,7 @@
 - [ ] add Classes
 - [ ] add Spells
 	- [x] Cantrips
-	- [ ] Level 1 (48/90 - 53% )
+	- [ ] Level 1 (61/90 - 68% )
 	- [ ] Level 2
 	- [ ] Level 3
 	- [ ] Level 4
@@ -75,14 +80,84 @@
 - [ ] add Spell Lists
 	- [x] all Spells
 	- [ ] Artificer
-	- [ ] Bard
+		- [x] Cantrips
+		- [ ] Level 1
+		- [ ] Level 2
+		- [ ] Level 3
+		- [ ] Level 4
+		- [ ] Level 5
+		- [ ] Level 6
+		- [ ] Level 7
+		- [ ] Level 8
+		- [ ] Level 9
+	- [x] Bard
 	- [ ] Cleric
+		- [x] Cantrips
+		- [ ] Level 1
+		- [ ] Level 2
+		- [ ] Level 3
+		- [ ] Level 4
+		- [ ] Level 5
+		- [ ] Level 6
+		- [ ] Level 7
+		- [ ] Level 8
+		- [ ] Level 9
 	- [ ] Druid
+		- [x] Cantrips
+		- [ ] Level 1
+		- [ ] Level 2
+		- [ ] Level 3
+		- [ ] Level 4
+		- [ ] Level 5
+		- [ ] Level 6
+		- [ ] Level 7
+		- [ ] Level 8
+		- [ ] Level 9
 	- [ ] Paladin
+		- [ ] Level 1
+		- [ ] Level 2
+		- [ ] Level 3
+		- [ ] Level 4
+		- [ ] Level 5
 	- [ ] Ranger
+		- [ ] Level 1
+		- [ ] Level 2
+		- [ ] Level 3
+		- [ ] Level 4
+		- [ ] Level 5
 	- [ ] Sorcerer
+		- [x] Cantrips
+		- [ ] Level 1
+		- [ ] Level 2
+		- [ ] Level 3
+		- [ ] Level 4
+		- [ ] Level 5
+		- [ ] Level 6
+		- [ ] Level 7
+		- [ ] Level 8
+		- [ ] Level 9
 	- [ ] Warlock
+		- [x] Cantrips
+		- [ ] Level 1
+		- [ ] Level 2
+		- [ ] Level 3
+		- [ ] Level 4
+		- [ ] Level 5
+		- [ ] Level 6
+		- [ ] Level 7
+		- [ ] Level 8
+		- [ ] Level 9
 	- [ ] Wizard
+		- [x] Cantrips
+		- [ ] Level 1
+		- [ ] Level 2
+		- [ ] Level 3
+		- [ ] Level 4
+		- [ ] Level 5
+		- [ ] Level 6
+		- [ ] Level 7
+		- [ ] Level 8
+		- [ ] Level 9
 - [ ] add Races
 # Obsidian
 ## Infos

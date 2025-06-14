@@ -8,4 +8,4 @@ You suggest a course of activity (limited to a sentence or two) and magically in
 The target must make a Wisdom saving throw. On a failed save, it purses the course of action you described to the best of its ability. The suggestion course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.  
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.  
 If you or any of your companions damage the target, the spell ends.  
-**Spell Lists.** [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [[Sorcerer]], [[Warlock]], [[Wizard]]
+**Spell Lists.** [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [Sorcerer](../Spell%20Lists/Sorcerer%20Spell%20List.md), [Warlock](../Spell%20Lists/Warlock%20Spell%20List.md), [Wizard](../Spell%20Lists/Wizard%20Spell%20List.md)

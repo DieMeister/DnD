@@ -73,7 +73,6 @@
 - Maenads
 	- Prostituierte auch Poeten
 - Diota
-	- 
 # Siath
 - Existenz in 3 Bereiche
 	- Vegetativ

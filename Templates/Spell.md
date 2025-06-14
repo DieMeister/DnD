@@ -1,5 +1,5 @@
 ---
-Spell Source:
+Spell Source: 
 Spell School: 
 Spell Level: 
 Spell Casting Time: 
@@ -9,10 +9,10 @@ Spell Components:
 Spell Duration: 
 Spell Damage Type: 
 Spell Ritual: false
+Spell Lists:
 ---
 
 **Reaction Note:** 
 **Material Component:** 
 
 **At Higher Levels.** 
-**Spell Lists.** 

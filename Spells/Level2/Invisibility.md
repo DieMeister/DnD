@@ -6,4 +6,4 @@ Source: Player's Handbook
 **Duration:** Concentration, up to 1 hour  
 A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.  
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.  
-**Spell Lists.** [[Artificer]], [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [[Sorcerer]], [[Warlock]], [[Wizard]]
+**Spell Lists.** [Artificer](../Spell%20Lists/Artificer%20Spell%20List.md), [Bard](../Spell%20Lists/Bard%20Spell%20List.md), [Sorcerer](../Spell%20Lists/Sorcerer%20Spell%20List.md), [Warlock](../Spell%20Lists/Warlock%20Spell%20List.md), [Wizard](../Spell%20Lists/Wizard%20Spell%20List.md)

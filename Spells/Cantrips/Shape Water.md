@@ -13,6 +13,10 @@ Spell Damage Type:
 Spell Source:
   - Xanathar's Guide to Everything
 Spell Ritual: false
+Spell Lists:
+  - "[[../Spell Lists/Druid Spell List|Druid]]"
+  - "[[../Spell Lists/Sorcerer Spell List|Sorcerer]]"
+  - "[[../Spell Lists/Wizard Spell List|Wizard]]"
 ---
 
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
@@ -20,5 +24,4 @@ You choose an area of water that you can see within range and that fits within a
 - You cause the water to form into simple shapes and animate at your direction. this change lasts for 1 hour.
 - You can change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
 - You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.  
-**Spell Lists.** [Druid](Druid), [Sorcerer](Sorcerer), [Wizard](Wizard)
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.

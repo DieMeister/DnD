@@ -13,7 +13,8 @@ Spell Duration:
   - Concentration (1 Minute)
 Spell Damage Type: 
 Spell Ritual: false
+Spell Lists:
+  - "[[../Spell Lists/Paladin Spell List|Paladin]]"
 ---
 
-Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.  
-**Spell Lists.** [Paladin](Paladin)
+Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.

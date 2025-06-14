@@ -6,10 +6,12 @@
       "path": "BuriedBeneathGraves/ToDo.md"
     },
     null,
+    null,
+    null,
     null
   ],
   "settings": {
-    "splitDirection": "horizontal",
+    "splitDirection": "vertical",
     "nodeMinHeight": 16,
     "lineHeight": "1em",
     "spacingVertical": 5,
@@ -34,6 +36,6 @@
     "screenshotTextColor": "#fdf6e3",
     "screenshotTextColorEnabled": false,
     "titleAsRootNode": true,
-    "useThemeFont": false
+    "useThemeFont": true
   }
 }
