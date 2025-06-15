@@ -1,0 +1,373 @@
+{
+  "interactiveSettings": {
+    "tag": {
+      "colormap": "hsv",
+      "colors": [],
+      "unselected": [],
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true,
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      }
+    },
+    "link": {
+      "colormap": "rainbow",
+      "colors": [],
+      "unselected": [],
+      "noneType": "none",
+      "showOnGraph": true,
+      "enableByDefault": true,
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      }
+    },
+    "folder": {
+      "colormap": "winter",
+      "colors": [],
+      "unselected": [],
+      "noneType": ".",
+      "showOnGraph": true,
+      "enableByDefault": false,
+      "excludeRegex": {
+        "regex": "",
+        "flags": ""
+      }
+    }
+  },
+  "additionalProperties": {},
+  "backupGraphOptions": {
+    "collapse-filter": true,
+    "showTags": true,
+    "showAttachments": false,
+    "hideUnresolved": false,
+    "showOrphans": true,
+    "collapse-color-groups": true,
+    "colorGroups": [
+      {
+        "query": "path:\"Spells/Spell Lists\"  ",
+        "color": {
+          "a": 1,
+          "rgb": 14701138
+        }
+      },
+      {
+        "query": "path:Spells/Level1  ",
+        "color": {
+          "a": 1,
+          "rgb": 16740897
+        }
+      },
+      {
+        "query": "path:Spells/Level2  ",
+        "color": {
+          "a": 1,
+          "rgb": 15785226
+        }
+      },
+      {
+        "query": "path:Spells/Level3  ",
+        "color": {
+          "a": 1,
+          "rgb": 5435402
+        }
+      },
+      {
+        "query": "path:Spells/Level4  ",
+        "color": {
+          "a": 1,
+          "rgb": 716894
+        }
+      },
+      {
+        "query": "path:Spells/Level5  ",
+        "color": {
+          "a": 1,
+          "rgb": 717009
+        }
+      },
+      {
+        "query": "path:Spells/Level6  ",
+        "color": {
+          "a": 1,
+          "rgb": 693488
+        }
+      },
+      {
+        "query": "path:Spells/Level7  ",
+        "color": {
+          "a": 1,
+          "rgb": 659952
+        }
+      },
+      {
+        "query": "path:Spells/Level8  ",
+        "color": {
+          "a": 1,
+          "rgb": 8915696
+        }
+      },
+      {
+        "query": "path:Spells/Level9  ",
+        "color": {
+          "a": 1,
+          "rgb": 15207152
+        }
+      },
+      {
+        "query": "path:Spells/Cantrips  ",
+        "color": {
+          "a": 1,
+          "rgb": 15731298
+        }
+      }
+    ],
+    "collapse-display": true,
+    "showArrow": false,
+    "textFadeMultiplier": -2,
+    "nodeSizeMultiplier": 1,
+    "lineSizeMultiplier": 1,
+    "collapse-forces": true,
+    "centerStrength": 0.518713248970312,
+    "repelStrength": 10,
+    "linkStrength": 1,
+    "linkDistance": 250,
+    "scale": 0.3176680582062909,
+    "close": true
+  },
+  "states": [
+    {
+      "id": "default-vault",
+      "name": "Vault (default)",
+      "engineOptions": {
+        "colorGroups": [],
+        "hideUnresolved": false,
+        "showAttachments": false,
+        "showOrphans": true,
+        "showTags": false,
+        "localBacklinks": true,
+        "localForelinks": true,
+        "localInterlinks": false,
+        "localJumps": 1,
+        "lineSizeMultiplier": 1,
+        "nodeSizeMultiplier": 1,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "centerStrength": 0.5187132489703118,
+        "linkDistance": 250,
+        "linkStrength": 1,
+        "repelStrength": 10
+      },
+      "toggleTypes": {
+        "tag": [],
+        "link": [],
+        "folder": []
+      },
+      "pinNodes": {}
+    }
+  ],
+  "startingStateID": "default-vault",
+  "borderFactor": 0.06,
+  "allowExternalImages": false,
+  "allowExternalLocalImages": false,
+  "nodesSizeFunction": "default",
+  "nodesColorColormap": "YlOrRd",
+  "nodesColorFunction": "default",
+  "linksSizeFunction": "default",
+  "linksColorColormap": "YlOrRd",
+  "linksColorFunction": "default",
+  "zoomFactor": 2,
+  "maxNodes": 1000,
+  "delay": 500,
+  "enableFeatures": {
+    "graph": {
+      "auto-enabled": false,
+      "tags": false,
+      "properties": false,
+      "property-key": true,
+      "links": false,
+      "folders": false,
+      "imagesFromProperty": false,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": true,
+      "shapes": false,
+      "elements-stats": true,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "linksSameColorAsNode": false
+    },
+    "localgraph": {
+      "auto-enabled": false,
+      "tags": true,
+      "properties": false,
+      "property-key": true,
+      "links": true,
+      "folders": false,
+      "imagesFromProperty": true,
+      "imagesFromEmbeds": false,
+      "imagesForAttachments": false,
+      "focus": false,
+      "shapes": true,
+      "elements-stats": true,
+      "names": false,
+      "icons": false,
+      "arrows": false,
+      "linksSameColorAsNode": false
+    }
+  },
+  "shapeQueries": {
+    "circle": {
+      "combinationLogic": "AND",
+      "index": 0,
+      "rules": []
+    },
+    "square": {
+      "combinationLogic": "AND",
+      "index": 1,
+      "rules": []
+    },
+    "triangle": {
+      "combinationLogic": "AND",
+      "index": 2,
+      "rules": []
+    },
+    "diamond": {
+      "combinationLogic": "AND",
+      "index": 3,
+      "rules": []
+    },
+    "pentagon": {
+      "combinationLogic": "AND",
+      "index": 4,
+      "rules": []
+    },
+    "hexagon": {
+      "combinationLogic": "AND",
+      "index": 5,
+      "rules": []
+    },
+    "octagon": {
+      "combinationLogic": "AND",
+      "index": 6,
+      "rules": []
+    },
+    "decagon": {
+      "combinationLogic": "AND",
+      "index": 7,
+      "rules": []
+    },
+    "star4": {
+      "combinationLogic": "AND",
+      "index": 8,
+      "rules": []
+    },
+    "star5": {
+      "combinationLogic": "AND",
+      "index": 9,
+      "rules": []
+    },
+    "star6": {
+      "combinationLogic": "AND",
+      "index": 10,
+      "rules": []
+    },
+    "star8": {
+      "combinationLogic": "AND",
+      "index": 11,
+      "rules": []
+    },
+    "star10": {
+      "combinationLogic": "AND",
+      "index": 12,
+      "rules": []
+    }
+  },
+  "multipleNodesData": {},
+  "exportSVGOptions": {
+    "asImage": true,
+    "onlyVisibleArea": false,
+    "showNodeNames": true,
+    "useCurvedLinks": false,
+    "useNodesShapes": false,
+    "showArcs": false,
+    "showFolders": true,
+    "useModifiedArrows": true,
+    "useModifiedNames": true,
+    "showIcons": false
+  },
+  "fadeOnDisable": false,
+  "focusScaleFactor": 1.8,
+  "borderUnresolved": "",
+  "invertArrows": false,
+  "flatArrows": false,
+  "numberOfCharacters": null,
+  "showOnlyFileName": false,
+  "noExtension": false,
+  "addBackgroundToName": false,
+  "nameVerticalOffset": 0,
+  "usePluginForIcon": true,
+  "usePluginForIconColor": true,
+  "useParentIcon": false,
+  "collapseState": true,
+  "collapseLegend": true,
+  "excludedSourcesFolder": [],
+  "excludedTargetsFolder": [],
+  "dynamicVerticalOffset": false,
+  "curvedLinks": false,
+  "disableSource": false,
+  "disableTarget": false,
+  "iconProperties": [
+    ""
+  ],
+  "nodesSizeProperties": [
+    ""
+  ],
+  "imageProperties": [
+    "image"
+  ],
+  "usePropertiesForName": [],
+  "openInNewTab": false,
+  "invertNodeStats": false,
+  "revertAction": false,
+  "enableCSS": false,
+  "cssSnippetFilename": "",
+  "spreadArcs": false,
+  "weightArcs": false,
+  "animateDotsOnLinks": false,
+  "animationSpeedForDots": 1,
+  "allowMultipleLinkTypes": false,
+  "outlineLinks": false,
+  "folderShowFullPath": true,
+  "opaqueArrowsButKeepFading": false,
+  "alwaysOpaqueArrows": false,
+  "arrowScale": 1,
+  "arrowFixedSize": false,
+  "arrowColorBool": false,
+  "arrowColor": "",
+  "showNamesWhenNeighborHighlighted": false,
+  "horizontalLegend": false,
+  "useRadialMenu": false,
+  "resetAfterChanges": false,
+  "collapsedSettings": {
+    "automation": true,
+    "tags": true,
+    "properties": true,
+    "links": true,
+    "arrows": true,
+    "folders": true,
+    "images": true,
+    "icons": true,
+    "focus": true,
+    "shapes": true,
+    "elements-stats": true,
+    "names": true,
+    "zoom": true,
+    "display": true,
+    "performances": true,
+    "beta": true
+  }
+}

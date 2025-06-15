@@ -1,0 +1,1 @@
+Der Trockenhafen ist ein Teil von [Grashk](Grashk.md). Er wurde nach der [Sintflut](../Events/die%20Sintflut.md) fast komplett zerstört, nur wenige Wege sind noch begehbar.

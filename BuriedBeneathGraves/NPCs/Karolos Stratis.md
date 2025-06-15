@@ -1,0 +1,2 @@
+Enyas Vater ist auf den [[Siath Inseln]] geboren. Diese verlässt er aber, da er den Anforderungen seiner streng gläubigen Familie nicht gerecht werden kann, obwohl er selbst auch and [Siath](../Assemblies/Believes/Siath.md) glaubt, und geht nach [Grashk](../Locations/Grashk.md). Dort lernt er seine [Frau](Klaasa%20Stratis.md) kennen und sie zeugen gemeinsam eine [Tochter](../Party/Enya%20Stratis.md). Während des [[Massaker von Grashk|Massakers von Grashk]] fliehen sie nach [Uthlin](../Locations/Uthlin.md).
+Sein Geld verdient Enyas Vater als [[Goldschmied]].

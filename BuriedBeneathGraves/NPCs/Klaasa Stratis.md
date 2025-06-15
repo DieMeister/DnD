@@ -1,0 +1,2 @@
+Enyas Mutter ist eine bodenständige [[Schneiderin]]. Sie ist eher pragmatisch als religiös.
+In [Grashk](../Locations/Grashk.md) trifft sie ihren zukünftigen [Ehemann](Karolos%20Stratis.md), wo sie auch ihre [Tochter Enya](../Party/Enya%20Stratis.md) zusammen bekommen. Kurz nach der Geburt ihrer [Tochter](../Party/Enya%20Stratis.md) müssen sie aufgrund des [[Massaker von Grashk|Massakers von Grashk]] nach [Uthlin](../Locations/Uthlin.md) fliehen.

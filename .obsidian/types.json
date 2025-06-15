@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Authors": "multitext",
+    "Sources": "multitext",
+    "anwesend": "multitext",
+    "references": "multitext",
+    "Spell Components": "multitext",
+    "Spell Level": "number",
+    "Spell Duration": "multitext",
+    "Spell Source": "multitext",
+    "Spell Ritual": "checkbox",
+    "Spell Damage Type": "multitext",
+    "tl-event-start": "text",
+    "Autor": "multitext",
+    "Empfänger": "multitext",
+    "Spell Lists": "multitext"
+  }
+}

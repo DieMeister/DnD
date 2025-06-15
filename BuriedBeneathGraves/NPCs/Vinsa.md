@@ -1,0 +1,2 @@
+Vinsa ist eine Halbelfin. Sie hat sonnengebräunte Haut und blond-graue Locken, die an der Seite abrasiert sind. Ihre Kleidung ist auf Nützlichkeit ausgelegt.  
+Vinsa ist Händlerin und Schmugglerin und  beliefert [Camp Recep](../Locations/Camp%20Recep.md). Ihr Schiff wird bei der [Sintflut](../Events/die%20Sintflut.md) zerstört. 

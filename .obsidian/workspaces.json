@@ -1,0 +1,213 @@
+{
+  "workspaces": {
+    "DnD": {
+      "main": {
+        "id": "f06e36ddc2250e43",
+        "type": "split",
+        "children": [
+          {
+            "id": "7262afe79b6c7d9f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e882ebbe72b755e",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap-nextgen-plugin",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "ToDo"
+                }
+              },
+              {
+                "id": "55d0778e5ac14b62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BuriedBeneathGraves/ToDo.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ToDo"
+                }
+              },
+              {
+                "id": "11e33a3e359efd4a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BuriedBeneathGraves/Timelines/all.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "all"
+                }
+              },
+              {
+                "id": "43825f90b01a9637",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BuriedBeneathGraves/Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Notes"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a7e1aa804051e536",
+        "type": "split",
+        "children": [
+          {
+            "id": "f8869193b8376465",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "254ddf1af3862c6e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "9fec2ac8dce385a3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "4bc45e759970ac1e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 260.5
+      },
+      "right": {
+        "id": "8e9db6c5e6514e4e",
+        "type": "split",
+        "children": [
+          {
+            "id": "84851e764bf67fd6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "127282f7909853fa",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "af06021e887a6683",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "b5436efc6598459d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ac45aea04f6be8ad",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "BuriedBeneathGraves/Notes.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Notes"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 357.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false
+        }
+      },
+      "active": "11e33a3e359efd4a",
+      "mtime": "2025-03-06T13:29:45+01:00"
+    }
+  },
+  "active": "DnD"
+}

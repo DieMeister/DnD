@@ -1,0 +1,1 @@
+Artiniqua ist hochprozentiges, alkoholisches Getränk, das besonders in [Verekir](../Locations/Verekir.md) beliebt ist.

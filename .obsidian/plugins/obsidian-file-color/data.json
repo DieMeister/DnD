@@ -1,0 +1,530 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "tuPH1nMGepMKpz0G7lLFV",
+      "name": "default",
+      "value": "#c0caea"
+    },
+    {
+      "id": "_tV1kd8seKpsyz8gkILUH",
+      "name": "1/6",
+      "value": "#ffff00"
+    },
+    {
+      "id": "tn1C10XlQ-mxkF_MjSdEL",
+      "name": "2/6",
+      "value": "#00ff00"
+    },
+    {
+      "id": "w0jUb2Th_oGkEAIpgtEyt",
+      "name": "3/6",
+      "value": "#00ffff"
+    },
+    {
+      "id": "4Q4QukoWPSVQsD6lKD6SB",
+      "name": "4/6",
+      "value": "#0000ff"
+    },
+    {
+      "id": "cXWt_aMBDNHP1hvB3uYz8",
+      "name": "5/6",
+      "value": "#ff00ff"
+    },
+    {
+      "id": "4ZcndeUyaM9hNjsEfqLYE",
+      "name": "6/6",
+      "value": "#ff0000"
+    },
+    {
+      "id": "3N8kc44T4Pw7N75TXqubF",
+      "name": "1/11",
+      "value": "#ff8c00"
+    },
+    {
+      "id": "VdgaB3e--VQgxeMwcDX0p",
+      "name": "2/11",
+      "value": "#eaff00"
+    },
+    {
+      "id": "S273M-Nz1-CwPPTlLawCy",
+      "name": "3/11",
+      "value": "#5eff00"
+    },
+    {
+      "id": "21U364zdOBr089mqhJCMY",
+      "name": "4/11",
+      "value": "#00ff2f"
+    },
+    {
+      "id": "onG88tFpJQeNACFsbWb4S",
+      "name": "5/11",
+      "value": "#00ffbb"
+    },
+    {
+      "id": "-6KqmsddjYVXCPDUEPVU7",
+      "name": "6/11",
+      "value": "#00bbff"
+    },
+    {
+      "id": "igAY-ETFKYssZ0xy3OHhJ",
+      "name": "7/11",
+      "value": "#002fff"
+    },
+    {
+      "id": "ODYHg0qo_B7c7gZm7zQ7c",
+      "name": "8/11",
+      "value": "#6200ff"
+    },
+    {
+      "id": "GtucHDiQjScuaKBBak6HO",
+      "name": "9/11",
+      "value": "#ea00ff"
+    },
+    {
+      "id": "QCo1pZXSAVcDekYMi-yXn",
+      "name": "10/11",
+      "value": "#ff008c"
+    },
+    {
+      "id": "VmVP0K86riAd3CfFk6NC5",
+      "name": "11/11",
+      "value": "#ff0000"
+    },
+    {
+      "id": "2buhLpQPm9CekgtANAxd8",
+      "name": "1/10",
+      "value": "#ff9900"
+    },
+    {
+      "id": "rxmqYXhzR80iAtq9dMNmC",
+      "name": "2/10",
+      "value": "#ccff00"
+    },
+    {
+      "id": "65oZKmceWe2pSmtU_KPib",
+      "name": "3/10",
+      "value": "#33ff00"
+    },
+    {
+      "id": "yQhC8AmxenJ2CkeyOGHQ_",
+      "name": "4/10",
+      "value": "#00ff66"
+    },
+    {
+      "id": "xoB0o7jWMBWA92OwE9n1a",
+      "name": "5/10",
+      "value": "#00ffff"
+    },
+    {
+      "id": "fZ6Ql_Hf4dHny5qtuCDvo",
+      "name": "6/10",
+      "value": "#0066ff"
+    },
+    {
+      "id": "NDtywaemFA-wSdfqbOtjx",
+      "name": "7/10",
+      "value": "#3300ff"
+    },
+    {
+      "id": "98cFNKfePS4Nyzs9fRR60",
+      "name": "8/10",
+      "value": "#cc00ff"
+    },
+    {
+      "id": "SR3ssPmXGG5-hGaCdj7g1",
+      "name": "9/10",
+      "value": "#ff0099"
+    },
+    {
+      "id": "n5zEnOfGYQjufyL4-PZFN",
+      "name": "10/10",
+      "value": "#ff0000"
+    },
+    {
+      "id": "0jecJjbNMpPpSHzgCFqTu",
+      "name": "1/4",
+      "value": "#80ff00"
+    },
+    {
+      "id": "S9qkK0KgF7k0PmllzZxdD",
+      "name": "2/4",
+      "value": "#00ffff"
+    },
+    {
+      "id": "XV2kcIdxprpTGudmYUAox",
+      "name": "3/4",
+      "value": "#8000ff"
+    },
+    {
+      "id": "ytZnXCrYdLv8HyMY7DmgO",
+      "name": "4/4",
+      "value": "#ff0000"
+    },
+    {
+      "id": "pCtjzn88KapFqzk1hIdJg",
+      "name": "1/8",
+      "value": "#ffbf00"
+    },
+    {
+      "id": "tPWEil1f1jq8FnhOF6jfG",
+      "name": "2/8",
+      "value": "#80ff00"
+    },
+    {
+      "id": "vE2Vb0ZbXb8tgGVMZmi6h",
+      "name": "3/8",
+      "value": "#00ff40"
+    },
+    {
+      "id": "4RLfmIeCZ4jNyPRKwcaKX",
+      "name": "4/8",
+      "value": "#00ffff"
+    },
+    {
+      "id": "6aOB333Z7QRudimX0hj7p",
+      "name": "5/8",
+      "value": "#0040ff"
+    },
+    {
+      "id": "Ql32qIGgeH3Xj-zO7S7E_",
+      "name": "6/8",
+      "value": "#8000ff"
+    },
+    {
+      "id": "c-B3wiNj2Lp6MgYBuUQDm",
+      "name": "7/8",
+      "value": "#ff00bf"
+    },
+    {
+      "id": "_b3ePxtmnRZjQ8xqNYGLR",
+      "name": "8/8",
+      "value": "#ff0000"
+    },
+    {
+      "id": "FDQpBh_l-xbSCfKvGj93Q",
+      "name": "1/12",
+      "value": "#ff8000"
+    },
+    {
+      "id": "ZWUZkiEraYAC7OasIm56b",
+      "name": "2/12",
+      "value": "#ffff00"
+    },
+    {
+      "id": "e8ZThoqWbYOagBcNAMqbS",
+      "name": "3/12",
+      "value": "#80ff00"
+    },
+    {
+      "id": "aOBN_Tr9u0FXWC0gPqsJ8",
+      "name": "4/12",
+      "value": "#00ff00"
+    },
+    {
+      "id": "2JMM4GhCCycXnjOrDCxbV",
+      "name": "5/12",
+      "value": "#00ff80"
+    },
+    {
+      "id": "oHheTo3QMQDFRm2bVoy3r",
+      "name": "6/12",
+      "value": "#00ffff"
+    },
+    {
+      "id": "cI06l4NAm1nV1vALS-366",
+      "name": "7/12",
+      "value": "#0080ff"
+    },
+    {
+      "id": "44sDpTrB7_L4GSNEYpYTU",
+      "name": "8/12",
+      "value": "#0000ff"
+    },
+    {
+      "id": "oY8rniwHtYF8gxUEOUc7a",
+      "name": "9/12",
+      "value": "#8000ff"
+    },
+    {
+      "id": "CUmjPSurOtW0tce45yE2s",
+      "name": "10/12",
+      "value": "#ff00ff"
+    },
+    {
+      "id": "S7DEM4HRe4J3IatovFW8d",
+      "name": "11/12",
+      "value": "#ff0080"
+    },
+    {
+      "id": "klFU8WASshdaKwgkwNge8",
+      "name": "12/12",
+      "value": "#ff0000"
+    },
+    {
+      "id": "CqmPVjZhSlVLhPPRT2jE3",
+      "name": "1/2",
+      "value": "#00fff7"
+    },
+    {
+      "id": "OHex_5WLfQbrVWdyWce7E",
+      "name": "2/2",
+      "value": "#ff0000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "BuriedBeneathGraves",
+      "color": "_tV1kd8seKpsyz8gkILUH"
+    },
+    {
+      "path": "Classes",
+      "color": "tn1C10XlQ-mxkF_MjSdEL"
+    },
+    {
+      "path": "Races",
+      "color": "4Q4QukoWPSVQsD6lKD6SB"
+    },
+    {
+      "path": "Spells",
+      "color": "cXWt_aMBDNHP1hvB3uYz8"
+    },
+    {
+      "path": "index.json",
+      "color": "4ZcndeUyaM9hNjsEfqLYE"
+    },
+    {
+      "path": "README.md",
+      "color": "4ZcndeUyaM9hNjsEfqLYE"
+    },
+    {
+      "path": "Spells/Cantrips",
+      "color": "3N8kc44T4Pw7N75TXqubF"
+    },
+    {
+      "path": "Spells/Level1",
+      "color": "VdgaB3e--VQgxeMwcDX0p"
+    },
+    {
+      "path": "Spells/Level2",
+      "color": "S273M-Nz1-CwPPTlLawCy"
+    },
+    {
+      "path": "Spells/Level3",
+      "color": "21U364zdOBr089mqhJCMY"
+    },
+    {
+      "path": "Spells/Level4",
+      "color": "onG88tFpJQeNACFsbWb4S"
+    },
+    {
+      "path": "Spells/Level5",
+      "color": "-6KqmsddjYVXCPDUEPVU7"
+    },
+    {
+      "path": "Spells/Level6",
+      "color": "igAY-ETFKYssZ0xy3OHhJ"
+    },
+    {
+      "path": "Spells/Level7",
+      "color": "ODYHg0qo_B7c7gZm7zQ7c"
+    },
+    {
+      "path": "Spells/Level8",
+      "color": "GtucHDiQjScuaKBBak6HO"
+    },
+    {
+      "path": "Spells/Level9",
+      "color": "QCo1pZXSAVcDekYMi-yXn"
+    },
+    {
+      "path": "Spells/Spell Lists",
+      "color": "VmVP0K86riAd3CfFk6NC5"
+    },
+    {
+      "path": "BuriedBeneathGraves/Pictures",
+      "color": "tuPH1nMGepMKpz0G7lLFV"
+    },
+    {
+      "path": "BuriedBeneathGraves/Timelines",
+      "color": "klFU8WASshdaKwgkwNge8"
+    },
+    {
+      "path": "BuriedBeneathGraves/character_sheet.json",
+      "color": "tuPH1nMGepMKpz0G7lLFV"
+    },
+    {
+      "path": "BuriedBeneathGraves/Audio",
+      "color": "tuPH1nMGepMKpz0G7lLFV"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/Darius Työkalu.md",
+      "color": "S9qkK0KgF7k0PmllzZxdD"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/Kem.md",
+      "color": "ytZnXCrYdLv8HyMY7DmgO"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/CharacterSheets/Darius Työkalu.md",
+      "color": "S9qkK0KgF7k0PmllzZxdD"
+    },
+    {
+      "path": "Items",
+      "color": "w0jUb2Th_oGkEAIpgtEyt"
+    },
+    {
+      "path": "BuriedBeneathGraves/Assemblies",
+      "color": "FDQpBh_l-xbSCfKvGj93Q"
+    },
+    {
+      "path": "BuriedBeneathGraves/Creatures",
+      "color": "ZWUZkiEraYAC7OasIm56b"
+    },
+    {
+      "path": "BuriedBeneathGraves/Events",
+      "color": "aOBN_Tr9u0FXWC0gPqsJ8"
+    },
+    {
+      "path": "BuriedBeneathGraves/Items",
+      "color": "2JMM4GhCCycXnjOrDCxbV"
+    },
+    {
+      "path": "BuriedBeneathGraves/Locations",
+      "color": "oHheTo3QMQDFRm2bVoy3r"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs",
+      "color": "cI06l4NAm1nV1vALS-366"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party",
+      "color": "44sDpTrB7_L4GSNEYpYTU"
+    },
+    {
+      "path": "BuriedBeneathGraves/Processes",
+      "color": "oY8rniwHtYF8gxUEOUc7a"
+    },
+    {
+      "path": "BuriedBeneathGraves/Ranks",
+      "color": "CUmjPSurOtW0tce45yE2s"
+    },
+    {
+      "path": "BuriedBeneathGraves/Sessions",
+      "color": "S7DEM4HRe4J3IatovFW8d"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/4 - Status.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/5.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/6.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/7.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/32 - Schlüssel.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/79.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/80.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/93 - Eule.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/177 - Bursche.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/212 - Stützig.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Klaasa Stratis.md",
+      "color": "XV2kcIdxprpTGudmYUAox"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Karolos Stratis.md",
+      "color": "XV2kcIdxprpTGudmYUAox"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Fabel.md",
+      "color": "S9qkK0KgF7k0PmllzZxdD"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Grygur Sorthan.md",
+      "color": "S9qkK0KgF7k0PmllzZxdD"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Siiri Työkalu.md",
+      "color": "S9qkK0KgF7k0PmllzZxdD"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Enrique Työkalu.md",
+      "color": "S9qkK0KgF7k0PmllzZxdD"
+    },
+    {
+      "path": "BuriedBeneathGraves/Sessions/001 Gestohlenes Blut.md",
+      "color": "pCtjzn88KapFqzk1hIdJg"
+    },
+    {
+      "path": "BuriedBeneathGraves/Sessions/004 Auferstanden.md",
+      "color": "4RLfmIeCZ4jNyPRKwcaKX"
+    },
+    {
+      "path": "BuriedBeneathGraves/Sessions/005 Gebrochen und Geborgen.md",
+      "color": "6aOB333Z7QRudimX0hj7p"
+    },
+    {
+      "path": "BuriedBeneathGraves/Audio/Transcripts/session_004_cut.mp3",
+      "color": "4RLfmIeCZ4jNyPRKwcaKX"
+    },
+    {
+      "path": "BuriedBeneathGraves/Audio/Transcripts/session_005_cut.mp3",
+      "color": "6aOB333Z7QRudimX0hj7p"
+    },
+    {
+      "path": "BuriedBeneathGraves/Audio/Transcripts/session_006_cut.mp3",
+      "color": "Ql32qIGgeH3Xj-zO7S7E_"
+    },
+    {
+      "path": "BuriedBeneathGraves/Documents",
+      "color": "e8ZThoqWbYOagBcNAMqbS"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Rechner.md",
+      "color": "0jecJjbNMpPpSHzgCFqTu"
+    },
+    {
+      "path": "BuriedBeneathGraves/NPCs/Lorela Työkalu.md",
+      "color": "S9qkK0KgF7k0PmllzZxdD"
+    },
+    {
+      "path": "BuriedBeneathGraves/Party/Thayssa.md",
+      "color": "XV2kcIdxprpTGudmYUAox"
+    },
+    {
+      "path": "BuriedBeneathGraves/Assemblies/Believes",
+      "color": "CqmPVjZhSlVLhPPRT2jE3"
+    },
+    {
+      "path": "BuriedBeneathGraves/Assemblies/Trupp Rabe.md",
+      "color": "OHex_5WLfQbrVWdyWce7E"
+    }
+  ]
+}

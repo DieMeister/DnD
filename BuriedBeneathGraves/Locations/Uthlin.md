@@ -1,0 +1,1 @@
+Uthlin ist die von [[Meluzan]] am weitesten entfernteste [[Stadt]], welche noch zum Reich gehört. Dadurch ist der [[Hafen]] wirtschaftlich eher unbedeutend und hat vor allem für [[Schmuggler]] einen hohen Wert.

@@ -1,0 +1,1 @@
+[Darius](../Party/Darius%20Työkalu.md) benutzt sein Sketch Book für alle möglichen Notizen und Sketche, er schreibt aber auch seine [Ideologie](../Party/Darius%20Työkalu.md#Ideologie) hinein und benutzt es um Zauber auszuführen. Das Sketch Book selbst ist aber ein ganz normales Buch.

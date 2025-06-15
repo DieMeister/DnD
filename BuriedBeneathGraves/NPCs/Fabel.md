@@ -1,0 +1,1 @@
+Fabel ist ein rotes [[Eichhörnchen]]. Er und [Darius](../Party/Darius%20Työkalu.md) haben sich in der Nähe [Verekirs](../Locations/Verekir.md) getroffen, einen besonderen Grund, warum Fabel [Darius](../Party/Darius%20Työkalu.md) begleitet gibt es nicht. Fabel verbringt die meiste Zeit in Darius' [[Tasche]] oder auf seiner Schulter und schläft.

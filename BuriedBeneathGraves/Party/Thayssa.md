@@ -1,0 +1,1 @@
+[Thayssa](Thayssa.md) ist eine etwa 200 Jahre alte Elfe. Während der Expansion war sie Soldatin, jetzt ist sie die Besitzerin des Weinguts [Alkalie](../Locations/Alkalie.md), dass ihr seit dem Tod ihrer Frau [Ipomea](../NPCs/Ipomea.md) alleine gehört.

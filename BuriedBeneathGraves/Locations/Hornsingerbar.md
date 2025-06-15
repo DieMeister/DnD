@@ -1,0 +1,1 @@
+Die Hornsingerbar war eine Bar im [[Trockenhafen]]. Sie wurde während [der Sintflut](../Events/die%20Sintflut.md) komplett zerstört.

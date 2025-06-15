@@ -1,0 +1,1 @@
+Enrique ist ein Bildhauer in [Verekir](../Locations/Verekir.md). Er ist dem System grundsätzlich positiv eingestellt, da er damit einen angenehmen Lebensstil für sich, seine inzwischen verstorbene [Frau](./Siiri%20Työkalu.md) und seine zwei Kinder [Lorela](Lorela%20Työkalu.md) und [Darius](../Party/Darius%20Työkalu.md) finanzieren kann.

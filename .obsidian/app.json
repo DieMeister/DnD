@@ -1,0 +1,9 @@
+{
+  "readableLineLength": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
+}

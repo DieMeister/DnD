@@ -1,0 +1,2 @@
+
+Mit Akeldama als entscheidenden Kamp, bei dem auch [[Askarash]] gefallen ist, endet der [Blutskrieg](./Blutskrieg) im Ynkayttz 027nA. Das hinterlassene Schlachtfeld hat ein Ausmaß, dass es fast unmöglich ist, dieses aufzuräumen und die Versuche, dies zu tun, nur einen kaum merklichen Effekt hatten. Deshalb, und weil Akeldama sowohl das Ereignis, als auch den Ort beschreibt, wird der Ort auch häufig als [[Fields of Blood]] bezeichnet.

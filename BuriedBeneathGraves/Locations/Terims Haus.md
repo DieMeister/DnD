@@ -1,0 +1,1 @@
+Aufgrund [Terims](../NPCs/Terim.md) hoher Schulden gehört das Haus [Rechner](../NPCs/Rechner.md). Die Hintertür wurde von [Enya Stratis](../Party/Enya%20Stratis.md) zerstört. 

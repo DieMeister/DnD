@@ -1,0 +1,2 @@
+Anhänger [[Tzekkrah|Tzekkrahs]] sehen im Leichenmarsch die Manifestation von [[Tzekkrah|Tzekkrahs]] Kräften.  
+Beim Leichenmarsch wird gestorbenen Lebewesen das Blut entzogen und diese dürfen nicht sterben sondern müssen dem Anführer des Leichenmarsches dienen.

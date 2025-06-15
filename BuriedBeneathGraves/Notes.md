@@ -1,0 +1,593 @@
+- 1 seite vom hexagon = 1 woche auf befestigter straße
+- Todesritus = Wiederbelebung
+# Verekir
+
+- Reb-Geschichte = Reb-Gleichnis
+	- Caiviran macht unfruchtbaren Boden fruchtbar
+	- Caiviran sticht Stab in Boden
+		- auf dem Berg Präedize
+		- Weinrebe wächst aus dem Boden
+			- jetzt Tempel um Weinrebe
+		- Weingüter werden gegründet
+		- kurz darauf Weingüter zerstört
+			- unklar warum
+- Klassen
+	- Gomorrah
+		- sehr alt
+			- sieht nicht so aus
+		- lebt im Tempel
+		- Machthaberin Verekirs
+		- Luxus & Kunst > Extase
+		- Museum, Akademie & Theater werden subventioniert
+		- mächtig
+			- könnte es mit Vythe aufnehmen
+	- Herrscher
+		- Herrschaft sehr intransparent
+		- stehen quasi über Gesetzten
+		- verschiedene Gruppen
+			- stellen je einen Tänzer für Akephalos
+				- Ritual des Tanzes
+	- Künstler
+	- Winzer
+	- Arbeiter
+	- Zaunreiter
+		- leben außerhalb
+		- besetzen 1-2 Berge
+- Hügel
+	- werden durch Brücken verbunden
+- Party geschehen
+	- viele Clubs und Bars
+	- Klassen voneinander getrennt
+- oben auf Bergen leben reichere
+	- je niedriger die Schicht desto tiefer am Berg
+	- Brücken sind oben und mitte-oben angebracht
+- Weingüter etwas außerhalb
+- ein großes Theater
+	- mehrere kleinere, nicht staatlich
+- Rayna
+	- "Königin"
+	- Personenkult um sich
+	- Tänzerin
+
+# Caiviran
+- Person und Religion
+- Körper ist Gefängnis und Geschenk
+	- obwohl Gefängnis Möglichkeit zu existieren
+- jedes Lebewesen ist egoistisch
+	- grundlegende Selbstüberschätzung
+- eigene Existenz ist unwichtig
+	- Gesellschaft und Verstand führen zu Selbstüberschätzung und Unterdrückung der eigenen Triebe
+- Aufgabe von Geist und Körper
+	- komplette Hingabe den "tierischen" Trieben
+	- Zustand von Extase als Erleuchtung
+		- wird erreicht durch
+			- Drogen
+			- Sex
+- Extase führt zu reinem Zustand des Selbst
+	- Bei erreichen des Zustands Kannibalismus durch andere Anhänger
+		- Laut Erzählung trinkt Sodom Wein gemischt mit Caivirans Blut
+			- Caiviran nicht tot, hat nur geblutet
+			- erlangt Zustand der Extase
+			- wird aufgegessen in Höhle des Sodom
+				- Sodom stirbt vor Caiviran
+- Maenads
+	- Prostituierte auch Poeten
+- Diota
+# Siath
+- Existenz in 3 Bereiche
+	- Vegetativ
+		- Pflanzlich & Mechanisch
+			- Wachstum
+			- Ernährung
+			- Bedürfnisse
+	- Polis
+		- Gemeinschaft
+		- Leben
+	- Seele
+		- Vernuft
+		- Beobachten
+		- Wahrheit
+	- kein Bereich kann ohne die anderen Leben
+- Ziel
+	- Abiosis
+		- Abwerfung der Polis & Vegetion
+		- nur noch Seele
+
+# Darius Ideologie
+- hinrichtung wenn existenz zerstört
+	- nur vom staat weil objektiv und kann als einziger schuld der existenzzerstörung auf sich laden
+- staat soll rahmen schaffen, sich aber im detail raushalten
+- straftaten aufgrund von armut etc sind nie strafbar
+- Autoritäten verlieren ihre Legitimität wenn sie gegen Gesetzte verstoßen
+	- es ist eines jeden Pflicht sich gegen solche Herrscher zu stellen
+
+# Daten
+34 bank überfall
+33 sintflut - wiederbelebung
+32 grashk - kampf in höhle
+31 brunnen
+
+# Namensideen
+- Fiadh
+- Fiona
+- Phia
+- Eliora
+- Eleanora
+- Wynn
+- Gwyneth
+- Celestine
+- Pepper
+- Ffion
+- *Sina*
+- *Moon(ie)*
+- Enola
+- Zuzu
+- Guinevere
+- Finja
+- Xandria
+- Thalassa
+- *Levorya*
+- Eleonor
+- Emilia
+- *Jasmine*
+- *Waschbär*
+- *Nora*
+- *Addie*
+- *Zitrone*
+
+# Session 6
+## Intro
+Eine Region, welche immer noch im Trauern liegt beginnt langsam mit dem Aufwachen. Ich bin immer noch hier, die Krisen und Probleme sind zu präsent um in Melancholie zu verweilen und Verstorbene zu betrauern. Ihr findet euch momentan auf einer leicht befestigten Pflasterstraße Richtung Norden wieder. Auf einem von unsichtbaren Wesen gezogenem Karren. Es ist Nacht und Kühl die Luft besitzt immer noch den geringsten Hauch von Meeressalz während die Wellengeräusche langsame leiser werden. Trotz des Wissens, dass diese Worte bei mir gefangen sind, so genieße ich ihre Äußerung dennoch. Die Stadt ist momentan vielleicht einige hundert Meter von euch entfernt, ihr kommt gerade die Klippe hinauf. Paradox Ihr sitzt auf Kisten und dem blanken Holzboden. 93 ist gerade dabei sich Bruch anzuschauen während Vinsa vom Kopf des Karrens zu euch spricht. Ihr habt einen Ringträgerermordet,  in seiner eigenen Bank.
+## Reise
+- **35.02.28nA kurz nach Mitternacht**
+- Wagen mit Tarp drüber
+- Vinsa streut goldenes Pulver überm Eingang
+	- Arcanes Schloss?
+- Diskussion über Kem's Hand
+	- Vinsa, Enya und Kem wollen Rechners Hand für Kem benutzen
+	- 93 und Darius sind dagegen
+- Vinsa und Kem sind sich schonmal begegnet
+- Kem hat Probleme sich zu verwandeln
+	- länger nicht mehr probiert
+- Retrek hat seine Crew verloren
+	- war einer der erfolgreichsten Schmuggler
+	- Kem war Teil der Crew
+	- sind aufgeflogen
+		- Flaggen wurden nicht rechtzeitig geändert
+- Konkurrenz beim Schmuggel hilft weniger Aufmerksamkeit auf sich zu lenken
+- **long rest**
+- 93 baut Haut mit Ringen auseinander
+	- 93 hat nur Infos von 4 und 7
+		- keine genauen Informationen
+	- sind auf Basis von Spalteisen
+		- fast alles aus Meluzan basiert auf Spalteisen
+	- Mekem
+		- Kinstein
+			- nicht real
+			- Spalteisen reelles Gegenstück dazu
+	- Ringe vermutlich aus Spalteisen
+	- Ringe verbrauchen Spalteisen der Hand
+- Enya fragt Kem über seine Hand aus
+	- Flaggen hängen nicht damit zusammen
+		- hatte schon davor keine Hand
+	- hat Hand abgehackt bekommen
+		- will nicht sagen wer ihm die Hand abgeschnitten hat
+			- nicht auf Iskra-Level
+			- keine Piraten
+		- war nicht auf dem Meer
+	- hatte noch nichts mit Schiffen zu tun
+	- Kem vermisst sein Hand manchmal
+- Vinsa fragt Darius über Kem aus
+	- Gestaltenwandler sind selten
+		- nicht bekannt wie viele es gibt
+		- eigentlich nie in tatsächlicher Form
+	- Darius hat noch keine klare Meinung
+- **38.02.28nA Mittag**
+- Enya ist schlecht mit Daten
+- weiterhin Pflasterstraße
+- Wetter schlägt um
+	- Gewitter
+- Darius erzählt bisschen über Camp Recep
+	- Enya weiß dass War Forged Meluzan entspringen
+	- Kem weiß "bisschen"
+	- 93 ist immer noch dabei die Ringe von der Hand zu entfernen
+	- wurde während Expansion gebaut
+	- wieder verlassen
+	- später von Kriegsmaschinen besiedelt
+	- Kriegsmaschinen benutzen nicht Anarchie als Wort
+		- einfach "unser Camp"
+	- 4 & 32 führen häufiger politische Diskussionen
+	- Darius hat sich mit den meisten War Forged angefreundet
+	- Akeldama macht Kriegsmaschinen zu schaffen
+		- Spalteisen sehr schwer zu beschaffen
+			- auch Pulver bringt was
+	- keine Informationen dürfen weitergegeben werden
+		- besonders an Meluzan oder Kiranit
+	- Camp ist auf Meluzan angewiesen für Spalteisen
+		- einzige andere Miene ist unter Kudora
+			- müssten sich Mekan gleichstellen um daher Spalteisen zu bekommen
+	- Cores der Verrückten sind "angebrochen"
+	- Camp braucht Unterstützung von Außen
+		- Verlust des Existenzrechts
+		- sind auf Kampf vorbereitet
+	- 6 ist verschwunden
+- Kem kommt aus Grashk
+	- zwischen Uthlin und Grashk gereist
+- Enya kommt aus Grashk, dann Uthlin
+	- Vater von Aditonschen Inseln geflohen
+- Kriegsmaschinen können nicht Teen trinken
+- 93 findet Leichenmarsch nicht besonders beängstigend
+	- war selbst da
+	- sieht keinen Zusammenhang zwischen Geisteszustand der War Forged
+		- betrifft nicht alle die dabei waren
+		- einer verspeist Kleintiere
+		- einer klammert sich an jede Form der Autorität
+	- hinterfragt Ablehnung von Autoritäten manchmal
+- Treffen auf einen Eulenbär
+	- weite Ebene
+		- vereinzelt Bäume
+		- paar 100 Kilometer entfernt Wald
+			- Weinberge
+	- aus Richtung des Walds kommt ein Eulenbär
+		- etwa 10 -15 km entfernt
+		- abgemagert
+		- kommt auf sie zu
+	- 93 hält Gewehr bereit
+	- Eulenbär sollten nicht in der Gegend sein
+		- kommen aus Scheriums Wald
+	- Enya weiß was Eulenbären sind
+	- Essen reicht nicht für alle
+	- Darius will den Eulenbär nicht töten
+	- Enya will den Eulenbär töten
+	- Eulenbär noch 30 Meter entfernt 
+	- Enya, Kem und 93 bereiten sich auf Kampf vor
+		- Darius bleibt im Wagen
+			- castet Aid auf Enya, Kem und 93
+		- Kem schießt mit seiner Muskete
+		- Enya kann sich teleportieren
+			- versteht selbst nicht was sie macht
+	- Enya wird ordentlich vom Eulenbär verletzt
+	- Eulenbär stirbt
+	- Darius heilt Enya
+		- Cure Wounds
+	- Enya kann sich nicht mehr teleportieren
+	- Kem, 93 und Darius schneiden Fleisch vom Eulenbär
+		- reicht für mindestens eine Woche
+		- Darius nimmt Stück vom Federfell mit
+	- 
+## Namen
+- 7
+	- Waffendrill
+	- Waffel
+
+# Session 8
+Eine Region, welche immer noch im Trauern liegt, beginnt langsam mit dem Aufwachen. Ich erlebe momentan einen Einblick in das, was Poeten und Philosophen verzweifelt versuchen zu beschreiben. Die Krisen und Probleme sind zu präsent um in Melancholie zu verweilen oder Verstorbene zu betrauern. Ihr findet euch vor dem Camp wieder, die Vorfahren der Arcyziat streiten um die Wirklichkeit dieser Realität. Fügung verschwindet gerade in der Dunkelheit der Nacht, während ihr seht, wie Hülles Zentrum langsam erlischt. Eine dünne Wolke aus Spalteisen bahnt sich ihren Weg ins Camp hinein, während Einig besorgt an Hülle Rüttelt. Abiosis. "Hülle, alles wird Gut, wir sind für dich da". Hülle antwortet nicht, es starrt mit abwesendem Blick in die Lehre. Der Blick schneidet sich mit deinem, Enya.  
+## Außerhalb des Camps
+- Darius steht etwas entfernt
+- Einig Rüttelt an Hülle
+- Hülle schaut mit leerem Blick Enya an
+	- folgt ihr mit deinem Blick
+- niemand weiß was genau passiert ist
+- Darius geht zu Enya, Kem, Einig und Hülle
+	- weiß auch nicht, was man machen sollte
+- Einig will Hülle zu Waffendrill bringen
+- Unklarheit über die Ansteckbarkeit Hülles Zustand
+- Darius möchte Hülle nicht ins Camp bringen
+- Enya und Kem gehen Waffendrill holen
+## auf dem Weg ins Camp
+- Enya tötet  eine Ratte
+	- beißt Kopf ab
+	- bindet Schleife aus Darm
+	- spielt mit Überresten der Ratte
+	- ähnliches Verhalten zu Spur
+## in Waffendrills Zelt
+- Waffendrill arbeitet an seiner Hand
+- etwas entfernt läuft Schlüssel rum
+- Kem erklärt Situation
+- Waffendrill nicht begeistert dass Enya da ist
+	- wegen Ansteckung
+- im Zelt sind noch andere verletzte Warforged
+- Bruch beginnt zu zittern
+	- hält sich an Dingen fest
+- Warforged dass Kleintiere isst beginnt zu zittern
+	- beißt in der Luft rum
+- von Draußen schreit ein Warforged und rennt durchs Camp
+- Schlüssel steht im Zelteingang und fragt was los ist
+- Waffendrill fordert Schlüssel auf, Enya und Kem wegzubegleiten
+- Waffendrills Fuß wird von Bruch ergriffen
+	- Schlüssel probiert Waffendrill zu helfen
+- Kem bringt Enya raus
+- draußen ist ein Warforged mit gebrochenem Zentrum
+	- schreit
+	- rennt weg von Enya und Kem
+- Enya fühlt kurz, als sähe sie die Sicht einer anderen Person
+	- sprintet, teilweise auf allen Vieren
+	- Nacht
+	- Gestrüpp
+	- sagt "leise, seid ruhig, ich muss zurück" vor sicht hin
+- kommen bei Darius an
+## Rand vom Camp
+- Hülle starrt Enya an
+- Darius geht mit Enya ein paar Schritte weg
+	- Enya speilt noch immer mit Ratte
+	- fragt wie es Enya geht
+		- Verlangen fühlen sich fremd an
+		- Enya kann's nicht beschreiben
+		- begann zeitgleich damit, dass Hülle sie anschaut
+- Staubfahne kommt aus dem Camp
+- Darius bittet Enya, die Ratter wegzulegen
+	- Enya isst die Ratte
+- Enya wird als Sicherheitsrisiko eingestuft
+- Hülle geht langsam auf Enya zu
+	- Enya ist beleidigt / aufgebracht
+- Kems Arm ist im Camp
+- gehen gemeinsam Richtung Wald
+	- Hülle folgt ihnen
+- Einig geht zum Camp
+- schreiender Warforged kommt aus dem Camp gerannt
+	- hat Dolch von Schlüssel geklaut
+	- Schlüssel kommt hinterhergerannt
+		- möchte Dolch wiederhaben
+	- schreit "Hilfe"
+	- ersticht sich selbst
+	- Schlüssel nimmt Dolch mit
+- Schlüssel kommt zu Enya, Darius, Kem und Hülle
+	- Darius will, dass er Abstand hält
+	- Schlüssel will nicht ins Camp zurück
+- Warforged, die nach Akeldama verrückt geworden sind bringen sich um
+- die wenigen bekannten Informationen werden ausgetauscht
+- Enya versucht Schlüssels Dolch zu bekommen
+	- scheitert
+	- Darius schiebt Enya weiter
+- Schlüssel will nach Grashk
+	- Darius kann sie ankündigen
+- Enya will wieder nach dem Messer greifen
+	- Darius hält Enya an den Handgelenken fest
+- viele Warforged wollen sich mit Kudora zusammenschließen
+	- bringt laut Schlüssel nichts, weil die auch nicht mehr über Warforged wissen
+	- Status will das
+- Waffendrill will Kiranit einnehmen
+- Schlüssel will nach Grashk
+- Schlüssel will ins Camp
+- Darius will nicht zurück ins Camp
+- Darius fesselt Enya mit seinem Seil
+	- Enya will sich weiterhin selbst umbringen
+- Darius nimmt Enya jeglichen spitzen Gegenstände ab
+- Darius und Schlüssel gehen ins Camp
+	- Enyas Schwert bleibt bei Kem
+## im Camp
+- 1-2 weitere Warforged haben sich selbst umgebracht
+- Waffendrill und Status streiten lautstark neben Waffendrills Zelt
+	- Waffendrill fehlt die linke Hand
+	- Waffendrill will nach Kudora
+		- kann angeblich unterstützen
+		- schließen sich Gilde an oder gründen eigene um Relevanz zu bekommen
+	- Status ist nicht überzeugt
+		- Minderheit in der Demokratie
+- Darius möchte das Camp so schnell wie möglich räumen
+	- egal was danach passiert
+- Kudora kurz davor "Haustier" der Dynastie zu werden
+	- laut Schlüssel
+	- alle die nicht kommen werden als unzurechnungsfähig eingestuft
+- Alm kommt mit Besitzrechten des Camps
+	- beansprucht das Camp und die Warforged für sich
+- Waffendrill holt Zeug aus seinem Zelt
+	- auch Kems Hand
+- Vollversammlung wird einberufen
+	- Einig schreit laut sodass es alle hören
+## vorm Camp
+- Enya bittet Kem sie zu töten
+- Kem macht nichts
+- Enya verbrennt das Seil
+- Kem holt Ratte aus seinem Hut
+	- hat keinen Effekt auf Enya
+- Enya schubst Kem zur Seite um an ihre Waffe zu kommen
+- Enya will sich selbst erstechen
+	- Nuriels Stimme hält Enya davon ab
+		- nur in Enyas Kopf
+	- Verlangen hört auf
+	- Enya lässt Schwert sinken
+	- Kem schiebt Schwert weg
+- Hülles Fokus auf Enya lässt nach
+- Kem umarmt Enya
+- Enya stinkt aus dem Mund und hat Blut drumherum
+	- wegen gegessener Ratte
+## Versammlung
+- Versammlung im Zentrum des Camps
+	- überschaubare Menge hat sich versammelt
+	- darunter unter anderem
+		- Eule
+		- Lehm
+- Darius, Status, Waffendrill & Schlüssel reden
+	- Darius möchte die abschließende später treffen und erstmal aus Sicherheitsgründen das Camp verlassen
+		- wird von Kante hochgehoben um gesehen zu werden
+	- Status möchte nach Kudora
+		- Rätedemokratie nach dem Glaube Mekans
+		- weiß nichts wirklich über Mekan
+	- Waffendrill möchte im Camp bleiben
+		- gibt Waffen (und Hand) an Kante bevor es redet
+		- Ressourcen aus Kiranit holen
+		- Wegweiser würde auch hierbleiben
+	- Schlüssel möchte nach Grashk
+		- Stadt braucht auch Hilfe
+		- wahrscheinlich willkommen
+## Elvian Vythe
+- Enya & Kem sehen überm Camp eine Gestallt schweben
+- beide gehen zum Camp um zu warnen
+	- Hülle folgt ihnen
+- Warforged diskutieren die Möglichkeiten
+- Darius möchte gehen
+- Schlüssel möchte nicht als einziges nach Grasghk gehen
+- kleiner Streit zwischen Darius und Waffendrill
+- Status holt verbundene Schriften um Kudora zu schreiben
+- Eule unterbricht sie
+	- Wegweiser ist da
+		- Revolver in einer Hand
+		- trägt einen Umhang
+- Wegweiser spricht abwertend übers Camp
+	- hat weiteren Warforged den Standort verraten
+	- gemacht um zu gehorchen
+	- ist Deal mit Meluzan eingegangen weil Camp den Bach runter geht
+		- höhere Stellung
+		- Religiöse Freiheit
+		- Camp wird aufgelöst
+		- Symbol Meluzans muss auf jede Wand
+- Elvian Vythe ist "als Zeichen des Friedens" alleine da
+	- spricht sehr überheblich
+	- hat ein Buch in seiner Hand
+		- hat ein Auge außen
+	- Gründungsmitglieder müssen wegen Hochverrat sterben
+- Kem, Darius & Enya werden des Mords eines Ringträger, Körperverletzung, Rufmord und Terroristischen Anschlags in Grashk beschuldigt
+- Kem war Spion
+	- Elvian weiß davon
+- Elvian schwebt 2-3 Meter überm Boden
+- Kem bekommt seine Hand von Waffendrill
+	- Waffendrill hat seine Finger an Kems Hand gemacht sodass er 5 Finger hat
+- Waffendrill hat die Ringe
+- Waffendrill gesteht, dass Darius und Schlüssel vermutlich recht haben
+- Schlüssel will möglichst viele Warforged aus der Gefahrenzone bringen
+- Status betet an Elvian
+- Darius
+	- nimmt sicht eine Muskete und verfehlt schrecklich
+	- Enya bekommt bardische Inspiration
+- Elvian
+	- murmelt etwas
+	- Kem kann nicht mehr unterscheiden wer Freund und Feind ist
+		- so habe es sich angefühlt, als Evian erfuhr, dass Kem ein Spion war
+	- zeigt auf Enya
+	- fliegt in Enyas Richtung
+	- Druckwelle gegen Enyas Brust
+	- in Hand sammeln sich Blitze
+		- richten sich auf Enya
+- Wegweiser
+	- schießt mit Revolver auf Waffendrill
+	- sticht mit Armklinge zu
+- Kem
+	- verfehlt Kante
+	- versteckt sich
+- Enya
+	- raged
+	- schießt Energie aus ihrer Brust auf Elvian
+	- greift Wegweiser mit Schwert an
+- Darius
+	- läuft Enya hinterher
+	- Cure Wounds auf Enya
+	- bardische Inspiration für Enya
+- Eule 
+	- trifft Elvian
+- Elvian
+	- Blitz trifft Hülle
+		- Hülle wird gegen Wand geschleudert
+		- tot
+	- wird unsichtbar
+		- schließt Buch
+- Waffendrill und Wegweiser kämpfen
+- Kante
+	- geht zu Kem und fragt ob alles okay ist
+	- hebt Kem hoch
+- Kem
+	- kann wieder Feinde von Freunden unterscheiden
+	- sieht fliegenden Warforged Core
+		- zerstört Core
+- Wegweiser
+	- verfehlt komplett
+- Enya
+	- schneidet Beine von Wegweiser ab
+	- Waffendrill tötet Wegweiser
+- Darius
+	- Cure Wounds Lvl 2 auf Enya
+	- bardische Inspiration für Enya
+	- stellt sich hinter Fässer
+- Elvian
+	- wieder sichtbar
+	- 5 Meter über Erde
+	- greift Kem & Enya an
+	- hält Core in der Hand
+		- wird immer heller
+- Kem
+	- trifft Hand
+		- Elvian kann Buch nicht mehr halten
+- Enya
+	- greift Elvian an
+	- wirft Wegweisers Leiche nach Elvian
+		- Elvian auf dem Boden
+- Eule
+	- trifft Elvian
+	- versucht Orb aus Hand zu schlagen
+		- Buch blockt Angriff
+- Schlüssel schließt sich Kampf an
+	- hat Warforged "in Sicherheit" gebracht
+- Kante hält weiterhin Kem
+- Darius
+	- verfehlt mit seiner Armbrust
+- Elvian
+	- streckt Core Richtung Eule
+	- Eule zielt auf Waffendrill
+		- Enya wirft sich dazwischen
+	- fliegt hoch
+		- Enya greift an
+	- Druckwelle gegen Kante
+		- Kante fliegt nach hinten
+		- tot
+		- Kem kann sich am Zelt halten
+			- geht zu Kante
+	- Core in Hand
+- Kem
+	- schießt auf Elvian
+- Enya
+	- Energiestrahl auf Eule
+		- Eule ist geblendet
+	- Enya wirft Wegweisers Beine nach Elvian
+		- fällt zu Boden
+		- prone
+- Schlüssel
+	- kommt in ihre Richtung
+- Eule
+	- verfehlt komplett
+- Waffendrill
+	- wirft sich auf Elvian
+	- will Orb entreißen
+- Darius
+	- geht zu Elvian
+	- zerstört Core
+	- bindet Hand am Boden fest
+- Elvian
+	- nicht mehr am Boden
+	- greift Darius an
+		- Psychisch
+		- Kopfschmerzen
+	- wirft Darius' Dolch auf Enya
+		- Enya geht down
+	- Blitze formen sich in Hand
+		- zeigt auf Kem
+- Kem
+	- greift Elvian an
+	- geht in Deckung
+- Enya
+	- raged
+- Eule
+	- trifft Darius
+	- geht down
+- Schlüssel
+	- verfehlen
+- Waffendrill
+	- verfehlt
+	- rennt zu Kem
+	- zieht sich Ringe an
+	- fragt Kem wo sie hinwollen
+		- Verekir
+	- Kem soll zu den anderen
+	- schlägt Ring gegen eigenen Oberschenkel
+		- Spalteisen des eigenen Körpers löst sich auf
+- Elvian
+	- droht ihnen sie zu finden
+	- greift Kem an
+- Kem
+	- schießt auf Elvian
+- Enya
+	- will Elvian angreifen
+	- bricht zusammen
+	- tot
+- Waffendrill löst sich komplett auf
+- Darius, Kem & Enya werden teleportiert
+	- Gefühl des Fallens

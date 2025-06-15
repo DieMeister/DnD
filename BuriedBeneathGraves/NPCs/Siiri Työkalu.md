@@ -1,0 +1,1 @@
+Siiri ist [Darius'](../Party/Darius%20Työkalu.md) Mutter, sie starb am 13. Meavyth 007nA and einer Überdosis [Artiniqua](../Items/Artiniqua.md) und der daraus resultierenden Alkoholvergiftung gestorben.

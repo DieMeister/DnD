@@ -1,0 +1,1 @@
+Die [[Stadt]] Kiranit ist nach [Kinstein](../Items/Kinstein.md) benannt.

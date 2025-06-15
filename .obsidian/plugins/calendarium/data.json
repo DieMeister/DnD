@@ -1,0 +1,197 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Askarash",
+      "description": "Dieser Kalender beginnt mit der Machtübernahme in Karaxan und wurde bzw. wird ausschließlich in den ehemals eingenommenen Städten genutzt.",
+      "id": "ID_b97a29da8a7a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "1",
+            "id": "ID_9a69189b4ae9"
+          },
+          {
+            "type": "day",
+            "name": "2",
+            "id": "ID_6b8b8a1bbb59"
+          },
+          {
+            "type": "day",
+            "name": "3",
+            "id": "ID_4b590abb1918"
+          },
+          {
+            "type": "day",
+            "name": "4",
+            "id": "ID_297aebfac8db"
+          },
+          {
+            "type": "day",
+            "name": "5",
+            "id": "ID_9b596bdb289b"
+          },
+          {
+            "type": "day",
+            "name": "6",
+            "id": "ID_3a1bea090a2b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Mekayttz",
+            "length": 45,
+            "id": "ID_a95a98696bea",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ynkayttz",
+            "length": 45,
+            "id": "ID_5aa9d919eb4b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Meceth",
+            "length": 33,
+            "id": "ID_1b7b18cbba59",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ynceth",
+            "length": 31,
+            "id": "ID_6bf8db68590a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mestav",
+            "length": 37,
+            "id": "ID_29fb4a3a68fb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ynstav",
+            "length": 41,
+            "id": "ID_6a49f84bb91a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Moreth",
+            "length": 42,
+            "id": "ID_7b0b0b7a6b39",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ynkoreth",
+            "length": 48,
+            "id": "ID_08c8a8dbfa49",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Meavyth",
+            "length": 56,
+            "id": "ID_cb8919eafb89",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ynavith",
+            "length": 46,
+            "id": "ID_b978da9bcbe8",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "years": [],
+        "useCustomYears": false,
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 33,
+        "month": 1,
+        "year": 27
+      },
+      "events": [
+        {
+          "name": "Campaign Start",
+          "description": null,
+          "date": {
+            "month": 1,
+            "day": 30,
+            "year": 27
+          },
+          "id": "ID_387b6a98881b",
+          "note": "BuriedBeneathGraves/Introduction.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_b97a29da8a7a",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": true,
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
